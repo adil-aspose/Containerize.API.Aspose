@@ -1,0 +1,28 @@
+var class_aspose_1_1_pdf_1_1_rendering_options =
+[
+    [ "RenderingOptions", "class_aspose_1_1_pdf_1_1_rendering_options.html#a887d173c943852b9eb4be8be437b806b", null ],
+    [ "get_BarcodeOptimization", "class_aspose_1_1_pdf_1_1_rendering_options.html#a45bdbdaa41689034b998ece0e9ae0212", null ],
+    [ "get_ConvertFontsToUnicodeTTF", "class_aspose_1_1_pdf_1_1_rendering_options.html#a10e8a8fe448088f25ad25095d7a125f6", null ],
+    [ "get_DefaultFontName", "class_aspose_1_1_pdf_1_1_rendering_options.html#aa02580c5a3b7e7ea330eafcbac0f093e", null ],
+    [ "get_InterpolationHighQuality", "class_aspose_1_1_pdf_1_1_rendering_options.html#a1d4bc858c1f70b90dcb94f63858f88ad", null ],
+    [ "get_MaxFontsCacheSize", "class_aspose_1_1_pdf_1_1_rendering_options.html#abd321b6933c73c503390b023164e0bc5", null ],
+    [ "get_MaxSymbolsCacheSize", "class_aspose_1_1_pdf_1_1_rendering_options.html#a14f8284917125508c5df317ac38a184a", null ],
+    [ "get_OptimizeDimensions", "class_aspose_1_1_pdf_1_1_rendering_options.html#a033f26a8a6b537bb3176e82d977a9509", null ],
+    [ "get_ScaleImagesToFitPageWidth", "class_aspose_1_1_pdf_1_1_rendering_options.html#a350280b4e260776d8d2f2ac141b9f2a1", null ],
+    [ "get_SystemFontsNativeRendering", "class_aspose_1_1_pdf_1_1_rendering_options.html#a8bd41ef09885272dcbca7fdef8550886", null ],
+    [ "get_UseFontHinting", "class_aspose_1_1_pdf_1_1_rendering_options.html#a3754f7081b7fb79f95d294fc0698abff", null ],
+    [ "get_UseNewImagingEngine", "class_aspose_1_1_pdf_1_1_rendering_options.html#a6100c609bbc6c8c935ce4c088ba8a21b", null ],
+    [ "get_WidthExtraUnits", "class_aspose_1_1_pdf_1_1_rendering_options.html#afa2b1ecb3c6285d024555b31dcee0564", null ],
+    [ "set_BarcodeOptimization", "class_aspose_1_1_pdf_1_1_rendering_options.html#a18838e0099dcdca995e9114973010bec", null ],
+    [ "set_ConvertFontsToUnicodeTTF", "class_aspose_1_1_pdf_1_1_rendering_options.html#ae5f712947a02fe89346605586a4e8c5e", null ],
+    [ "set_DefaultFontName", "class_aspose_1_1_pdf_1_1_rendering_options.html#a8397534ba71f9546ced93295194216f6", null ],
+    [ "set_InterpolationHighQuality", "class_aspose_1_1_pdf_1_1_rendering_options.html#ae76678a3c7f9f0efb59f1ee791c31254", null ],
+    [ "set_MaxFontsCacheSize", "class_aspose_1_1_pdf_1_1_rendering_options.html#a74314e4012a7b5e88ee672805e7dd8b4", null ],
+    [ "set_MaxSymbolsCacheSize", "class_aspose_1_1_pdf_1_1_rendering_options.html#a65a0b8fc29f7fef0309efaf3bf403865", null ],
+    [ "set_OptimizeDimensions", "class_aspose_1_1_pdf_1_1_rendering_options.html#a190cfb9aa85f0ccb474a90e036d21d78", null ],
+    [ "set_ScaleImagesToFitPageWidth", "class_aspose_1_1_pdf_1_1_rendering_options.html#a22ac752ffbb87052ef054bd88c6188a8", null ],
+    [ "set_SystemFontsNativeRendering", "class_aspose_1_1_pdf_1_1_rendering_options.html#af1e75816b5709d60017221fb37b2b7dc", null ],
+    [ "set_UseFontHinting", "class_aspose_1_1_pdf_1_1_rendering_options.html#ac7070ae8e2bd7d4d6ed361652a4a38a4", null ],
+    [ "set_UseNewImagingEngine", "class_aspose_1_1_pdf_1_1_rendering_options.html#af6ae6441d8494fbad40970b291dabe5b", null ],
+    [ "set_WidthExtraUnits", "class_aspose_1_1_pdf_1_1_rendering_options.html#ad4da8e1c08fc5b9b92aad68878b22579", null ]
+];

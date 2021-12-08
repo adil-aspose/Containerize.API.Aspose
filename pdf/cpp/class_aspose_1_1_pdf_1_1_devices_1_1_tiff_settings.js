@@ -1,0 +1,25 @@
+var class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings =
+[
+    [ "TiffSettings", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#aee5235e024a5e67c2ebb6578d46855e9", null ],
+    [ "TiffSettings", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#ad704a9d36b7152c81fe4916a1ff28491", null ],
+    [ "TiffSettings", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a799e0d4a1de08e46eb6e6ca26bd67dc5", null ],
+    [ "TiffSettings", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a912f5e9fa21ec765713ad95e8fb0fa4f", null ],
+    [ "TiffSettings", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a6f25019a057fe3e544ec428782ab2de8", null ],
+    [ "TiffSettings", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#af28892cb5f1ac55d4057b71598592678", null ],
+    [ "TiffSettings", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a9bc402541ba9656625367f3aa3391dfc", null ],
+    [ "TiffSettings", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a09f2f9c4969ed5ca117d95fb39784dab", null ],
+    [ "TiffSettings", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a113c749b235da9d3687cf09ee2d0f670", null ],
+    [ "get_Brightness", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a8a44384ebe26600e78e27e142c71fba0", null ],
+    [ "get_Compression", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a926aacf9be84377f5b3e7ba68dde12f1", null ],
+    [ "get_CoordinateType", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a6dda2994039750bfd3e59ac122236607", null ],
+    [ "get_Depth", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a48f8af1f30a6796418d18958c2bf1605", null ],
+    [ "get_Margins", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a875296e69c3e3e468a9c5580c96c0110", null ],
+    [ "get_Shape", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#ab9f8ab9a7d309638f49e249a86eaa125", null ],
+    [ "get_SkipBlankPages", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a9c6ddec785cb91fac50bcb762021ddee", null ],
+    [ "set_Brightness", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a4391c3a09a3d6b13f87b06ae4a096c97", null ],
+    [ "set_Compression", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a19d0f98f29af8ffcbfdc22b68593e13a", null ],
+    [ "set_CoordinateType", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a2735439d6fa6f299657c04e5e95c957b", null ],
+    [ "set_Depth", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a681b53343a450a3b8400d2542ab92873", null ],
+    [ "set_Shape", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#a6e9ca39e6ef5d72f73472db2eced1d57", null ],
+    [ "set_SkipBlankPages", "class_aspose_1_1_pdf_1_1_devices_1_1_tiff_settings.html#aaf1be9274c7c6c4eaa9eebf17e72c232", null ]
+];

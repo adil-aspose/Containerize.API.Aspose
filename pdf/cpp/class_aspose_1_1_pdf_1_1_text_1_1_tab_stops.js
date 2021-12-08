@@ -1,0 +1,27 @@
+var class_aspose_1_1_pdf_1_1_text_1_1_tab_stops =
+[
+    [ "TabStops", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a07c1d0f45fcfc5c4a17c6111fe556054", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a907e11b405f39ce5f3e11b0c49300d17", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a5610b6dca956d1d4f3e5a45a68093c8e", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a55be1c01945e7f319d361d910a76aed2", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#ae3a71b0d44faaf8d765a91b33159c3a9", null ],
+    [ "Clone", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#ad56ec4694179ba8de580a6173231a568", null ],
+    [ "Deserialize", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#ae1712f3001f85f1b56fb2e39dd0e386e", null ],
+    [ "get_Count", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#ac25866d48b85a7fdaff673837b3966ae", null ],
+    [ "get_currentAlignment", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a13536593b59283d2ed69780ba818ad59", null ],
+    [ "get_currentLeaderLength", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a1000e1447cf24ad1dc1e4c91106fd82a", null ],
+    [ "get_currentLeaderType", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#ac50bd1c403eea9b915b5ced3e766dc30", null ],
+    [ "get_IsReadOnly", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a8af579b82e36034327ceaadde0b33cbb", null ],
+    [ "get_lastPosition", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a9a8d5873bbc41630f8f7f0650298ef89", null ],
+    [ "get_lastShift", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#ac35ec0b265af35eecb9bd20074632810", null ],
+    [ "idx_get", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#ab23a3706475409c986375aaa373a9091", null ],
+    [ "idx_set", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#aea5da845180201cb2a5d81d7265e5e1b", null ],
+    [ "set_currentAlignment", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#ad8822ffa8b6d9fef7e5e33bccb7dea3f", null ],
+    [ "set_currentLeaderLength", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a19f456d57d9e9f77636c63207df62f70", null ],
+    [ "set_currentLeaderType", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a835756acd7c1051ae2fd073ac99b3ce5", null ],
+    [ "set_IsReadOnly", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a2ed40f7efe3bd088b8cddf804f470fd3", null ],
+    [ "set_lastPosition", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#af3b6e45f08ede4376fc1bfb230a490f4", null ],
+    [ "set_lastShift", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#a1823d22bb99cc1702b503b103eeb1b26", null ],
+    [ "Aspose::Pdf::Text::TextFragment", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#adaf966872adcf89dada8d83cc8298ca1", null ],
+    [ "Aspose::Pdf::Text::TextState", "class_aspose_1_1_pdf_1_1_text_1_1_tab_stops.html#acea823f57fde8c28e7453a9c25525892", null ]
+];

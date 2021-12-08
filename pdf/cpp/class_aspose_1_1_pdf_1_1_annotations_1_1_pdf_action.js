@@ -1,0 +1,28 @@
+var class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action =
+[
+    [ "~PdfAction", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a46fdc000adcfde03cba852f2e074b00b", null ],
+    [ "CreateAction", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#ab7ea412950a333b60e554b2e397a99a0", null ],
+    [ "Execute", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a7a657a7c556c17ae094e679305bcd179", null ],
+    [ "get_EngineDict", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a4075c527d0ae962179fb4f58acdda8a6", null ],
+    [ "get_EngineObj", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#aafa2ee85aee1b27a8d8dd0870f6b4732", null ],
+    [ "get_Next", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#afabe1b5f1e88b48e0751e8fd1b14086a", null ],
+    [ "set_EngineDict", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a36c5ff86bef3b2ede69f7f8d720be301", null ],
+    [ "set_EngineObj", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a5d06c4ac10aeafc85752c1f6ec3d40a2", null ],
+    [ "ToString", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a8cb2a910e5c2fe9d2a57c90d77255bcd", null ],
+    [ "Aspose::Pdf::Annotations::ActionCollection", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a5a1fc6a2af5305299afc1074b1c587ac", null ],
+    [ "Aspose::Pdf::Annotations::DestinationFactory", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a55f8cf613486e275139a447b7438598e", null ],
+    [ "Aspose::Pdf::Annotations::DocumentActionCollection", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a91c819ae14cdefa1c943d6f541b30711", null ],
+    [ "Aspose::Pdf::Annotations::ImportDataAction", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a7fa26061cf61990f581235dec04f2595", null ],
+    [ "Aspose::Pdf::Annotations::LinkAnnotation", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#ab80a30f7def341f9ba64c7efde5d2ac8", null ],
+    [ "Aspose::Pdf::Annotations::NamedAction", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a54e6d1c8ae472771b238d18fd69e16cf", null ],
+    [ "Aspose::Pdf::Annotations::PdfActionCollection", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a28a09c2bd566b953ea9988a9d3283147", null ],
+    [ "Aspose::Pdf::Annotations::ScreenAnnotation", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a20d773fa5a14eec887a2c5011079f228", null ],
+    [ "Aspose::Pdf::Annotations::SubmitFormAction", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#ac07f7231900e5e1ffa828c95839f8246", null ],
+    [ "Aspose::Pdf::Annotations::WidgetAnnotation", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#ac966946d89c90c69f6ef5500b6af8053", null ],
+    [ "Aspose::Pdf::BaseActionCollection", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#ac9c446bba7599c11342d982b83fc1476", null ],
+    [ "Aspose::Pdf::Engine::IO::ConvertStrategies::PdfUaConvertStrategy", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#ae851e239a149624751432b5a29011f4b", null ],
+    [ "Aspose::Pdf::Forms::Field", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a1ba24aef95adae76e3fd038c893f6cde", null ],
+    [ "Aspose::Pdf::Forms::TextBoxField", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a72732d278257d99c6206f8a7b6a0f780", null ],
+    [ "Aspose::Pdf::OutlineCollection", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a3203dde7aa9505d7c34bae5df3be5eca", null ],
+    [ "Aspose::Pdf::OutlineItemCollection", "class_aspose_1_1_pdf_1_1_annotations_1_1_pdf_action.html#a36ae3112d9fccdc9df161dddf752de3f", null ]
+];

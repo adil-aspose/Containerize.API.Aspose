@@ -1,0 +1,26 @@
+var class_system_1_1_globalization_1_1_text_info =
+[
+    [ "TextInfo", "class_system_1_1_globalization_1_1_text_info.html#a58f7fe286acb0410b7acc15b2849cc73", null ],
+    [ "Clone", "class_system_1_1_globalization_1_1_text_info.html#a9e097c1a3e5f417361f28bb5a8878f57", null ],
+    [ "Equals", "class_system_1_1_globalization_1_1_text_info.html#a001a7e49bfd564ac7496de725b417b53", null ],
+    [ "get_ANSICodePage", "class_system_1_1_globalization_1_1_text_info.html#a4901ba28ea8af6e74f4a34008a5e6ae0", null ],
+    [ "get_CultureName", "class_system_1_1_globalization_1_1_text_info.html#a7b44f1cd2e9d42e1ccfaf7f744c87121", null ],
+    [ "get_EBCDICCodePage", "class_system_1_1_globalization_1_1_text_info.html#a4d9cc037c6989dfa0f763a2e97a072a7", null ],
+    [ "get_IsReadOnly", "class_system_1_1_globalization_1_1_text_info.html#acb7367e0a4841686ce480d12ad4fe265", null ],
+    [ "get_IsRightToLeft", "class_system_1_1_globalization_1_1_text_info.html#ac8e58158c1a8592b38b48b41c9de8aa2", null ],
+    [ "get_LCID", "class_system_1_1_globalization_1_1_text_info.html#afbd7c753abf06b5153a604de3ea6cdfe", null ],
+    [ "get_ListSeparator", "class_system_1_1_globalization_1_1_text_info.html#a1c481cefffd499768ef8077b36eaf364", null ],
+    [ "get_MacCodePage", "class_system_1_1_globalization_1_1_text_info.html#a6f3b8d3499384ab301e81a4f24cee1b4", null ],
+    [ "get_OEMCodePage", "class_system_1_1_globalization_1_1_text_info.html#a24bcaab546998f2bb62a0c9dd2a1b36e", null ],
+    [ "GetHashCode", "class_system_1_1_globalization_1_1_text_info.html#ac5e356c956ff4ad1e15e5ef2beabaf16", null ],
+    [ "operator=", "class_system_1_1_globalization_1_1_text_info.html#aad653b7a94cdf6c2a14a1ec773a056f1", null ],
+    [ "ReadOnly", "class_system_1_1_globalization_1_1_text_info.html#a46263025eaccdf296d897fa67ae33082", null ],
+    [ "set_ListSeparator", "class_system_1_1_globalization_1_1_text_info.html#adcecec02117a6c124d248d4ef36ad93c", null ],
+    [ "ToLower", "class_system_1_1_globalization_1_1_text_info.html#a5d36701a16b38be71203883f91ead097", null ],
+    [ "ToLower", "class_system_1_1_globalization_1_1_text_info.html#a10fdab4dd56bbc8b2bfa3b1bce4d0545", null ],
+    [ "ToString", "class_system_1_1_globalization_1_1_text_info.html#acb8200bb908e4994320bae51ec9c094c", null ],
+    [ "ToTitleCase", "class_system_1_1_globalization_1_1_text_info.html#ad77ae530e9a30bae75f4f39fe57a37eb", null ],
+    [ "ToUpper", "class_system_1_1_globalization_1_1_text_info.html#a1bfe477e8c515566efeb3b75441b98a4", null ],
+    [ "ToUpper", "class_system_1_1_globalization_1_1_text_info.html#a7a9e7fe2854fb7bff929de2db86c8ad6", null ],
+    [ "CultureInfo", "class_system_1_1_globalization_1_1_text_info.html#af41291092a4d1aa15a7829f2b5c05661", null ]
+];

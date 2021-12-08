@@ -1,0 +1,26 @@
+var class_aspose_1_1_pdf_1_1_structure_1_1_element =
+[
+    [ "Element", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#aa5f8e93a3f5c070a3fe9406a02647076", null ],
+    [ "Element", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#aad5e6e7dd678bd761cdda33f0f115f8d", null ],
+    [ "Element", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#ac1f8379ab2ea3d5c63105b7dc7ced50a", null ],
+    [ "get_ActualText", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a7b0893412ce4c05f7541ca1971df276b", null ],
+    [ "get_Alt", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a6e97e0b258ffa3e8f455bee57749ad7d", null ],
+    [ "get_Attributes", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#ae2d0769db36e7d6c4c362d25222eb40f", null ],
+    [ "get_Children", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#afb38f997202f808a0ae7df48422d1381", null ],
+    [ "get_E", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a16aedccdd6efe9305b61eabb7d2cea32", null ],
+    [ "get_Lang", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a538ab1636ebf221ef01a1378ca81e94b", null ],
+    [ "get_StructureType", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a42ab2ec7e85d43f062723192e7573b38", null ],
+    [ "get_Type", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a39e8181deb28e397287910f181c39c96", null ],
+    [ "set_ActualText", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a59e90ad0796c0dbfb714789a809624e0", null ],
+    [ "set_Alt", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a75c11232f9ecd859ac3a782a4974108c", null ],
+    [ "set_E", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a8dfeece4aacbf3bd6bc17116ca1fceca", null ],
+    [ "set_Lang", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a5d82541475028a3f2e9e6a2c8eb03495", null ],
+    [ "set_Type", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#adadc59e79f86b0742ca31fb8903585cf", null ],
+    [ "Aspose::Pdf::Structure::FigureElement", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a71a27cf897f0c9e83e0311f1300326db", null ],
+    [ "Aspose::Pdf::Structure::RootElement", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#ab493b338c7f33e596dbef6630c6aba85", null ],
+    [ "Aspose::Pdf::Structure::StructElement", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#aac50956a916b4c165eea07677479e906", null ],
+    [ "Aspose::Pdf::Structure::TextElement", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#ae1563f07845edc1a05f3f6fb715d65be", null ],
+    [ "Aspose::Pdf::XmlConverter", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a5a893cc9d3d5ce6f3bb1ab8fabd356d5", null ],
+    [ "_pdfObject", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a242a68e3651da53c454ac9752e194b05", null ],
+    [ "EngineDict", "class_aspose_1_1_pdf_1_1_structure_1_1_element.html#a5c911587c91a36869fc47b492fb452ac", null ]
+];

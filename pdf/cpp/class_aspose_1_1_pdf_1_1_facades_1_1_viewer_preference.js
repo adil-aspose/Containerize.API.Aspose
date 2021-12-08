@@ -1,0 +1,28 @@
+var class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference =
+[
+    [ "CenterWindow", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a90d4228630278ff91f0bb64e97050c84", null ],
+    [ "DirectionL2R", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a4dc66a13d4bff75905adb7e7048da1cf", null ],
+    [ "DirectionR2L", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#afae5fff430c7d942c5709b04410361db", null ],
+    [ "DisplayDocTitle", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a9b5c213b0ce1e0d0d220bccaab169393", null ],
+    [ "DuplexFlipLongEdge", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#ac19dd9716f0d77f5d746d192da69803c", null ],
+    [ "DuplexFlipShortEdge", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a01bee74aaf1dc65fc9aed3f40fc13d45", null ],
+    [ "FitWindow", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#ab8f9e9e036b0a5067a174b8630622c18", null ],
+    [ "HideMenubar", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a44905e3b4d042b743141f15d4cca363c", null ],
+    [ "HideToolbar", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a2e1672d65b70b11d898e60d210b20c09", null ],
+    [ "HideWindowUI", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a9fb80b789825b345fa72ed8ab2b277d1", null ],
+    [ "NonFullScreenPageModeUseNone", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#ae34da78ed898c5d60dfd24ad3989fc30", null ],
+    [ "NonFullScreenPageModeUseOC", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a5ab9de2322c87ba9f8a5cc2e680f904e", null ],
+    [ "NonFullScreenPageModeUseOutlines", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a4e2368f9993eed4349b7dc34dfe30a76", null ],
+    [ "NonFullScreenPageModeUseThumbs", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a96ccf5b287f164dba1cda628fb4fe3f5", null ],
+    [ "PageLayoutOneColumn", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a96a8445f84a7bc4b0b9cf489e3e21ed1", null ],
+    [ "PageLayoutSinglePage", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a2d8c81b92f3d9407482dfc14f84f93bb", null ],
+    [ "PageLayoutTwoColumnLeft", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#ada0d0f8ce3965fd4df4ccd1148590d11", null ],
+    [ "PageLayoutTwoColumnRight", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a22c27d535712a37d2bdbee3213f214bf", null ],
+    [ "PageModeFullScreen", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a2ed1f3ec979f958ac63a6abb9115cc51", null ],
+    [ "PageModeUseAttachment", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a98c5b8720c53a01d949e4498469a3e3d", null ],
+    [ "PageModeUseNone", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#ab64c9e948da110e482a8c5b9ba29766c", null ],
+    [ "PageModeUseOC", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a4ecbabd5efc7585582417d1f8250c071", null ],
+    [ "PageModeUseOutlines", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a6e8b470327765ff9604562a18ae1a9a8", null ],
+    [ "PageModeUseThumbs", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#a55c4961993f77812e3cf63e4334128d8", null ],
+    [ "Simplex", "class_aspose_1_1_pdf_1_1_facades_1_1_viewer_preference.html#ac8faf00651dafe62e0499271f752dda5", null ]
+];

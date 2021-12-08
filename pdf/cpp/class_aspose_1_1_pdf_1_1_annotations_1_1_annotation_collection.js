@@ -1,0 +1,28 @@
+var class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection =
+[
+    [ "AnnotationCollection", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a3b7cf5c3f5991272aa838e27a029da61", null ],
+    [ "~AnnotationCollection", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a43b406982b1d99bf9ad1d738eba02c1d", null ],
+    [ "Accept", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#aab2e0d301434c5f25240cd56b30245f0", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a1f7bf6c38fe2f97904a3575f5241d6c9", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#aaaa2e9a8133f2d51a053a31713866bf0", null ],
+    [ "assert_", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#aa73a625601d5ef18f356f2bd808c0a18", null ],
+    [ "Clear", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a7e998f944298c427c55b90f62bc1a628", null ],
+    [ "Contains", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#abaefb5b30395340217acf933bc059c33", null ],
+    [ "CopyTo", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a9467319524007759645df2e6e8c226b1", null ],
+    [ "Delete", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#ad58a91da82ea9f528dc28135dd25c88b", null ],
+    [ "Delete", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a8c96c80b1b290e221200cec296a83e78", null ],
+    [ "Delete", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a5bdd0c2314629473621930a30932378b", null ],
+    [ "FindByName", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a299fe81249656d7c51bda0a34075adeb", null ],
+    [ "get_Count", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a12912d894f3df4a57ac8b484f2ededb2", null ],
+    [ "get_IsReadOnly", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#aa166d605f1ea6579383ab557e31bf20a", null ],
+    [ "get_IsSynchronized", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#aba2c435b234678d25cf152704389056e", null ],
+    [ "get_SyncRoot", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#ac1f639d85d19a4d10af3a2500b0e0449", null ],
+    [ "GetEnumerator", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a02d67377a603d2ca29381daafdbb2940", null ],
+    [ "GetUnrestricted", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a1fe9d2b185716510eda1a3d75a371e6f", null ],
+    [ "idx_get", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a5a847211d6d5c4fda3b6efaa6bd59ddd", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#aa2fa7630e98f8454886b3d9485496c05", null ],
+    [ "Remove", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#ac944da8ddd67be8df90f621203208702", null ],
+    [ "Aspose::Pdf::Document", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#ac878dcffa24c8945db7d8bf4ce9c4289", null ],
+    [ "Aspose::Pdf::Page", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#a9e90343ce8e0d681a45268ccc7ceb157", null ],
+    [ "page", "class_aspose_1_1_pdf_1_1_annotations_1_1_annotation_collection.html#aa74a76a6ce4e9abeb5a86a4d31099d51", null ]
+];

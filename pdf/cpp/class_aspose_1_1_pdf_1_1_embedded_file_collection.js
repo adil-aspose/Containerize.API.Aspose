@@ -1,0 +1,26 @@
+var class_aspose_1_1_pdf_1_1_embedded_file_collection =
+[
+    [ "EmbeddedFileCollection", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#a87ce7a2a4ad1c6ea551ec6788224f3dd", null ],
+    [ "EmbeddedFileCollection", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#a12b84286846801baf82e047326b199aa", null ],
+    [ "~EmbeddedFileCollection", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#aa898c56cd858716cf602566da58ee27a", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#a56c84e3f48673f8997a61810e33eb373", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#afc64a5adca3021c5886f2e0e3e2c9b4a", null ],
+    [ "ConvertToObjects", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#ac55a47be70b431256a11712e815d4ea6", null ],
+    [ "CopyTo", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#a49460b00c11911267afbb1814fad62cb", null ],
+    [ "Delete", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#afff8b235b554a66c203464b61204b843", null ],
+    [ "Delete", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#ae52ed6f122b25127a52be1460af5b080", null ],
+    [ "DeleteByKey", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#aa0abdc115d7626f5667f9b2a8a08ba49", null ],
+    [ "FindByName", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#ae00a19063ffabd82f6db7a5b418d7ddc", null ],
+    [ "get_Count", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#a646b796ad8312d2f59808cc411b1a4fc", null ],
+    [ "get_IsSynchronized", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#a56f10f6d537e80aed9433d112f68480d", null ],
+    [ "get_Keys", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#a1f1ddd836640910ea2de76f90e758c48", null ],
+    [ "get_SyncRoot", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#ad810e70a05e36af1243286eddc58238b", null ],
+    [ "GetEnumerator", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#ad28adfe1075bd4e94b06ed25f932448b", null ],
+    [ "idx_get", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#acca9822eb0f0fa9997860c520cdcb987", null ],
+    [ "idx_get", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#ace44e27eb61de61f57da73b8989e699f", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#a8bff68ed053384a2a67f19965f8ad635", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#afc2be67f53e5e98ef0482079a68fd573", null ],
+    [ "Aspose::Pdf::Collection", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#a55bd6a517db1bd6006e3cff390ce97c9", null ],
+    [ "Aspose::Pdf::Engine::IO::ConvertStrategies::PdfAConvertStrategy", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#abbcba76dfc665bbf3e5418a13231514a", null ],
+    [ "EngineDoc", "class_aspose_1_1_pdf_1_1_embedded_file_collection.html#a29fa34186968b0a26514f265a905ffc0", null ]
+];

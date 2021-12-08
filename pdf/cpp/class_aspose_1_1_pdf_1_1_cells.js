@@ -1,0 +1,28 @@
+var class_aspose_1_1_pdf_1_1_cells =
+[
+    [ "const_iterator", "class_aspose_1_1_pdf_1_1_cells.html#aeee4ea9ad94a7a2e48a228e13cbe0419", null ],
+    [ "iterator", "class_aspose_1_1_pdf_1_1_cells.html#a9ffd521c3e8a2c25512cc475edb5b2fc", null ],
+    [ "iterator_holder_type", "class_aspose_1_1_pdf_1_1_cells.html#ad9d35757af95df3082cbd641109317b8", null ],
+    [ "Cells", "class_aspose_1_1_pdf_1_1_cells.html#ab9ae8464c8d326e29da7b5fae8011fa1", null ],
+    [ "~Cells", "class_aspose_1_1_pdf_1_1_cells.html#af0af1dac41c8e029e7efaf30173753ba", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_cells.html#afc1c8459bd60fe65f686f712ec3ac971", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_cells.html#ab00fbfe58942ef3750431326d98bbf09", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_cells.html#a27586b698d8302f2af77b3e41b215676", null ],
+    [ "Add", "class_aspose_1_1_pdf_1_1_cells.html#a7fbf683206832b19bd96fa45f7026b5b", null ],
+    [ "begin", "class_aspose_1_1_pdf_1_1_cells.html#a4de19b90375d376431f3a009f2ec9bce", null ],
+    [ "begin", "class_aspose_1_1_pdf_1_1_cells.html#a0ba23296d8622da0ec1d4d4e2617b9d0", null ],
+    [ "cbegin", "class_aspose_1_1_pdf_1_1_cells.html#aefd4c2e2a6fe31c06a029cab28eb8860", null ],
+    [ "cend", "class_aspose_1_1_pdf_1_1_cells.html#a4368aac705134d31150284bc685b95a6", null ],
+    [ "Dispose", "class_aspose_1_1_pdf_1_1_cells.html#a76e804a841715ffcdcadb5ed5007bd9f", null ],
+    [ "end", "class_aspose_1_1_pdf_1_1_cells.html#abb9c69acd3d8b199f5eb9478621977b7", null ],
+    [ "end", "class_aspose_1_1_pdf_1_1_cells.html#a5dd93ed5f20b89cce8462224defdfe86", null ],
+    [ "get_Count", "class_aspose_1_1_pdf_1_1_cells.html#aa898ad3750c3a7a441f4693bc922e7bd", null ],
+    [ "GetEnumerator", "class_aspose_1_1_pdf_1_1_cells.html#a17be511d7c012afc3385acc4a644303f", null ],
+    [ "idx_get", "class_aspose_1_1_pdf_1_1_cells.html#a9fb47f6f3fc5058adcef756caf8eb382", null ],
+    [ "idx_set", "class_aspose_1_1_pdf_1_1_cells.html#aaf5d290f6957bf439fede217c97ac9f7", null ],
+    [ "Insert", "class_aspose_1_1_pdf_1_1_cells.html#a3cd002ce6dc74bea3298d13e1a91f911", null ],
+    [ "Remove", "class_aspose_1_1_pdf_1_1_cells.html#acff8f470820407c0886f12d52afd5097", null ],
+    [ "RemoveRange", "class_aspose_1_1_pdf_1_1_cells.html#a0a296ab50a4839ea464c02ddf020b3a8", null ],
+    [ "Aspose::Pdf::Row", "class_aspose_1_1_pdf_1_1_cells.html#a3ee247a1ac119c2cfdacdad2b24861e8", null ],
+    [ "Aspose::Pdf::Table", "class_aspose_1_1_pdf_1_1_cells.html#a42e4bc80f3b5c5ad870f16be7124afff", null ]
+];

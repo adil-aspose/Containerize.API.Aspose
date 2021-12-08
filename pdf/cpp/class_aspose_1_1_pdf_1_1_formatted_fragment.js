@@ -1,0 +1,25 @@
+var class_aspose_1_1_pdf_1_1_formatted_fragment =
+[
+    [ "FormattedFragment", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a67d0fa1a11f7b3ed6341dae4d2cb2f4d", null ],
+    [ "CalculateWidth", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a8e10cb6872dac3119f2d155757ff38c1", null ],
+    [ "ConvertToPages", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#ac18e9167f67d94cb5434b22de0738b8f", null ],
+    [ "CopyFields", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#ac9dd24902c5b1285a2b683ac67b3b443", null ],
+    [ "CopyResources", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a55cafa87efb7bf14c12631671d3b0748", null ],
+    [ "Deserialize", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#ab838e80227d2d02ffdd1820b78fe0baa", null ],
+    [ "get_Height", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a9fcaa622ff3a7a26e78814f9a9487a57", null ],
+    [ "get_IsConverted", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a8dc2fd9fa8496b806ec8f56b31cc878a", null ],
+    [ "get_PageInfos", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#afa9784f65425a46bd4b6facdfd0a482c", null ],
+    [ "GetMatrix", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a3a6eb7c4da4ade0c5a7b26e1694cd5b2", null ],
+    [ "GetMatrixOperator", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a5ea66dad3850853c138b4b5c7b43e6f7", null ],
+    [ "Process", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a6124d873a9a5fbc7635ce4b17598ab50", null ],
+    [ "Serialize", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a495ed7dcf61991ab570f7c4f4e2e729f", null ],
+    [ "set_IsConverted", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a9845bec3492b1560748c74fd52128180", null ],
+    [ "set_PageInfos", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a8075f6497177dd2bce0d3f413e5466b7", null ],
+    [ "Aspose::Pdf::HtmlFragment", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#ae27d809587c9d2d1859bab1e472df1ca", null ],
+    [ "Aspose::Pdf::PageGenerator", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a8aa6a56fc0e7e7dcad88bab7bd9ce46a", null ],
+    [ "Aspose::Pdf::Row", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a3ee247a1ac119c2cfdacdad2b24861e8", null ],
+    [ "Aspose::Pdf::Table", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a42e4bc80f3b5c5ad870f16be7124afff", null ],
+    [ "Aspose::Pdf::TeXFragment", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a6f775e96a6386279a06ba467dccf3c06", null ],
+    [ "rectangle", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#ae78a8965e15a840437d16659bf6c17a2", null ],
+    [ "text", "class_aspose_1_1_pdf_1_1_formatted_fragment.html#a605230c5042bdb3618404864b0998454", null ]
+];

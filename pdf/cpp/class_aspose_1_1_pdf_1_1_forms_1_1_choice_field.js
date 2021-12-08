@@ -1,0 +1,27 @@
+var class_aspose_1_1_pdf_1_1_forms_1_1_choice_field =
+[
+    [ "ChoiceField", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a8d22e686ec97dd69fb3173925cb1aca1", null ],
+    [ "ChoiceField", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a969666f6a9df88ee01f3e35057e9a142", null ],
+    [ "ChoiceField", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#acd5288664ee9897a2ca30db928a8ceb1", null ],
+    [ "ChoiceField", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#abdbbccba3a136947a85d0762e4fc5e43", null ],
+    [ "ChoiceField", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a43259b9131003d88f84acf56b6935e50", null ],
+    [ "~ChoiceField", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a831880e1bda70b8de82af7c2021442b5", null ],
+    [ "AddOption", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a7d499c9a3404acdc8cd039a0734e355a", null ],
+    [ "AddOption", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a28b6d96a1116cf7ae41353c282d9ad97", null ],
+    [ "CreateCopy", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a0c78ca5f5bb72ef7b1aecebaed41ad48", null ],
+    [ "DeleteOption", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a90086e95139f20361c47b2d0ce46d908", null ],
+    [ "get_CommitImmediately", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a1474430788fadcec941e9ac089d1eb70", null ],
+    [ "get_MultiSelect", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#af0f1dde074897295aed6042c6a736e44", null ],
+    [ "get_Options", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a185d9a84399d6948dcb072edcb0c5220", null ],
+    [ "get_Selected", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#ae58fd8b3bce9a57a0997802ac63ff981", null ],
+    [ "get_SelectedItems", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#aa0ea39c775fe60018c7c35d3a281294b", null ],
+    [ "get_Value", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#aad8dd6dcdfb8f1f872d001eed2e2e12b", null ],
+    [ "set_CommitImmediately", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a1c86c95dd42188ffa1cbfca3c60ec624", null ],
+    [ "set_MultiSelect", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a88d56295ad1671679d5ade7539309165", null ],
+    [ "set_Selected", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#ad1fad4f5607072e89f7cc4570232fe10", null ],
+    [ "set_SelectedItems", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a3d28320c66cf20e16450127d81409da1", null ],
+    [ "set_Value", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a0c3a0c30b1192b354eacfae82d31a02e", null ],
+    [ "Aspose::Pdf::Forms::ComboBoxField", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a2b7050dce08e8a4e272e82cc4e7beef1", null ],
+    [ "Aspose::Pdf::Forms::ListBoxField", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#a5e222095c16354bc64ee5e7eb0443883", null ],
+    [ "Aspose::Pdf::Forms::RadioButtonField", "class_aspose_1_1_pdf_1_1_forms_1_1_choice_field.html#aeea3303f57dc82b0af6b5362cec05e7c", null ]
+];

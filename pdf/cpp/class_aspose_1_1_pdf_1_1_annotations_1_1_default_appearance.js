@@ -1,0 +1,28 @@
+var class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance =
+[
+    [ "DefaultAppearance", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a5b665e605bb1d4e4ff5a562bad0f8a0f", null ],
+    [ "DefaultAppearance", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a4bd149538710ed0013f371961ba178a7", null ],
+    [ "DefaultAppearance", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a9d20326818cfaede8cb4799158009e91", null ],
+    [ "DefaultAppearance", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#ab34e5d008050bab8c1eee8e4e34fa2a1", null ],
+    [ "DefaultAppearance", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#af0f26780b85841873c78c5f34c804121", null ],
+    [ "get_BorderColor", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#ac3ffb24f52102400fdbfd576645d1196", null ],
+    [ "get_Font", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a45e99337e95e75a5acfa04a631122812", null ],
+    [ "get_FontName", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#aea856b9117f710151e82611ec73aa72e", null ],
+    [ "get_FontResourceName", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a0ecc280dd9a6379c98e72f3c7863ceaf", null ],
+    [ "get_FontSize", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a3b40f705c79a2720490b693a36d72881", null ],
+    [ "get_Text", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a620ab91700a09c6d092b5f92465231f3", null ],
+    [ "get_TextColor", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a5b4eed9b02b19af49086697b0de8f7dd", null ],
+    [ "GetProgram", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a94ebc1a93b897302a2a52e336c1bcddb", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a114654f0e0fb13f88f7e68127c55b09d", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#ad4b0017021bb097eb97bb9189582863e", null ],
+    [ "set_BorderColor", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a54f2bda2a847ef8ce1e5373af85b6dec", null ],
+    [ "set_FontName", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#aebde6325810816aec67705482761e2e7", null ],
+    [ "set_FontResourceName", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a4810e451ee3759e7d54269cc34e8f8e5", null ],
+    [ "set_FontSize", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a81a71906bb90dc0231f20a82d549b028", null ],
+    [ "set_TextColor", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a4afd82d9b0f49de04d64cebd6c76099a", null ],
+    [ "Aspose::Pdf::Annotations::FreeTextAnnotation", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#ae83f85a8a89961b153c9ddc87ce22847", null ],
+    [ "Aspose::Pdf::Annotations::WidgetAnnotation", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#ac966946d89c90c69f6ef5500b6af8053", null ],
+    [ "Aspose::Pdf::Forms::Form", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a1aab1f503f76751ed8e334c3674e819b", null ],
+    [ "Aspose::Pdf::Forms::TextBoxField", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a72732d278257d99c6206f8a7b6a0f780", null ],
+    [ "Aspose::Pdf::TextBoxFieldXfa", "class_aspose_1_1_pdf_1_1_annotations_1_1_default_appearance.html#a78cace3f569669714f3eaa01db289ff4", null ]
+];

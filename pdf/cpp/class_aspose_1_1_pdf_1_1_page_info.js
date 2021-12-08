@@ -1,0 +1,27 @@
+var class_aspose_1_1_pdf_1_1_page_info =
+[
+    [ "PageInfo", "class_aspose_1_1_pdf_1_1_page_info.html#aaa3f9d23298b71a5ce4ad61cab47c221", null ],
+    [ "Clone", "class_aspose_1_1_pdf_1_1_page_info.html#a954ca62bb522ff52693f7ed9bf072180", null ],
+    [ "Deserialize", "class_aspose_1_1_pdf_1_1_page_info.html#aa91867c1c66631c3d24686f16bed3151", null ],
+    [ "get_AnyMargin", "class_aspose_1_1_pdf_1_1_page_info.html#a1dc4600c2a8fcc0ddb6e599ca84c0e7a", null ],
+    [ "get_DefaultTextState", "class_aspose_1_1_pdf_1_1_page_info.html#ab22929fa41c0812b65d80d8b1fd1d883", null ],
+    [ "get_Height", "class_aspose_1_1_pdf_1_1_page_info.html#a3f7ae5453e29cc35bf8285611a92f927", null ],
+    [ "get_IsDefault", "class_aspose_1_1_pdf_1_1_page_info.html#ab0d25104d239a8fa71e4449714ad132a", null ],
+    [ "get_IsDefaultSize", "class_aspose_1_1_pdf_1_1_page_info.html#a4f8e3f283cdef4c5cdce815f0477b326", null ],
+    [ "get_IsHeightSet", "class_aspose_1_1_pdf_1_1_page_info.html#a9dbb760cc50442e0d3f978e4112efec1", null ],
+    [ "get_IsLandscape", "class_aspose_1_1_pdf_1_1_page_info.html#a70d45aa3ba7b666faefefb467af5c6f7", null ],
+    [ "get_IsWidthSet", "class_aspose_1_1_pdf_1_1_page_info.html#a16e08f8dc2d5f8f45acf3854926bc1a9", null ],
+    [ "get_Margin", "class_aspose_1_1_pdf_1_1_page_info.html#a8aa47f52325c586e155a3f739cdff91c", null ],
+    [ "get_PureHeight", "class_aspose_1_1_pdf_1_1_page_info.html#a2a8fe4568857c2a6ecffa5e35bfbbef8", null ],
+    [ "get_Width", "class_aspose_1_1_pdf_1_1_page_info.html#ac77efa43d14b63b8a483bbd0dabb1a55", null ],
+    [ "Serialize", "class_aspose_1_1_pdf_1_1_page_info.html#abc6d7f16fc51610d29a9d3982901e96a", null ],
+    [ "set_AnyMargin", "class_aspose_1_1_pdf_1_1_page_info.html#a57484fd6a9943cf22cf9ec01a11abd85", null ],
+    [ "set_DefaultTextState", "class_aspose_1_1_pdf_1_1_page_info.html#ada963e6e97c80ea6da5276ece8602d61", null ],
+    [ "set_Height", "class_aspose_1_1_pdf_1_1_page_info.html#a235d1b198075243755dcb87a995acf64", null ],
+    [ "set_IsLandscape", "class_aspose_1_1_pdf_1_1_page_info.html#aed420980de70c84c6101960606bb8a62", null ],
+    [ "set_Margin", "class_aspose_1_1_pdf_1_1_page_info.html#af34710aef81d98cc96ce13c1d687c485", null ],
+    [ "set_Width", "class_aspose_1_1_pdf_1_1_page_info.html#a952f075f95b5397bef24fe66cd5762ca", null ],
+    [ "Aspose::Pdf::Document", "class_aspose_1_1_pdf_1_1_page_info.html#ac878dcffa24c8945db7d8bf4ce9c4289", null ],
+    [ "Aspose::Pdf::Page", "class_aspose_1_1_pdf_1_1_page_info.html#a9e90343ce8e0d681a45268ccc7ceb157", null ],
+    [ "IsMarginSet", "class_aspose_1_1_pdf_1_1_page_info.html#ad5be30e75cad6adafded6dadf5895558", null ]
+];

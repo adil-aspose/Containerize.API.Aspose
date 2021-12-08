@@ -1,0 +1,25 @@
+var class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters =
+[
+    [ "ContentsResizeParameters", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a9b4d9e53132a5f014e45bace0d726065", null ],
+    [ "ContentsResizeParameters", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a2a91b56687c7c7c3d4e2ce6616a361fd", null ],
+    [ "CalculateMargins", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a8556dff36a979546aa5c085fe7b9b594", null ],
+    [ "ContentSize", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a80028e8088a410826cdf5cfc221cdd7c", null ],
+    [ "ContentSizePercent", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a8fa5babad5afde6cfb47b43807cd5e95", null ],
+    [ "get_BottomMargin", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#aedb66123460ec0a4ea1462aaf4db26c4", null ],
+    [ "get_ContentsHeight", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a3d279fdd40bba80657509278fdb0b5ba", null ],
+    [ "get_ContentsWidth", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#aea1b89fb96b2997799c428495d15e730", null ],
+    [ "get_LeftMargin", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a52e409b2288c89658ab5d3eb2bf29f97", null ],
+    [ "get_RightMargin", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a060a73ef2f915d52b18657e5ea638ad4", null ],
+    [ "get_TopMargin", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#aa0d3113ecac28ed2f6e59b5b76de6052", null ],
+    [ "Margins", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#ace75371279fc389f42ec20fd2a7bd7b3", null ],
+    [ "MarginsPercent", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#adcd2e1c3952c083f529a7f746b65ad10", null ],
+    [ "PageResize", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#ab15cf93bf1db4141fd9a96ac29dd1327", null ],
+    [ "PageResizePct", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a92271477cb5f80f823ecaf194de4f2c0", null ],
+    [ "set_BottomMargin", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a8021fc10089d2463e6fd3ff62fae7cc6", null ],
+    [ "set_ContentsHeight", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a028782f4d05805b2d520786e20bb380c", null ],
+    [ "set_ContentsWidth", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a4280b193ae5d98be84fbaf9b648842b8", null ],
+    [ "set_LeftMargin", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a0c8fb7418b86b16c8b675fa8952741ad", null ],
+    [ "set_RightMargin", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a3ad7a4adbcc79cdb594f50e71e123489", null ],
+    [ "set_TopMargin", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#ac0e9974cd5bb0d37ea3e3905ac356fc9", null ],
+    [ "Aspose::Pdf::Facades::PdfFileEditor", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_editor_1_1_contents_resize_parameters.html#a3e3cafcbb42b83c25b0e413ed7184bb8", null ]
+];

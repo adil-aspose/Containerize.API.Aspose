@@ -1,0 +1,28 @@
+var class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation =
+[
+    [ "PDF3DAnnotation", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a9b9d1773f5cabf7900ef1c296cc6003b", null ],
+    [ "PDF3DAnnotation", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a73788dd5cc7f6c87e09d36cebd20642a", null ],
+    [ "PDF3DAnnotation", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a866dafbdaab8b47a550df4bea9ffcbb9", null ],
+    [ "~PDF3DAnnotation", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#aed1a0297547e5f5d719cfbc5cac59a7a", null ],
+    [ "Accept", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#af2da1429e2d23c13e789ed7a03ec41e4", null ],
+    [ "ClearImagePreview", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#aa522a8eff45c5a039bf6371befb0ca2d", null ],
+    [ "DeleteAllChildElements", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a5e21c6603e9f19df16489fa1aed0bcda", null ],
+    [ "get_AnnotationType", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a9543d4911b0e5d4770c3cb5ecd9b1870", null ],
+    [ "get_Content", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a44f8ca51a07753989d61870c9f7de37e", null ],
+    [ "get_LightingScheme", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a223adcf48108a95137629e302a250710", null ],
+    [ "get_Pdf3DArtwork", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a805f50626777c8203fdff10c61981c9c", null ],
+    [ "get_RenderMode", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#ad95149f1c9b1134852182f7d3276fddf", null ],
+    [ "get_ViewArray", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a6676c438d05b820064082a8fc76e3f5c", null ],
+    [ "GetImagePreview", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#ad05b3a450ca710415afbe6a34cf7688d", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#accfbcfb25409133afcf1cf86a2c271fd", null ],
+    [ "set_Content", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#aae1149bbae883fbee60687b07a9af508", null ],
+    [ "SetDefaultViewIndex", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#ad640ee7ec43aea7ae9c2ce8fefab3b89", null ],
+    [ "SetImagePreview", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a46edce904a6214beb2b5e18f0313c4ee", null ],
+    [ "SetImagePreview", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a425ceecf048a6bd58f22a33a3ec566d4", null ],
+    [ "Aspose::Pdf::Annotations::Annotation", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a7fda305c3d9961096c92e6c41af9e00c", null ],
+    [ "Aspose::Pdf::Annotations::PDF3DArtwork", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#ae2a559f2206c0c16870092e17e5dff83", null ],
+    [ "Aspose::Pdf::Annotations::PDF3DView", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a2436062e7dcde2052385ebac790854fd", null ],
+    [ "Aspose::Pdf::Annotations::PDF3DViewArray", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a1731d086b18987e68cd4773960431c3d", null ],
+    [ "DefaultView", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#afc7adef77cb9d9ab726dcd66e23648f5", null ],
+    [ "defaultViewIndex", "class_aspose_1_1_pdf_1_1_annotations_1_1_p_d_f3_d_annotation.html#a4a19ae7f7f2aec9fdd1e1847264c4b01", null ]
+];

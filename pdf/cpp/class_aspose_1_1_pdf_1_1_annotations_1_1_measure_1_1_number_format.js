@@ -1,0 +1,37 @@
+var class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format =
+[
+    [ "FractionStyle", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#acdd7092c22fbbd2cbbcd225a6c57684b", [
+      [ "ShowAsDecimal", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#acdd7092c22fbbd2cbbcd225a6c57684bab19bb706164c255b1a179b96d9460825", null ],
+      [ "ShowAsFraction", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#acdd7092c22fbbd2cbbcd225a6c57684bae9c78ab37087fd3706fdb50d8fd3afa8", null ],
+      [ "Round", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#acdd7092c22fbbd2cbbcd225a6c57684bab7f41fc1412ad2ee75e9b2635d3b9d5c", null ],
+      [ "Truncate", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#acdd7092c22fbbd2cbbcd225a6c57684baa8156810bfee2bd2b44765b9e91db3bd", null ]
+    ] ],
+    [ "NumberFormat", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a9864b89266100856c19f643332f4e668", null ],
+    [ "NumberFormat", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#ac820f89aa9bd8d43f2d4f0ec1525b114", null ],
+    [ "get_AfterText", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a5310feb8bc9004c6760ada02f4d77f93", null ],
+    [ "get_BeforeText", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a6b74d58943f73cdf87f9411b95ac6f8b", null ],
+    [ "get_ConvresionFactor", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a7715f1e53a0f23d14c2947b574a9d763", null ],
+    [ "get_Denominator", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#ab16ab10f08a73eaec97cb120e61c8a0d", null ],
+    [ "get_EngineDict", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#ac9f0bb71f42e96f5fef927c11e55b1b2", null ],
+    [ "get_ForceDenominator", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a750456053eb143b37c9f37e49ea8ab6f", null ],
+    [ "get_FractionDisplayment", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a57873c6278d461537f12c112fedffae7", null ],
+    [ "get_FractionSeparator", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a9c54915db5b6fd3fb3c360af4005be37", null ],
+    [ "get_Precision", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a01faf380bcaf54bf92a12708379ea526", null ],
+    [ "get_ThousandsSeparator", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#af465bd80e6ecfbbe1511a0023ae7c61d", null ],
+    [ "get_UnitLabel", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a691dd73f9e4755b0228cc157afe18d66", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a677ff859166580789076dc5c3701377c", null ],
+    [ "ReadXfdf", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a7b880dff6a752f42ae79d6d61d8a9c38", null ],
+    [ "set_AfterText", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a4c513be166b31490580b8048fb4fbc2e", null ],
+    [ "set_BeforeText", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#abcdef3921c4c92d8fca7a464ae1050d1", null ],
+    [ "set_ConvresionFactor", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a392c2ceab1a26baf91af0a94577b22d9", null ],
+    [ "set_Denominator", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a87c7dfe65210a954269661d61fbc898c", null ],
+    [ "set_ForceDenominator", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a3d2a99f2690418013a9ebaa5f2f9f437", null ],
+    [ "set_FractionDisplayment", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a15712a0ac992e730a8279e1e0c965618", null ],
+    [ "set_FractionSeparator", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#ad4401d3e6a7e864a180f873b9bbb3d98", null ],
+    [ "set_Precision", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#aa6b34f852e88012817675eb1dccc76b2", null ],
+    [ "set_ThousandsSeparator", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a7f2453bdbefc1869f6d05ae7e0c47355", null ],
+    [ "set_UnitLabel", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a7bdb57be4c7a39b6b059447ed9e19d3d", null ],
+    [ "TranslateFractionStyle", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a08029e462a635381cb41b48444ab1aae", null ],
+    [ "WriteXfdfAttributes", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a811f7c411cb7f241e93108cde0ec87f9", null ],
+    [ "Aspose::Pdf::Annotations::Measure", "class_aspose_1_1_pdf_1_1_annotations_1_1_measure_1_1_number_format.html#a8e63e0d328e84dab9de3dd51989eca37", null ]
+];

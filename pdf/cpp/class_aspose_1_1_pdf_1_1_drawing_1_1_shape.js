@@ -1,0 +1,26 @@
+var class_aspose_1_1_pdf_1_1_drawing_1_1_shape =
+[
+    [ "Shape", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a622e9f4ce7d4a7f326f904f34092342f", null ],
+    [ "Deserialize", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a0971a895d614a68f68cdae88bdb76db9", null ],
+    [ "get_GraphInfo", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#af38004f37f7c23733ee647c6ffa7f42c", null ],
+    [ "get_Text", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#ad07d36fcadade7a19792b56d3ac72404", null ],
+    [ "GetArrayFromString", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a42f664414c7e9a44211a468f3d57e95b", null ],
+    [ "GetArrayString", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#abae2eb9acb405aaa70a4b018d20418a4", null ],
+    [ "GetOperators", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#afc9bf9aae10f6289d59fc5852f0c119c", null ],
+    [ "GetPathOperators", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a8f2b0d47c24b4dc98729c15c6cbe37cd", null ],
+    [ "GetRect", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a91b4afcbc0ae4f562c7a15dac6081370", null ],
+    [ "GetTextOperators", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a7a2a7c316f79d6e4ac71eb81ac9c387b", null ],
+    [ "Serialize", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a6db25decb58dcc34efcc1e5979c59005", null ],
+    [ "set_GraphInfo", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a0f1c9374fad2c10bb3afbaa80f642023", null ],
+    [ "set_Text", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#ae0e8c988366e2c72f2889f630dc94094", null ],
+    [ "SetTransparency", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#ad8f25cc1cfb8428b87ff69a8b5db41af", null ],
+    [ "Aspose::Pdf::Drawing::Arc", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a0060d4de847aab3026251a81bccc2bc8", null ],
+    [ "Aspose::Pdf::Drawing::Circle", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#aa212ce4b0466fc74a26c4f4a41ff033a", null ],
+    [ "Aspose::Pdf::Drawing::Curve", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#af2d6ada7a0a66795b660e336ace01a7a", null ],
+    [ "Aspose::Pdf::Drawing::Ellipse", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a2f470e3c2be8334fe105848a7631eed5", null ],
+    [ "Aspose::Pdf::Drawing::Graph", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#ab6272882d9040d162c1a7dcac08722cb", null ],
+    [ "Aspose::Pdf::Drawing::Line", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a86a39bfc9cf552c9e8197f83eb1a7909", null ],
+    [ "Aspose::Pdf::Drawing::Path", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#ad1ac497dbd0d48909e5eb0b9426259f2", null ],
+    [ "Aspose::Pdf::Drawing::Rectangle", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#ac687ae94c78b5578b16656ab88f75fa4", null ],
+    [ "Aspose::Pdf::PageGenerator", "class_aspose_1_1_pdf_1_1_drawing_1_1_shape.html#a8aa6a56fc0e7e7dcad88bab7bd9ce46a", null ]
+];

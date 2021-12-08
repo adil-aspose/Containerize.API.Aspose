@@ -1,0 +1,4 @@
+var class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate2_collection =
+[
+    [ "~X509Certificate2Collection", "class_system_1_1_security_1_1_cryptography_1_1_x509_certificates_1_1_x509_certificate2_collection.html#a55a0f498506dd628163e9ae4583dda27", null ]
+];

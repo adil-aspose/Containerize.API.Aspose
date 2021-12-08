@@ -1,0 +1,27 @@
+var class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security =
+[
+    [ "PdfFileSecurity", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a1aea541b4fce9f0df2eeb121ae1d24fc", null ],
+    [ "PdfFileSecurity", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#abb969d8744d940f83eec86a10eaffc40", null ],
+    [ "PdfFileSecurity", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a5daf66f576ab1c365cd19deb28c78a85", null ],
+    [ "PdfFileSecurity", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a0481412a08693cb60e199e56b5cb86c5", null ],
+    [ "PdfFileSecurity", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a5d0da1293f3aea39e75018aa541db846", null ],
+    [ "PdfFileSecurity", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#ab4236a5c2e9d5a6850d0bf50eb471f65", null ],
+    [ "BindPdf", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a092125af5688ce290f6dd9f25673f467", null ],
+    [ "BindPdf", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a33101ac2d5fda6e37f284845b58c7542", null ],
+    [ "ChangePassword", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a739ab1318ae483384ff2b9f011513e31", null ],
+    [ "ChangePassword", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a3f68b4537910436841501626d35317b0", null ],
+    [ "ChangePassword", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#aba7782741d36498a157f339058a19bb7", null ],
+    [ "Close", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a7c750aa7e44e3d54bcbd67ecbf2d900d", null ],
+    [ "get_AllowExceptions", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a8a7ce2fc3aa237bc1787a960bc74cffd", null ],
+    [ "get_LastException", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a566973bff82b665916ce11b7d766eea7", null ],
+    [ "MfDecryptFile", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a9074774af2561fe63643c1178202299d", null ],
+    [ "MfEncryptFile", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a76a2416c3d3c51f2799053977b59f766", null ],
+    [ "MfEncryptFile", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a913fc91026541d7d3c91579a2a388018", null ],
+    [ "set_AllowExceptions", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a1204c3b0b8ffdeafbd4df54d5e8c63d9", null ],
+    [ "set_InputFile", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a7a71e279d4896303abaec26bbdb9ff7d", null ],
+    [ "set_InputStream", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a0120ce6809adc883e6062dad79e8cf17", null ],
+    [ "set_OutputFile", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#ab825fa9982a192eebcbffab58689c535", null ],
+    [ "set_OutputStream", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#ab9b10c5faa80005a5938432dda7d954b", null ],
+    [ "SetPrivilege", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a2fc8f9f95ee16a9cbdb969e8a8087204", null ],
+    [ "SetPrivilege", "class_aspose_1_1_pdf_1_1_facades_1_1_pdf_file_security.html#a4f85b8d13a7a747367998d44a6627675", null ]
+];

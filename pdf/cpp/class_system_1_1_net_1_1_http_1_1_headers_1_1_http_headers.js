@@ -1,0 +1,27 @@
+var class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers =
+[
+    [ "HttpHeaders", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a4ba5bfeda54db0c19702bad8296e1f29", null ],
+    [ "Add", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a6697bbc87e3918688372c1f3a953cc6e", null ],
+    [ "Add", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a013cf65913e9013ec73d659707694832", null ],
+    [ "AddHeaders", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a0ca1cf1cf919091b4b7d417b46e74722", null ],
+    [ "AddParsedValue", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#ac956c1257bd6d6bd9e0de071959947a6", null ],
+    [ "Clear", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#ae64a95526bd920044fcdb22a9e93ae2c", null ],
+    [ "Contains", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a7afa6f4602f3a36856f496d82d68310f", null ],
+    [ "ContainsParsedValue", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#ae6260f18e8582a875acc8e2a8d779ae5", null ],
+    [ "GetEnumerator", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#ac55cdf3837f3a1f110259a63454776da", null ],
+    [ "GetHeaderString", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#af536de8a40240c4fd2599698c90845ae", null ],
+    [ "GetHeaderString", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a7b42032048a6e1f5da0d6db003fbecfe", null ],
+    [ "GetHeaderStrings", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a640f4e805c401d6942865b7bc0edba6f", null ],
+    [ "GetParsedValues", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#aa6a504c4fa0371e4de61db456ec929d8", null ],
+    [ "GetValues", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#aa2c7d4f43c85bd056c9985b47c64c602", null ],
+    [ "Remove", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#af0b0aedf654b8ea39e75fb1967d8594f", null ],
+    [ "RemoveParsedValue", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a21c4f281099ca0ca6cd08baf3385cb26", null ],
+    [ "SetConfiguration", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a4133613acec972593f4d49ef309d6b2a", null ],
+    [ "SetOrRemoveParsedValue", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a90f4ae4c6a12457492e28762bb58436f", null ],
+    [ "SetParsedValue", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#ae997a5e8ea3a7719d1f5c76475a4ecdd", null ],
+    [ "ToString", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a6cefcbca4c69b349a3df20ba0c8b4697", null ],
+    [ "TryAddWithoutValidation", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a455e678b821438df0499e8694c62135a", null ],
+    [ "TryAddWithoutValidation", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a14a7ae825c41ac47f867dbc42e42888d", null ],
+    [ "TryGetValues", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a73615c5a0c6a8826b6a349ffed096339", null ],
+    [ "TryParseAndAddValue", "class_system_1_1_net_1_1_http_1_1_headers_1_1_http_headers.html#a19f25fce9d3cae01f4bc019255ef825a", null ]
+];

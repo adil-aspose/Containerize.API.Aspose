@@ -1,0 +1,25 @@
+var class_aspose_1_1_pdf_1_1_margin_info =
+[
+    [ "MarginInfo", "class_aspose_1_1_pdf_1_1_margin_info.html#a5e31ce7d5725519c4329919c709e4112", null ],
+    [ "MarginInfo", "class_aspose_1_1_pdf_1_1_margin_info.html#a350d84252d929e32f2de05f4804da797", null ],
+    [ "Clone", "class_aspose_1_1_pdf_1_1_margin_info.html#a01576ca4715013efc0b05a02f3f90294", null ],
+    [ "Deserialize", "class_aspose_1_1_pdf_1_1_margin_info.html#a1ebe2d454b53ed3eff9cbfdae70af054", null ],
+    [ "get_Bottom", "class_aspose_1_1_pdf_1_1_margin_info.html#a971f94c6fd433be84271fa20f1e7f263", null ],
+    [ "get_HasNonZeroElements", "class_aspose_1_1_pdf_1_1_margin_info.html#aa3ced4ad961f06ccef3cb8d55aa99f17", null ],
+    [ "get_IsDefault", "class_aspose_1_1_pdf_1_1_margin_info.html#ad2ed644ae011695f5745172889e6177b", null ],
+    [ "get_Left", "class_aspose_1_1_pdf_1_1_margin_info.html#aa32c2c13fbdd849c9227389ecc6f944d", null ],
+    [ "get_Right", "class_aspose_1_1_pdf_1_1_margin_info.html#a241d1623b6c8f597387a606e53795fb2", null ],
+    [ "get_Top", "class_aspose_1_1_pdf_1_1_margin_info.html#abffeaaa0667cab20d587b5ff4813b0c7", null ],
+    [ "Serialize", "class_aspose_1_1_pdf_1_1_margin_info.html#a2474f05babc5963b6d0b6404eea32ffd", null ],
+    [ "SerializePageDefault", "class_aspose_1_1_pdf_1_1_margin_info.html#a1dbd1c79482c26ec4ac9914a43b03141", null ],
+    [ "set_Bottom", "class_aspose_1_1_pdf_1_1_margin_info.html#a7dc1be62f26395b819a8fc6f7330b953", null ],
+    [ "set_Left", "class_aspose_1_1_pdf_1_1_margin_info.html#a050627343d9fc13831ca1dce28b4e28b", null ],
+    [ "set_Right", "class_aspose_1_1_pdf_1_1_margin_info.html#a05ef4c30aec02747ab0a5dc59fdb8f47", null ],
+    [ "set_Top", "class_aspose_1_1_pdf_1_1_margin_info.html#a46d1070dc0f5b29037562ecd7b7c0a42", null ],
+    [ "Aspose::Pdf::BaseParagraph", "class_aspose_1_1_pdf_1_1_margin_info.html#afb3f26768d658b74b8348df16ce7bf4a", null ],
+    [ "Aspose::Pdf::Cell", "class_aspose_1_1_pdf_1_1_margin_info.html#a3c10acfa71e9f62873e93a3ec6f40477", null ],
+    [ "Aspose::Pdf::HeaderFooter", "class_aspose_1_1_pdf_1_1_margin_info.html#aacb5763418d0d2fb4288e88e80e4dac0", null ],
+    [ "Aspose::Pdf::PageInfo", "class_aspose_1_1_pdf_1_1_margin_info.html#a78a1d9520b5e277c1c5e35a7afee4b1f", null ],
+    [ "Aspose::Pdf::Row", "class_aspose_1_1_pdf_1_1_margin_info.html#a3ee247a1ac119c2cfdacdad2b24861e8", null ],
+    [ "Aspose::Pdf::Table", "class_aspose_1_1_pdf_1_1_margin_info.html#a42e4bc80f3b5c5ad870f16be7124afff", null ]
+];
