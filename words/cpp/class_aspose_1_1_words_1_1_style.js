@@ -1,0 +1,28 @@
+﻿var class_aspose_1_1_words_1_1_style =
+[
+    [ "Equals", "class_aspose_1_1_words_1_1_style.html#equals_style", null ],
+    [ "get_Aliases", "class_aspose_1_1_words_1_1_style.html#get_aliases", null ],
+    [ "get_BaseStyleName", "class_aspose_1_1_words_1_1_style.html#get_basestylename", null ],
+    [ "get_BuiltIn", "class_aspose_1_1_words_1_1_style.html#get_builtin", null ],
+    [ "get_Document", "class_aspose_1_1_words_1_1_style.html#get_document", null ],
+    [ "get_Font", "class_aspose_1_1_words_1_1_style.html#get_font", null ],
+    [ "get_IsHeading", "class_aspose_1_1_words_1_1_style.html#get_isheading", null ],
+    [ "get_IsQuickStyle", "class_aspose_1_1_words_1_1_style.html#get_isquickstyle_const", null ],
+    [ "get_LinkedStyleName", "class_aspose_1_1_words_1_1_style.html#get_linkedstylename", null ],
+    [ "get_List", "class_aspose_1_1_words_1_1_style.html#get_list", null ],
+    [ "get_ListFormat", "class_aspose_1_1_words_1_1_style.html#get_listformat", null ],
+    [ "get_Name", "class_aspose_1_1_words_1_1_style.html#get_name_const", null ],
+    [ "get_NextParagraphStyleName", "class_aspose_1_1_words_1_1_style.html#get_nextparagraphstylename", null ],
+    [ "get_ParagraphFormat", "class_aspose_1_1_words_1_1_style.html#get_paragraphformat", null ],
+    [ "get_StyleIdentifier", "class_aspose_1_1_words_1_1_style.html#get_styleidentifier_const", null ],
+    [ "get_Styles", "class_aspose_1_1_words_1_1_style.html#get_styles_const", null ],
+    [ "get_Type", "class_aspose_1_1_words_1_1_style.html#get_type_const", null ],
+    [ "GetType", "class_aspose_1_1_words_1_1_style.html#gettype_const", null ],
+    [ "Is", "class_aspose_1_1_words_1_1_style.html#is_typeinfo_const", null ],
+    [ "Remove", "class_aspose_1_1_words_1_1_style.html#remove", null ],
+    [ "set_BaseStyleName", "class_aspose_1_1_words_1_1_style.html#set_basestylename", null ],
+    [ "set_IsQuickStyle", "class_aspose_1_1_words_1_1_style.html#set_isquickstyle", null ],
+    [ "set_Name", "class_aspose_1_1_words_1_1_style.html#set_name", null ],
+    [ "set_NextParagraphStyleName", "class_aspose_1_1_words_1_1_style.html#set_nextparagraphstylename", null ],
+    [ "Type", "class_aspose_1_1_words_1_1_style.html#type", null ]
+];

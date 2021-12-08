@@ -1,0 +1,26 @@
+﻿var class_aspose_1_1_words_1_1_fields_1_1_field_citation =
+[
+    [ "get_AnotherSourceTag", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#get_anothersourcetag", null ],
+    [ "get_FormatLanguageId", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#get_formatlanguageid", null ],
+    [ "get_PageNumber", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#get_pagenumber", null ],
+    [ "get_Prefix", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#get_prefix", null ],
+    [ "get_SourceTag", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#get_sourcetag", null ],
+    [ "get_Suffix", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#get_suffix", null ],
+    [ "get_SuppressAuthor", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#get_suppressauthor", null ],
+    [ "get_SuppressTitle", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#get_suppresstitle", null ],
+    [ "get_SuppressYear", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#get_suppressyear", null ],
+    [ "get_VolumeNumber", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#get_volumenumber", null ],
+    [ "GetType", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#gettype_const", null ],
+    [ "Is", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#is_typeinfo_const", null ],
+    [ "set_AnotherSourceTag", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#set_anothersourcetag", null ],
+    [ "set_FormatLanguageId", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#set_formatlanguageid", null ],
+    [ "set_PageNumber", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#set_pagenumber", null ],
+    [ "set_Prefix", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#set_prefix", null ],
+    [ "set_SourceTag", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#set_sourcetag", null ],
+    [ "set_Suffix", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#set_suffix", null ],
+    [ "set_SuppressAuthor", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#set_suppressauthor", null ],
+    [ "set_SuppressTitle", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#set_suppresstitle", null ],
+    [ "set_SuppressYear", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#set_suppressyear", null ],
+    [ "set_VolumeNumber", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#set_volumenumber", null ],
+    [ "Type", "class_aspose_1_1_words_1_1_fields_1_1_field_citation.html#type", null ]
+];

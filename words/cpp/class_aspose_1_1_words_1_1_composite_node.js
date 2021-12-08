@@ -1,0 +1,26 @@
+﻿var class_aspose_1_1_words_1_1_composite_node =
+[
+    [ "AppendChild", "class_aspose_1_1_words_1_1_composite_node.html#appendchild_node", null ],
+    [ "get_ChildNodes", "class_aspose_1_1_words_1_1_composite_node.html#get_childnodes", null ],
+    [ "get_Count", "class_aspose_1_1_words_1_1_composite_node.html#get_count", null ],
+    [ "get_FirstChild", "class_aspose_1_1_words_1_1_composite_node.html#get_firstchild_const", null ],
+    [ "get_HasChildNodes", "class_aspose_1_1_words_1_1_composite_node.html#get_haschildnodes", null ],
+    [ "get_IsComposite", "class_aspose_1_1_words_1_1_composite_node.html#get_iscomposite", null ],
+    [ "get_LastChild", "class_aspose_1_1_words_1_1_composite_node.html#get_lastchild_const", null ],
+    [ "GetChild", "class_aspose_1_1_words_1_1_composite_node.html#getchild_nodetype_int_bool", null ],
+    [ "GetChildNodes", "class_aspose_1_1_words_1_1_composite_node.html#getchildnodes_nodetype_bool", null ],
+    [ "GetEnumerator", "class_aspose_1_1_words_1_1_composite_node.html#getenumerator", null ],
+    [ "GetText", "class_aspose_1_1_words_1_1_composite_node.html#gettext", null ],
+    [ "GetType", "class_aspose_1_1_words_1_1_composite_node.html#gettype_const", null ],
+    [ "IndexOf", "class_aspose_1_1_words_1_1_composite_node.html#indexof_node", null ],
+    [ "InsertAfter", "class_aspose_1_1_words_1_1_composite_node.html#insertafter_node_node", null ],
+    [ "InsertBefore", "class_aspose_1_1_words_1_1_composite_node.html#insertbefore_node_node", null ],
+    [ "Is", "class_aspose_1_1_words_1_1_composite_node.html#is_typeinfo_const", null ],
+    [ "PrependChild", "class_aspose_1_1_words_1_1_composite_node.html#prependchild_node", null ],
+    [ "RemoveAllChildren", "class_aspose_1_1_words_1_1_composite_node.html#removeallchildren", null ],
+    [ "RemoveChild", "class_aspose_1_1_words_1_1_composite_node.html#removechild_node", null ],
+    [ "RemoveSmartTags", "class_aspose_1_1_words_1_1_composite_node.html#removesmarttags", null ],
+    [ "SelectNodes", "class_aspose_1_1_words_1_1_composite_node.html#selectnodes_string", null ],
+    [ "SelectSingleNode", "class_aspose_1_1_words_1_1_composite_node.html#selectsinglenode_string", null ],
+    [ "Type", "class_aspose_1_1_words_1_1_composite_node.html#type", null ]
+];

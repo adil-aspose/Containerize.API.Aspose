@@ -1,0 +1,28 @@
+﻿var class_aspose_1_1_words_1_1_drawing_1_1_text_box =
+[
+    [ "BreakForwardLink", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#breakforwardlink", null ],
+    [ "get_FitShapeToText", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_fitshapetotext", null ],
+    [ "get_InternalMarginBottom", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_internalmarginbottom", null ],
+    [ "get_InternalMarginLeft", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_internalmarginleft", null ],
+    [ "get_InternalMarginRight", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_internalmarginright", null ],
+    [ "get_InternalMarginTop", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_internalmargintop", null ],
+    [ "get_LayoutFlow", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_layoutflow", null ],
+    [ "get_Next", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_next", null ],
+    [ "get_Parent", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_parent_const", null ],
+    [ "get_Previous", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_previous", null ],
+    [ "get_TextBoxWrapMode", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_textboxwrapmode", null ],
+    [ "get_VerticalAnchor", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#get_verticalanchor", null ],
+    [ "GetType", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#gettype_const", null ],
+    [ "Is", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#is_typeinfo_const", null ],
+    [ "IsValidLinkTarget", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#isvalidlinktarget_textbox", null ],
+    [ "set_FitShapeToText", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#set_fitshapetotext", null ],
+    [ "set_InternalMarginBottom", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#set_internalmarginbottom", null ],
+    [ "set_InternalMarginLeft", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#set_internalmarginleft", null ],
+    [ "set_InternalMarginRight", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#set_internalmarginright", null ],
+    [ "set_InternalMarginTop", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#set_internalmargintop", null ],
+    [ "set_LayoutFlow", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#set_layoutflow", null ],
+    [ "set_Next", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#set_next", null ],
+    [ "set_TextBoxWrapMode", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#set_textboxwrapmode", null ],
+    [ "set_VerticalAnchor", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#set_verticalanchor", null ],
+    [ "Type", "class_aspose_1_1_words_1_1_drawing_1_1_text_box.html#type", null ]
+];

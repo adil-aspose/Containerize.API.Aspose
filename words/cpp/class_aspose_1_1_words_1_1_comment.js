@@ -1,0 +1,26 @@
+﻿var class_aspose_1_1_words_1_1_comment =
+[
+    [ "Comment", "class_aspose_1_1_words_1_1_comment.html#comment_documentbase", null ],
+    [ "Comment", "class_aspose_1_1_words_1_1_comment.html#comment_documentbase_string_string_datetime", null ],
+    [ "Accept", "class_aspose_1_1_words_1_1_comment.html#accept_documentvisitor", null ],
+    [ "AddReply", "class_aspose_1_1_words_1_1_comment.html#addreply_string_string_datetime_string", null ],
+    [ "get_Ancestor", "class_aspose_1_1_words_1_1_comment.html#get_ancestor", null ],
+    [ "get_Author", "class_aspose_1_1_words_1_1_comment.html#get_author_const", null ],
+    [ "get_DateTime", "class_aspose_1_1_words_1_1_comment.html#get_datetime_const", null ],
+    [ "get_Done", "class_aspose_1_1_words_1_1_comment.html#get_done_const", null ],
+    [ "get_Id", "class_aspose_1_1_words_1_1_comment.html#get_id_const", null ],
+    [ "get_Initial", "class_aspose_1_1_words_1_1_comment.html#get_initial_const", null ],
+    [ "get_NodeType", "class_aspose_1_1_words_1_1_comment.html#get_nodetype_const", null ],
+    [ "get_Replies", "class_aspose_1_1_words_1_1_comment.html#get_replies", null ],
+    [ "get_StoryType", "class_aspose_1_1_words_1_1_comment.html#get_storytype", null ],
+    [ "GetType", "class_aspose_1_1_words_1_1_comment.html#gettype_const", null ],
+    [ "Is", "class_aspose_1_1_words_1_1_comment.html#is_typeinfo_const", null ],
+    [ "RemoveAllReplies", "class_aspose_1_1_words_1_1_comment.html#removeallreplies", null ],
+    [ "RemoveReply", "class_aspose_1_1_words_1_1_comment.html#removereply_comment", null ],
+    [ "set_Author", "class_aspose_1_1_words_1_1_comment.html#set_author", null ],
+    [ "set_DateTime", "class_aspose_1_1_words_1_1_comment.html#set_datetime", null ],
+    [ "set_Done", "class_aspose_1_1_words_1_1_comment.html#set_done", null ],
+    [ "set_Initial", "class_aspose_1_1_words_1_1_comment.html#set_initial", null ],
+    [ "SetText", "class_aspose_1_1_words_1_1_comment.html#settext_string", null ],
+    [ "Type", "class_aspose_1_1_words_1_1_comment.html#type", null ]
+];

@@ -1,0 +1,28 @@
+﻿var class_aspose_1_1_words_1_1_fields_1_1_field_dde =
+[
+    [ "get_AutoUpdate", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_autoupdate", null ],
+    [ "get_InsertAsBitmap", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_insertasbitmap", null ],
+    [ "get_InsertAsHtml", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_insertashtml", null ],
+    [ "get_InsertAsPicture", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_insertaspicture", null ],
+    [ "get_InsertAsRtf", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_insertasrtf", null ],
+    [ "get_InsertAsText", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_insertastext", null ],
+    [ "get_InsertAsUnicode", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_insertasunicode", null ],
+    [ "get_IsLinked", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_islinked", null ],
+    [ "get_ProgId", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_progid", null ],
+    [ "get_SourceFullName", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_sourcefullname", null ],
+    [ "get_SourceItem", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#get_sourceitem", null ],
+    [ "GetType", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#gettype_const", null ],
+    [ "Is", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#is_typeinfo_const", null ],
+    [ "set_AutoUpdate", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_autoupdate", null ],
+    [ "set_InsertAsBitmap", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_insertasbitmap", null ],
+    [ "set_InsertAsHtml", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_insertashtml", null ],
+    [ "set_InsertAsPicture", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_insertaspicture", null ],
+    [ "set_InsertAsRtf", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_insertasrtf", null ],
+    [ "set_InsertAsText", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_insertastext", null ],
+    [ "set_InsertAsUnicode", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_insertasunicode", null ],
+    [ "set_IsLinked", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_islinked", null ],
+    [ "set_ProgId", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_progid", null ],
+    [ "set_SourceFullName", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_sourcefullname", null ],
+    [ "set_SourceItem", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#set_sourceitem", null ],
+    [ "Type", "class_aspose_1_1_words_1_1_fields_1_1_field_dde.html#type", null ]
+];

@@ -1,0 +1,51 @@
+#details + .groupheader {
+    display: none;
+}
+
+dl.user dd {
+    margin-left: 0px;
+}
+
+.directory td.entry {
+    padding-top: 6px;
+}
+
+.directory td.desc {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+dl.see dd {
+    color: transparent;
+}
+
+dl.see dd a:nth-child(n+2)::before {
+    content: ' ';
+    display: block;
+}
+
+div.line {
+    font-family: Consolas, Courier, monospace, fixed;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+span.keyword {
+	color: #0000FF
+}
+
+span.keywordtype {
+	color: #0000FF
+}
+
+span.comment {
+	color: #006633
+}
+
+span.stringliteral {
+	color: #CC0000
+}
+
+span.charliteral {
+	color: #CC0000
+}

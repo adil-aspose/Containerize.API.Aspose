@@ -1,0 +1,26 @@
+﻿var class_aspose_1_1_words_1_1_building_blocks_1_1_building_block =
+[
+    [ "BuildingBlock", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#buildingblock_glossarydocument", null ],
+    [ "Accept", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#accept_documentvisitor", null ],
+    [ "get_Behavior", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_behavior_const", null ],
+    [ "get_Category", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_category_const", null ],
+    [ "get_Description", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_description_const", null ],
+    [ "get_FirstSection", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_firstsection", null ],
+    [ "get_Gallery", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_gallery_const", null ],
+    [ "get_Guid", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_guid_const", null ],
+    [ "get_LastSection", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_lastsection", null ],
+    [ "get_Name", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_name_const", null ],
+    [ "get_NodeType", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_nodetype_const", null ],
+    [ "get_Sections", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_sections", null ],
+    [ "get_Type", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#get_type_const", null ],
+    [ "GetType", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#gettype_const", null ],
+    [ "Is", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#is_typeinfo_const", null ],
+    [ "set_Behavior", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#set_behavior", null ],
+    [ "set_Category", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#set_category", null ],
+    [ "set_Description", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#set_description", null ],
+    [ "set_Gallery", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#set_gallery", null ],
+    [ "set_Guid", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#set_guid", null ],
+    [ "set_Name", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#set_name", null ],
+    [ "set_Type", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#set_type", null ],
+    [ "Type", "class_aspose_1_1_words_1_1_building_blocks_1_1_building_block.html#type", null ]
+];
