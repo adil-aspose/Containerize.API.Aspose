@@ -1,0 +1,26 @@
+var class_system_1_1_drawing_1_1_string_format =
+[
+    [ "StringFormat", "class_system_1_1_drawing_1_1_string_format.html#ac3f97a2ac0d408e614ee0a2b17c4407f", null ],
+    [ "StringFormat", "class_system_1_1_drawing_1_1_string_format.html#afc6223b1d07a61694f1a29afd80aba59", null ],
+    [ "StringFormat", "class_system_1_1_drawing_1_1_string_format.html#ad0b0ba24f9514b0e8899dd25a05c00f7", null ],
+    [ "Clone", "class_system_1_1_drawing_1_1_string_format.html#aced4ddff672384fbcb51b064f54cc9e7", null ],
+    [ "get_Alignment", "class_system_1_1_drawing_1_1_string_format.html#ab2293724cacddcb275b887d0f55376ea", null ],
+    [ "get_DigitSubstitutionLanguage", "class_system_1_1_drawing_1_1_string_format.html#a62c350df38c546e294683a8e513b74e5", null ],
+    [ "get_DigitSubstitutionMethod", "class_system_1_1_drawing_1_1_string_format.html#a1e12d8ee2956f5025ce32775e87ff381", null ],
+    [ "get_FormatFlags", "class_system_1_1_drawing_1_1_string_format.html#a6b80d42425d4d6f73fc7449945ceff3f", null ],
+    [ "get_GenericDefault", "class_system_1_1_drawing_1_1_string_format.html#ae218335c9393c169a86a4b7d58fd72ec", null ],
+    [ "get_GenericTypographic", "class_system_1_1_drawing_1_1_string_format.html#ae1774763ef8e1b5a03f3f34c2fa40d21", null ],
+    [ "get_HotkeyPrefix", "class_system_1_1_drawing_1_1_string_format.html#adeafb350d6d22d846fb06e2d10db70de", null ],
+    [ "get_LineAlignment", "class_system_1_1_drawing_1_1_string_format.html#ab6b42ce585cdf70c5365c92f4c5a1ba8", null ],
+    [ "get_Trimming", "class_system_1_1_drawing_1_1_string_format.html#ad72165a2c5558596a56ef6694a928c87", null ],
+    [ "GetTabStops", "class_system_1_1_drawing_1_1_string_format.html#a5676db8461e8addcfe3ac358122b6274", null ],
+    [ "set_Alignment", "class_system_1_1_drawing_1_1_string_format.html#abdfca71189a765b535cb94d63bdf52ef", null ],
+    [ "set_FormatFlags", "class_system_1_1_drawing_1_1_string_format.html#a66f2122dabd16229774e91153b6b8b18", null ],
+    [ "set_HotkeyPrefix", "class_system_1_1_drawing_1_1_string_format.html#af47db1cb832673b9ee98990fad4353e7", null ],
+    [ "set_LineAlignment", "class_system_1_1_drawing_1_1_string_format.html#a1a73161427ede4e42c8cfe82b5217a28", null ],
+    [ "set_Trimming", "class_system_1_1_drawing_1_1_string_format.html#a3c3b735c1b3dea3c3e4c93eebb813405", null ],
+    [ "SetDigitSubstitution", "class_system_1_1_drawing_1_1_string_format.html#a29c9b640d08e49f57254d2708404943b", null ],
+    [ "SetMeasurableCharacterRanges", "class_system_1_1_drawing_1_1_string_format.html#ac8229ceb368665ff72dc9f21c9c3f4a1", null ],
+    [ "SetTabStops", "class_system_1_1_drawing_1_1_string_format.html#a96d1373d180ea3e812efb3e78e8de607", null ],
+    [ "System::Drawing::Graphics", "class_system_1_1_drawing_1_1_string_format.html#ac014393ee223401b3333e2a02a7f2387", null ]
+];

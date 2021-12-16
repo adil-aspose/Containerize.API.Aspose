@@ -1,0 +1,28 @@
+var class_aspose_1_1_slides_1_1_ole_object_frame =
+[
+    [ "~OleObjectFrame", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a4485324d014bc29e4daaebb3dc1eb8fd", null ],
+    [ "Draw", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a073a36dc70307c66c9e21432d9147997", null ],
+    [ "get_EmbeddedData", "class_aspose_1_1_slides_1_1_ole_object_frame.html#af93f3e440c4b93d9b0d8f52785501481", null ],
+    [ "get_EmbeddedFileData", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a3a009514b3f91537c8d2183a72e6357d", null ],
+    [ "get_EmbeddedFileExtension", "class_aspose_1_1_slides_1_1_ole_object_frame.html#ac356cec0b826b4a13600bf1c24bb401f", null ],
+    [ "get_EmbeddedFileLabel", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a366492d2be842b0ae0593de698542cc2", null ],
+    [ "get_EmbeddedFileName", "class_aspose_1_1_slides_1_1_ole_object_frame.html#aa376782a26cb865b942993c63bad560e", null ],
+    [ "get_IsObjectIcon", "class_aspose_1_1_slides_1_1_ole_object_frame.html#ab75926313a160752b5b33f3dbdc37e9f", null ],
+    [ "get_IsObjectLink", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a19c1a9b3863a7a3e2ba87205dc44f137", null ],
+    [ "get_LinkFileName", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a41e21966443398b45875f807f3a7d4f6", null ],
+    [ "get_LinkPathLong", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a3e37ebe839db1d79fb8c20184e3e88fe", null ],
+    [ "get_ObjectData", "class_aspose_1_1_slides_1_1_ole_object_frame.html#af6e952ae4411b295eb3763ff672ac9fc", null ],
+    [ "get_ObjectName", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a8b01cf0b94a19771493a5ad3da125d1b", null ],
+    [ "get_ObjectProgId", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a8672cc3a07d2a894d375165d5df83ab1", null ],
+    [ "get_SubstitutePictureFormat", "class_aspose_1_1_slides_1_1_ole_object_frame.html#ad451ab18eddebb25970172625ba8632e", null ],
+    [ "get_SubstitutePictureTitle", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a401be3d3463e65e76a0261e3434deb67", null ],
+    [ "get_UpdateAutomatic", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a1373fdb3c97def44da90a1d2dd454c03", null ],
+    [ "set_IsObjectIcon", "class_aspose_1_1_slides_1_1_ole_object_frame.html#ac4f8477092f78099bd2e678789603edd", null ],
+    [ "set_LinkPathLong", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a1fde46018745e72e873403ad26a4d3f0", null ],
+    [ "set_ObjectData", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a03f1671d52a5d9109b2829915e52f979", null ],
+    [ "set_ObjectName", "class_aspose_1_1_slides_1_1_ole_object_frame.html#ad55df050db1ce92b9cb00d11f3fc6556", null ],
+    [ "set_ObjectProgId", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a2e29bd737255fc6192f7eafc2e0c0836", null ],
+    [ "set_SubstitutePictureTitle", "class_aspose_1_1_slides_1_1_ole_object_frame.html#adaa00a86c64be3a8b4a56d5dd215dc6c", null ],
+    [ "set_UpdateAutomatic", "class_aspose_1_1_slides_1_1_ole_object_frame.html#ac8e4968966add03866e4e1e4e603bdc7", null ],
+    [ "SetEmbeddedData", "class_aspose_1_1_slides_1_1_ole_object_frame.html#a0d7bdc24f80abad20a0983419a7652f1", null ]
+];

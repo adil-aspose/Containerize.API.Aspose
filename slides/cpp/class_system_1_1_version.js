@@ -1,0 +1,26 @@
+var class_system_1_1_version =
+[
+    [ "Version", "class_system_1_1_version.html#a6276f739238130edf0fff3973d3d8f20", null ],
+    [ "Version", "class_system_1_1_version.html#a4da94169fc960036be80899d5a101c6d", null ],
+    [ "Version", "class_system_1_1_version.html#abad03b49c756be11a1cfd28eba9b7f98", null ],
+    [ "Version", "class_system_1_1_version.html#abf1d218f7a726ddefd44e3eb9317bce8", null ],
+    [ "Version", "class_system_1_1_version.html#ab09da96dd7852927442a3c13c1e1d93c", null ],
+    [ "CompareTo", "class_system_1_1_version.html#a4ab6e678c440db9f068b0170eebf1d34", null ],
+    [ "Equals", "class_system_1_1_version.html#a64fed3947191cc8af6708716aca79f1b", null ],
+    [ "get_Build", "class_system_1_1_version.html#ac9d92a5e07697df5def0f2358daa96c3", null ],
+    [ "get_Major", "class_system_1_1_version.html#acbd298ab8f70d975924da7eaced39ddc", null ],
+    [ "get_MajorRevision", "class_system_1_1_version.html#aff1ff23ade12de736fead3a033063713", null ],
+    [ "get_Minor", "class_system_1_1_version.html#a143922aac972a0e883c4f2987306ae2f", null ],
+    [ "get_MinorRevision", "class_system_1_1_version.html#a4045e1c9b7aa5d5cf3e5550195da06d4", null ],
+    [ "get_Revision", "class_system_1_1_version.html#ad32a9fce35c14c7161bd3773ba041fbf", null ],
+    [ "GetHashCode", "class_system_1_1_version.html#a944ab95f1a2feffc313b5b9489bbe2a1", null ],
+    [ "Parse", "class_system_1_1_version.html#aa303ddf2ada67800a6743c8e9274a6b1", null ],
+    [ "ToString", "class_system_1_1_version.html#a0517bea48c2f2e5b7b79e930cf44c204", null ],
+    [ "ToString", "class_system_1_1_version.html#a63e88662b0f7e126d9e47fd881d01d0f", null ],
+    [ "operator!=", "class_system_1_1_version.html#a1a485f7ff5cdebd33260e845bed8ea11", null ],
+    [ "operator<", "class_system_1_1_version.html#adc797b5d541f21afc837d22e8391d440", null ],
+    [ "operator<=", "class_system_1_1_version.html#ab371175cb4298080932ff01b2c7fc7a8", null ],
+    [ "operator==", "class_system_1_1_version.html#ab0d57d80b26422325a83a3cb688f1cf2", null ],
+    [ "operator>", "class_system_1_1_version.html#a81888bc36cda2cb15d4dc2ed4a9d6aac", null ],
+    [ "operator>=", "class_system_1_1_version.html#a8a5b2ee58bc3ea250d65cd0d6af223a2", null ]
+];

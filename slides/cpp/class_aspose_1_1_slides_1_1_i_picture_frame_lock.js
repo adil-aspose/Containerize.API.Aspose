@@ -1,0 +1,25 @@
+var class_aspose_1_1_slides_1_1_i_picture_frame_lock =
+[
+    [ "get_AdjustHandlesLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a3ceb2bc7c87353f6b91603ecb977ef1e", null ],
+    [ "get_ArrowheadsLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a5a528c3d7358a902dacd5ba213cbbc37", null ],
+    [ "get_AspectRatioLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a29ee8c43d662f99de361ef889e443d62", null ],
+    [ "get_CropLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#aa2a9483d3c20b128a1372c2c826fc5cc", null ],
+    [ "get_EditPointsLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#aed67bd942fa75b4d58c7e7f1c49c4da7", null ],
+    [ "get_GroupingLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a8f925abc6330aa9f038a5fac1ffcd08d", null ],
+    [ "get_PositionLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#aaec6e87bc4e32364fbc3fc9e3a4d2dfa", null ],
+    [ "get_RotationLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a5d350de108a959a2123878c10f83973c", null ],
+    [ "get_SelectLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#ad4c7837a9321bf4977a981c545ed9386", null ],
+    [ "get_ShapeTypeLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a88b34111710f6e8581d43a46bfdecfdd", null ],
+    [ "get_SizeLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a3672e1516d0994365ca8215b8cf82497", null ],
+    [ "set_AdjustHandlesLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#aa0d7fc6ca3722d05139cdfab108751cc", null ],
+    [ "set_ArrowheadsLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a01df0ef9412a211b0d8098180a8584cf", null ],
+    [ "set_AspectRatioLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#af7e8cbcf95e2e6d7f0686cd876607969", null ],
+    [ "set_CropLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a9880c3f3ffb5935e8b2b2a0e79ca59d3", null ],
+    [ "set_EditPointsLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a55c84ef9efbb386097da8920e990a253", null ],
+    [ "set_GroupingLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#ae4c146006ed21e14585fb59817e66c40", null ],
+    [ "set_PositionLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a492cc1af8202b27d895879036aa9d5ba", null ],
+    [ "set_RotationLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#af9ecce06beb5c9867e4aa2cf8e40120d", null ],
+    [ "set_SelectLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a2cb20ce01c46e72870d5831b1e9b8fc9", null ],
+    [ "set_ShapeTypeLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#a0da1890a5bc1e447af1097229764f7cf", null ],
+    [ "set_SizeLocked", "class_aspose_1_1_slides_1_1_i_picture_frame_lock.html#adc6922d648ca6aa076d8eea7bfeb2ef7", null ]
+];

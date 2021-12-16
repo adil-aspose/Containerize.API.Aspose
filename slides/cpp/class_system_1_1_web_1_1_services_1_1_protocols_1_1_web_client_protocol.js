@@ -1,0 +1,27 @@
+var class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol =
+[
+    [ "WebClientProtocol", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#af0178ce5b2632cdee204c01d8f2c56ca", null ],
+    [ "Abort", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a926e58530fae2c3374113abde3518599", null ],
+    [ "AddToCache", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#aa3c1bf52ff7443a3e7c561cae2c29b98", null ],
+    [ "get_ConnectionGroupName", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#acc21f38442f2614cd67134d424490ddc", null ],
+    [ "get_Credentials", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a6cc1296c805997b702fee6a8c5c54acb", null ],
+    [ "get_PreAuthenticate", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a7a58f4effe8cdbbb9e608d308c802ca2", null ],
+    [ "get_RequestEncoding", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#abf85410779678e72900d62cf584c138a", null ],
+    [ "get_Timeout", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#ab60618242ca4cee0eb8730499054e019", null ],
+    [ "get_Uri", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a1d9c1ff4c67030079fae9acbca048f3e", null ],
+    [ "get_Url", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a09388ae64a80255c56cee2cc17fcf89c", null ],
+    [ "get_UseDefaultCredentials", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a11480a00382da27025e748a49129ff3c", null ],
+    [ "GetFromCache", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a4813903f0f7a7435c56cd8e6eb7a8568", null ],
+    [ "GetWebRequest", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a16755e34be9d46066b4260e024ed2e87", null ],
+    [ "GetWebResponse", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#af929baa65c0e7e2a304b8527a3271169", null ],
+    [ "GetWebResponse", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a53e874ca14ee6d0b4f44f4099431e9fe", null ],
+    [ "set_ConnectionGroupName", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#ab296c3258478eb2ed13b3b0b247e0720", null ],
+    [ "set_Credentials", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a25be2c3974f4cb1da418f9e282916d85", null ],
+    [ "set_PreAuthenticate", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a17c97089e52373d5081e547743dab719", null ],
+    [ "set_RequestEncoding", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a5aea1db1b032e9e197cfdcd81abc8668", null ],
+    [ "set_Timeout", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#ac0ce8087e78057900c6ec8cb5276692f", null ],
+    [ "set_Uri", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#afe23b245e13b0aa6cacc501bc653b74d", null ],
+    [ "set_Url", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#a9f50be656a9a19cf3d273fe57700f267", null ],
+    [ "set_UseDefaultCredentials", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#ac104503a507c242ea5c2a41202e85b36", null ],
+    [ "uri", "class_system_1_1_web_1_1_services_1_1_protocols_1_1_web_client_protocol.html#ab7b6b65cdf0ef12f7772dc4bc2a1b8b3", null ]
+];

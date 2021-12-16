@@ -1,0 +1,27 @@
+var class_system_1_1_i_o_1_1_unmanaged_memory_stream =
+[
+    [ "UnmanagedMemoryStream", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a3977d091e7a3c2cc12d3ad0d174109d5", null ],
+    [ "UnmanagedMemoryStream", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a214d089c2fbf49f8a695065b7d79bd62", null ],
+    [ "UnmanagedMemoryStream", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#aeb1c160500cd4efc1a99968b4c8fd232", null ],
+    [ "UnmanagedMemoryStream", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#ab8a1291445ebfdb02e20024b78577aaf", null ],
+    [ "Dispose", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a73b89959c987d06ea988440236b30763", null ],
+    [ "Flush", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a6ea467b6cdb4a9540fc953c9cc3bd86f", null ],
+    [ "get_CanRead", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a193586432ea1bf24dce5734bbd95e801", null ],
+    [ "get_CanSeek", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a2611acaf9ae914efa60bdea758a5f517", null ],
+    [ "get_CanWrite", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a99cc6a53681361475d84cacd763770d4", null ],
+    [ "get_Capacity", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a8f41561d9624175752dc9574d1ce8454", null ],
+    [ "get_Length", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a4b21ac72595dd0998438bc6b3587efcb", null ],
+    [ "get_Pointer", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a66bf4ba5ae76e55f3225f4171496f4fe", null ],
+    [ "get_Position", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a37cff6cb3cf37a648e4b20dc344f6b19", null ],
+    [ "get_PositionPointer", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a3bb569bdd3afe8fb55a274156f0414f9", null ],
+    [ "Initialize", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a37ceb55e728b2641fabe204f5dd9353e", null ],
+    [ "Initialize", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#aac398ef79382f1b69c5e81a3756a15aa", null ],
+    [ "Memcpy", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#ae926a602a35744d641ff0d9044ebc021", null ],
+    [ "Read", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a2e53ba2f6d4f40dedde319ab2622d00a", null ],
+    [ "Seek", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a6a1c1c6562df13c22cfe66dc9849f600", null ],
+    [ "set_Position", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#add6b0bc43a03ca5bc648f94d9a43c2d8", null ],
+    [ "set_PositionPointer", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a37956d813826ea7b2c9844f3beb60d72", null ],
+    [ "SetLength", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a60d4cbda042533f7fa3c8447b0e180a7", null ],
+    [ "Write", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a4074714471eaf287bbf09ec77496ceae", null ],
+    [ "_isOpen", "class_system_1_1_i_o_1_1_unmanaged_memory_stream.html#a6c3821b0a51046b55c2cac1565c75ea2", null ]
+];

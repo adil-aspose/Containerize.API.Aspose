@@ -1,0 +1,26 @@
+var class_system_1_1_globalization_1_1_hijri_calendar =
+[
+    [ "HijriCalendar", "class_system_1_1_globalization_1_1_hijri_calendar.html#a0ab665c98a8a3de86676d348af3478c2", null ],
+    [ "Clone", "class_system_1_1_globalization_1_1_hijri_calendar.html#a598ecf58bf249457c5df5261a4893765", null ],
+    [ "get_AlgorithmType", "class_system_1_1_globalization_1_1_hijri_calendar.html#a00ab6376ab8f69868f2031aee8e5c486", null ],
+    [ "get_Eras", "class_system_1_1_globalization_1_1_hijri_calendar.html#a1a9ff3542c753f471faebcac2ee41bc3", null ],
+    [ "get_HijriAdjustment", "class_system_1_1_globalization_1_1_hijri_calendar.html#adf0789920aba19069c8a15ca2b0549c9", null ],
+    [ "get_ID", "class_system_1_1_globalization_1_1_hijri_calendar.html#a15dc00b98b8aa3c33bf69fce9bcfb1f0", null ],
+    [ "get_MaxSupportedDateTime", "class_system_1_1_globalization_1_1_hijri_calendar.html#a379186b41df0dbdef6d57dcbfb4649d1", null ],
+    [ "get_MinSupportedDateTime", "class_system_1_1_globalization_1_1_hijri_calendar.html#a34af037b28eb5a59f83b1880b81e3eac", null ],
+    [ "GetDayOfWeek", "class_system_1_1_globalization_1_1_hijri_calendar.html#a3b750afcc188ec9ffb6e292e556f064b", null ],
+    [ "GetLeapMonth", "class_system_1_1_globalization_1_1_hijri_calendar.html#a907bc790b7c7b0efa6916c1c384194b7", null ],
+    [ "GetLeapMonth", "class_system_1_1_globalization_1_1_hijri_calendar.html#acdc6c2363149c825a65a8a1e3d51a327", null ],
+    [ "GetLeapMonth", "class_system_1_1_globalization_1_1_hijri_calendar.html#a6ac1e440742550db649164a7be954c19", null ],
+    [ "IsLeapDay", "class_system_1_1_globalization_1_1_hijri_calendar.html#aa713d31c0fe675f8e6ae35e424aa9cb3", null ],
+    [ "IsLeapDay", "class_system_1_1_globalization_1_1_hijri_calendar.html#aade05165f7cff8c76200852da3eaf100", null ],
+    [ "IsLeapDay", "class_system_1_1_globalization_1_1_hijri_calendar.html#acbd9d31a6360b771f6ffad7ef56d6022", null ],
+    [ "IsLeapMonth", "class_system_1_1_globalization_1_1_hijri_calendar.html#acafa9e16fe83bcec12b183b381b07c83", null ],
+    [ "IsLeapMonth", "class_system_1_1_globalization_1_1_hijri_calendar.html#ab65d6d51d823ca1e2a698b04de872546", null ],
+    [ "IsLeapMonth", "class_system_1_1_globalization_1_1_hijri_calendar.html#a9c7836a3991184ad91405975d3426132", null ],
+    [ "IsLeapYear", "class_system_1_1_globalization_1_1_hijri_calendar.html#af217741936d8b7a4fa757bcfd17bb3d1", null ],
+    [ "IsLeapYear", "class_system_1_1_globalization_1_1_hijri_calendar.html#ac6fcfa3830f21068f679d980addd238e", null ],
+    [ "IsLeapYear", "class_system_1_1_globalization_1_1_hijri_calendar.html#a8f2eece4a12fb78104fbf9674a2a47f4", null ],
+    [ "set_HijriAdjustment", "class_system_1_1_globalization_1_1_hijri_calendar.html#a57be459bc75abafa3c2dc2d4bd80d072", null ],
+    [ "HijriEra", "class_system_1_1_globalization_1_1_hijri_calendar.html#a33f885fa3e674e6f40ca6e73a2bb6eb7", null ]
+];

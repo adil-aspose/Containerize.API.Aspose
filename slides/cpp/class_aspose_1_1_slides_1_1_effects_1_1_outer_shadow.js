@@ -1,0 +1,26 @@
+var class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow =
+[
+    [ "~OuterShadow", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a529d84c9ac4ba410727ef5481eaa250a", null ],
+    [ "Equals", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a38293715bfd1525faf88b1a2df2ee9e9", null ],
+    [ "get_BlurRadius", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a4247aeed841533381aef1f27e399fedd", null ],
+    [ "get_Direction", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#ae91b17b29287d996d15e4d86f9fdc29b", null ],
+    [ "get_Distance", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a2dcf6427d1168da938c756f3a6f2951a", null ],
+    [ "get_RectangleAlign", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a2a63bfbb0be194159263891756c07abb", null ],
+    [ "get_RotateShadowWithShape", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#ad5e9b621d306ac3154d6a30f74dd7e3b", null ],
+    [ "get_ScaleHorizontal", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a81e227a7211486198b3da3f4d559d507", null ],
+    [ "get_ScaleVertical", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a047157af1804478d46b01583a8fb05b8", null ],
+    [ "get_ShadowColor", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#ad8b5a73b3f864d2c5271ec7b0123f7cd", null ],
+    [ "get_SkewHorizontal", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#ac8c76be05c51a8a7f79e7b65ae1be907", null ],
+    [ "get_SkewVertical", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a483d351e44a243148de3235d28aa2e14", null ],
+    [ "GetEffective", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a390ed348ce402b7c2bd1fd98d4450135", null ],
+    [ "GetHashCode", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a1e891eaa702760dd354ca6208c9ae69e", null ],
+    [ "set_BlurRadius", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#ad8963dd7f0fda9a7c96bd3cfb08e98be", null ],
+    [ "set_Direction", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#ac97a27b020b8ecb429d6ab02d2c4b57e", null ],
+    [ "set_Distance", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a80c7806ea7f64a29b2cbfb2cf8921b07", null ],
+    [ "set_RectangleAlign", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a232c384832ee4af3da2167f0cadcf95b", null ],
+    [ "set_RotateShadowWithShape", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a7b8f75ea18a63c4338d10fce1f273938", null ],
+    [ "set_ScaleHorizontal", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a3d28571c7e3e958eca27c8e3fffa61a4", null ],
+    [ "set_ScaleVertical", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#a12e4baca1ab1579be4b6014e4086436e", null ],
+    [ "set_SkewHorizontal", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#ae9b6ba4558ed65b76349edd04f467dbc", null ],
+    [ "set_SkewVertical", "class_aspose_1_1_slides_1_1_effects_1_1_outer_shadow.html#aa022c4fe2147ee7f8fee7ec88588d742", null ]
+];

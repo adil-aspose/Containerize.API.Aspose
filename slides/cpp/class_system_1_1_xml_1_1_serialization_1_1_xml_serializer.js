@@ -1,0 +1,25 @@
+var class_system_1_1_xml_1_1_serialization_1_1_xml_serializer =
+[
+    [ "XmlSerializer", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a4068fff2dc9d8804a9e14bfe4c5354da", null ],
+    [ "CanDeserialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#ae17130300d7f25762bd6d2a43e5c7a2a", null ],
+    [ "CreateReader", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#af97044e1e9aafb58cfb358b05d66e716", null ],
+    [ "CreateWriter", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a1abb665d0db4cdbfb6a39de33c11a339", null ],
+    [ "Deserialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a4010b1ccacd910fb34a5c28e27aa8f1a", null ],
+    [ "Deserialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#adda23f3c856468ba1c6aafcefc3934cb", null ],
+    [ "Deserialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#ab48d6d611ff2285e2b1370fa991687a9", null ],
+    [ "Deserialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#abf4c9fb775e6b9a32bbd9bb97053c123", null ],
+    [ "Deserialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a783b467974185f0a44a9c19905d82e99", null ],
+    [ "get_DefaultEncoding", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a2a1fff9f56be736a981a91ef3c20850f", null ],
+    [ "Serialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#afff3df54505cd68fee93b0724d19c02e", null ],
+    [ "Serialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a269a9c695d4e9ff936d92bed3c2cd3cb", null ],
+    [ "Serialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#af8699f7e0cc69abfcbccbbf90d642a87", null ],
+    [ "Serialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a9f55ef3621c5fa0fe65d089d514b5f01", null ],
+    [ "Serialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#af948d3d4af774a24c646a8bf3f50de0c", null ],
+    [ "Serialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#af1a338f492eb725784803ea506cb4294", null ],
+    [ "Serialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a9a563599e1fe631f2015009eeaa158e9", null ],
+    [ "Serialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a8a8d99497f67ec56abbb4b26b310a3a1", null ],
+    [ "Serialize", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a406604abeefa66246bfbc515b4964546", null ],
+    [ "EncodingNamespace", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#acf3e3c7d8cb4c9abb5d0773e6c3550d8", null ],
+    [ "WsdlNamespace", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a8b9a54b5fe890144021d2372145bf587", null ],
+    [ "WsdlTypesNamespace", "class_system_1_1_xml_1_1_serialization_1_1_xml_serializer.html#a79426afb27fbcfe78a6b3a1033de2ce9", null ]
+];

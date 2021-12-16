@@ -1,0 +1,25 @@
+var class_system_1_1_net_1_1_web_header_collection =
+[
+    [ "WebHeaderCollection", "class_system_1_1_net_1_1_web_header_collection.html#a76ee884d6fcea20a5e0b720ba70e5eb9", null ],
+    [ "~WebHeaderCollection", "class_system_1_1_net_1_1_web_header_collection.html#a762f99d84d411fb97a5f35689bba7f23", null ],
+    [ "Add", "class_system_1_1_net_1_1_web_header_collection.html#acde23bc6ee6b9ec622c0a52ab7b00491", null ],
+    [ "Add", "class_system_1_1_net_1_1_web_header_collection.html#a6ac2c796bc92430b535eee6cf321ae14", null ],
+    [ "Add", "class_system_1_1_net_1_1_web_header_collection.html#a66daef8758d931201e2aacbe348afcd2", null ],
+    [ "AllKeys", "class_system_1_1_net_1_1_web_header_collection.html#a4464d76b250199f8e89c4a50f287bd97", null ],
+    [ "get_Count", "class_system_1_1_net_1_1_web_header_collection.html#ab89cbbbbe683589653af3e05ac7b0db4", null ],
+    [ "get_Keys", "class_system_1_1_net_1_1_web_header_collection.html#ad787b2d4a88ddf3af2da87636ba98b27", null ],
+    [ "GetKey", "class_system_1_1_net_1_1_web_header_collection.html#a4b1e85a0d6b2d46ded9b1baff694563c", null ],
+    [ "GetValues", "class_system_1_1_net_1_1_web_header_collection.html#a59da06f47bd31cc6a1afa0e3a786c6c3", null ],
+    [ "idx_get", "class_system_1_1_net_1_1_web_header_collection.html#abcf2788df08aa985b2c78fb9df6ed27b", null ],
+    [ "idx_get", "class_system_1_1_net_1_1_web_header_collection.html#a841968861a4469585e37249366fc0031", null ],
+    [ "idx_get", "class_system_1_1_net_1_1_web_header_collection.html#a4f2b11054d794e14dc6d72819c46e4da", null ],
+    [ "idx_set", "class_system_1_1_net_1_1_web_header_collection.html#ae278b9daccfea1409e0075e491a5871d", null ],
+    [ "idx_set", "class_system_1_1_net_1_1_web_header_collection.html#a434fd859da8832f4fa98af23d7150d65", null ],
+    [ "idx_set", "class_system_1_1_net_1_1_web_header_collection.html#ab6fcecde0a0d87d32758c8926b8e6d15", null ],
+    [ "IsRestricted", "class_system_1_1_net_1_1_web_header_collection.html#af92666278d832ed33f1f612ad38b0344", null ],
+    [ "Remove", "class_system_1_1_net_1_1_web_header_collection.html#a5ce052f4882c3f1b2546203452a5b08c", null ],
+    [ "Remove", "class_system_1_1_net_1_1_web_header_collection.html#ac5b3540f2214cdbc8aa5243a30c49309", null ],
+    [ "Remove", "class_system_1_1_net_1_1_web_header_collection.html#a319db1d77481049e18b6ed49f6513a8b", null ],
+    [ "Set", "class_system_1_1_net_1_1_web_header_collection.html#a13ac60f58f2b11be2edd757747c59173", null ],
+    [ "ToString", "class_system_1_1_net_1_1_web_header_collection.html#a48f403a880a47055da088c055e35cdd2", null ]
+];

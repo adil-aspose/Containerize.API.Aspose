@@ -1,0 +1,27 @@
+var class_aspose_1_1_slides_1_1_bullet_format =
+[
+    [ "~BulletFormat", "class_aspose_1_1_slides_1_1_bullet_format.html#acf5d6f11e85804ebc78e0e6ab61c9360", null ],
+    [ "ApplyDefaultParagraphIndentsShifts", "class_aspose_1_1_slides_1_1_bullet_format.html#acfd070a979b10ec3dc6fe69c0ab87cd5", null ],
+    [ "CreateChildObjects", "class_aspose_1_1_slides_1_1_bullet_format.html#abe8c93905fb7c92596c94a55a271a249", null ],
+    [ "CreateRealObject", "class_aspose_1_1_slides_1_1_bullet_format.html#a7bdb7bf2164a05466c0a84c99348f017", null ],
+    [ "get_Char", "class_aspose_1_1_slides_1_1_bullet_format.html#a5437a9042e17bca683479f89860b6a66", null ],
+    [ "get_Color", "class_aspose_1_1_slides_1_1_bullet_format.html#aab3e7cc3d46b81e3a154d71f7a04e6d1", null ],
+    [ "get_Font", "class_aspose_1_1_slides_1_1_bullet_format.html#ab60eecbc7e80e4b09703d2a76be5f5b0", null ],
+    [ "get_Height", "class_aspose_1_1_slides_1_1_bullet_format.html#a217842432cb4d6f517966545a1716ead", null ],
+    [ "get_IsBulletHardColor", "class_aspose_1_1_slides_1_1_bullet_format.html#aacd300575f5176a06eafe66466676381", null ],
+    [ "get_IsBulletHardFont", "class_aspose_1_1_slides_1_1_bullet_format.html#a6fbb3678f61b950ebba14b65b128a484", null ],
+    [ "get_NumberedBulletStartWith", "class_aspose_1_1_slides_1_1_bullet_format.html#a376c13ee9662d4ddef2a712da51153b4", null ],
+    [ "get_NumberedBulletStyle", "class_aspose_1_1_slides_1_1_bullet_format.html#a50bbb283bebbc9875af1e0e9544aa33a", null ],
+    [ "get_Picture", "class_aspose_1_1_slides_1_1_bullet_format.html#a7a56a5ffac62f5e81f98e6deec264db9", null ],
+    [ "get_Type", "class_aspose_1_1_slides_1_1_bullet_format.html#a53c2a6edd9a0ddc8563188a7f3d00be9", null ],
+    [ "get_Version", "class_aspose_1_1_slides_1_1_bullet_format.html#aa026e025aacc95b3b78ecbfcac7c2b57", null ],
+    [ "GetEffective", "class_aspose_1_1_slides_1_1_bullet_format.html#a8623d674f833d037715d186db1811978", null ],
+    [ "set_Char", "class_aspose_1_1_slides_1_1_bullet_format.html#a673c50197ee1c259b08cd5ae27988716", null ],
+    [ "set_Font", "class_aspose_1_1_slides_1_1_bullet_format.html#ac6e7764e3bab1af7935f7be9680cd8a0", null ],
+    [ "set_Height", "class_aspose_1_1_slides_1_1_bullet_format.html#acea76a2a1f619d561921b8a2830114a5", null ],
+    [ "set_IsBulletHardColor", "class_aspose_1_1_slides_1_1_bullet_format.html#a705b80c25ab0b04fe1ae9e560bee7d2d", null ],
+    [ "set_IsBulletHardFont", "class_aspose_1_1_slides_1_1_bullet_format.html#accf9381ad7c088363e9e77faec1d3aca", null ],
+    [ "set_NumberedBulletStartWith", "class_aspose_1_1_slides_1_1_bullet_format.html#ad7f3cf558b399910df9258b9b375b138", null ],
+    [ "set_NumberedBulletStyle", "class_aspose_1_1_slides_1_1_bullet_format.html#a6791524f4fbceda18be7e517faf3242f", null ],
+    [ "set_Type", "class_aspose_1_1_slides_1_1_bullet_format.html#ac74ed3f1675b79c6458bd32404ce3f5e", null ]
+];

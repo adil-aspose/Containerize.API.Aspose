@@ -1,0 +1,26 @@
+var class_aspose_1_1_slides_1_1_geometry_path =
+[
+    [ "GeometryPath", "class_aspose_1_1_slides_1_1_geometry_path.html#acd2efb387064a98f57313dc9791a53d0", null ],
+    [ "ArcTo", "class_aspose_1_1_slides_1_1_geometry_path.html#a689d91c4cb20043b9d57145695881662", null ],
+    [ "CloseFigure", "class_aspose_1_1_slides_1_1_geometry_path.html#a77bf516e4e3edda3f0d6d286d2cacc72", null ],
+    [ "CubicBezierTo", "class_aspose_1_1_slides_1_1_geometry_path.html#a36e9f4ef2afb7894edbcb1764d0cba1d", null ],
+    [ "CubicBezierTo", "class_aspose_1_1_slides_1_1_geometry_path.html#adc6efd0f2cc84c90eda811fa79a9d595", null ],
+    [ "CubicBezierTo", "class_aspose_1_1_slides_1_1_geometry_path.html#adb428706a5a2c52a8df3aa10de542d24", null ],
+    [ "CubicBezierTo", "class_aspose_1_1_slides_1_1_geometry_path.html#a06355018b264072441769cbe12b1b029", null ],
+    [ "get_FillMode", "class_aspose_1_1_slides_1_1_geometry_path.html#a7cf5e60874576d6757849feeac5506af", null ],
+    [ "get_PathData", "class_aspose_1_1_slides_1_1_geometry_path.html#af961683c0c6b53fa285f8ddaa6feada6", null ],
+    [ "get_Stroke", "class_aspose_1_1_slides_1_1_geometry_path.html#ab47a7770293833364f078c40678addff", null ],
+    [ "LineTo", "class_aspose_1_1_slides_1_1_geometry_path.html#a557ac8a1a211724b918cda97b59afba7", null ],
+    [ "LineTo", "class_aspose_1_1_slides_1_1_geometry_path.html#ae8f2ea5138b5820840a93a6ba84e33cb", null ],
+    [ "LineTo", "class_aspose_1_1_slides_1_1_geometry_path.html#ac9248155fc8f887a80ee9697119b7033", null ],
+    [ "LineTo", "class_aspose_1_1_slides_1_1_geometry_path.html#ad2b81c31c826d431ba6fec60e2ddeebc", null ],
+    [ "MoveTo", "class_aspose_1_1_slides_1_1_geometry_path.html#af9ad15b1027cac69be118b64514a1597", null ],
+    [ "MoveTo", "class_aspose_1_1_slides_1_1_geometry_path.html#ad80e66a76dcc378df2ec885bb445a431", null ],
+    [ "QuadraticBezierTo", "class_aspose_1_1_slides_1_1_geometry_path.html#a0ed80cfb4c7b9207627c6622aa02f6b9", null ],
+    [ "QuadraticBezierTo", "class_aspose_1_1_slides_1_1_geometry_path.html#af221ca49c863dae34f267b53e14a2e07", null ],
+    [ "QuadraticBezierTo", "class_aspose_1_1_slides_1_1_geometry_path.html#a6b4ff5e55a50475426624eaec8fa232d", null ],
+    [ "QuadraticBezierTo", "class_aspose_1_1_slides_1_1_geometry_path.html#a946e12b7fe7376daac75a4240e386a58", null ],
+    [ "RemoveAt", "class_aspose_1_1_slides_1_1_geometry_path.html#a0cab643c91e72a965b74730aa98f3e10", null ],
+    [ "set_FillMode", "class_aspose_1_1_slides_1_1_geometry_path.html#ab5a3596a679d116421e9db86e59c801f", null ],
+    [ "set_Stroke", "class_aspose_1_1_slides_1_1_geometry_path.html#a041e59086b2917d0734ff7ed26e0d4dc", null ]
+];

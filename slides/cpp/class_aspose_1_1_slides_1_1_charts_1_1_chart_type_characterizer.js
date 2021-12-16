@@ -1,0 +1,25 @@
+var class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer =
+[
+    [ "ChartTypeCharacterizer", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a02ea54795cba847118814f186f511f2a", null ],
+    [ "HasSeriesTrendLines", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a3228fb4319cb0cab102551761c9af7fa", null ],
+    [ "Is2DChart", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#adf2725ca715b341e0e5e92463a9b1aa3", null ],
+    [ "Is3DChart", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a473ed5341a9ccb5f41d808ef6d9b5a2a", null ],
+    [ "IsBar3DChart", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a03c72fa43b8bfa7111836295faaab86c", null ],
+    [ "IsChartTypeArea", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a99cfe164ec31ef6315db015939ad9aee", null ],
+    [ "IsChartTypeBar", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a1526cfb92d2e2a7819350ce502b0ea7f", null ],
+    [ "IsChartTypeBubble", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#aa7f94ecb5c8cdfb681afb6fb4985322c", null ],
+    [ "IsChartTypeColumn", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a6b07bb7884aab11ce3ce371a56b22007", null ],
+    [ "IsChartTypeDoughnut", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a89856bf7665b09f8ca003a59a57d7ada", null ],
+    [ "IsChartTypeLine", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a1853ae34a580b5e675e87bd33b6f476c", null ],
+    [ "IsChartTypePie", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#abb1abe511f007f5f7bdf7882f8ae38b4", null ],
+    [ "IsChartTypeRadar", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a61ba555e3a6e67d8bfe546cf26ecee6a", null ],
+    [ "IsChartTypeScatter", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a0f1cd35ae505820835259c95ab1e3f22", null ],
+    [ "IsChartTypeStock", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#aef51a8fa4b8431cbf437cd30c24b5cf0", null ],
+    [ "IsChartTypeSurface", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a7b807d65a710bbc44fcfa62bacc849ca", null ],
+    [ "IsErrorBarsXAllowed", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#aabe3be90730c25b2b298b94765b541e6", null ],
+    [ "IsErrorBarsYAllowed", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#ae845e36cc56c7520e604f3ef1e1acce8", null ],
+    [ "IsSeriesUsesBubbleSizeCoordinate", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#aae059b8506836ae1988701ffc03df60b", null ],
+    [ "IsSeriesUsesValueCoordinate", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#adad35912442d9a3ef33632471d9e9823", null ],
+    [ "IsSeriesUsesXValueCoordinate", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a1b368929f2634bfcac0feb440c17e0a2", null ],
+    [ "IsSeriesUsesYValueCoordinate", "class_aspose_1_1_slides_1_1_charts_1_1_chart_type_characterizer.html#a3a0db5248df13fec9d0d4b4823c3f28d", null ]
+];

@@ -1,0 +1,48 @@
+var namespace_system_1_1_globalization_1_1_details =
+[
+    [ "DateTimeTokenization", "namespace_system_1_1_globalization_1_1_details_1_1_date_time_tokenization.html", null ],
+    [ "GregorianCalendarUtils", "class_system_1_1_globalization_1_1_details_1_1_gregorian_calendar_utils.html", "class_system_1_1_globalization_1_1_details_1_1_gregorian_calendar_utils" ],
+    [ "CultureDataPtr", "namespace_system_1_1_globalization_1_1_details.html#a10d5090712176f68f068d1c15987181c", null ],
+    [ "DateTimeFormatDataPtr", "namespace_system_1_1_globalization_1_1_details.html#a7ae7f6963126c6fc4a3b3ef450bb0369", null ],
+    [ "NumberFormatDataPtr", "namespace_system_1_1_globalization_1_1_details.html#a34a7c4209266cda7828359e46124d087", null ],
+    [ "RegionDataPtr", "namespace_system_1_1_globalization_1_1_details.html#a669aa68314e11d72d8a3567bd60d039e", null ],
+    [ "CalendarId", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5", [
+      [ "UNINITIALIZED_VALUE", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a6e4e11976bff521ca0d352446c177996", null ],
+      [ "GREGORIAN", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a58e8c78c7d1b061d84e44eb6ab4cb3e1", null ],
+      [ "GREGORIAN_US", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5adc29589606a657b1d2c1fbc500eb8725", null ],
+      [ "JAPAN", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a676de5ba893af6bbc683c93306aaf769", null ],
+      [ "TAIWAN", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a0cb33ad1b82531916cfa68d9eadaa2a8", null ],
+      [ "KOREA", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5ab9ae410939500d10dde7fe827b9d5db1", null ],
+      [ "HIJRI", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a195d7e46f3abbb1a9dac2e7fa358dc3e", null ],
+      [ "THAI", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5af73ed5050a198fd8f3c850616e92af61", null ],
+      [ "HEBREW", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5abcda40d8cdfe6ac3e5b7ca9bc86b5e41", null ],
+      [ "GREGORIAN_ME_FRENCH", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a9ea64cdfbb97afbdda588292185cb41e", null ],
+      [ "GREGORIAN_ARABIC", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a15fdc85af51fe4cd91ab5963a6850c5c", null ],
+      [ "GREGORIAN_XLIT_ENGLISH", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a7184142a2b1d557276bf58fc51d6fd6e", null ],
+      [ "GREGORIAN_XLIT_FRENCH", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5afa04990e83a06b88a4261d049f2cac45", null ],
+      [ "JULIAN", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5ab3aaa9e1b07ee1aab781015aee16253e", null ],
+      [ "JAPANESELUNISOLAR", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a8c377ca24a5ce545495eb153690a3b72", null ],
+      [ "CHINESELUNISOLAR", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5ad20a2a75393f6ef1bc74a189c260350b", null ],
+      [ "SAKA", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a4689ecd529e0a82c0128885693613b7b", null ],
+      [ "LUNAR_ETO_CHN", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5adb5d24997b92043d22c44445f25198ab", null ],
+      [ "LUNAR_ETO_KOR", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5ada0d5bc0f549a81ae0a9b9e4f0d16b54", null ],
+      [ "LUNAR_ETO_ROKUYOU", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a941cac479abd8e826eb8d47e83844db1", null ],
+      [ "KOREANLUNISOLAR", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a228daa2b746315611cfdef0840264600", null ],
+      [ "TAIWANLUNISOLAR", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a6eadfd6ee319fba0f741a6acd88c5af6", null ],
+      [ "PERSIAN", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a83132248d0f8f966dce74f0fffe35d18", null ],
+      [ "UMALQURA", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5a936763720a55f033aac9ee0df1c8c6f4", null ],
+      [ "LAST_CALENDAR", "namespace_system_1_1_globalization_1_1_details.html#acb757009f301229332f1e2d4c973b3a5ad067cd31ea8b7b2f4333fd0005145dfb", null ]
+    ] ],
+    [ "DateTimeFormatFlags", "namespace_system_1_1_globalization_1_1_details.html#a1864c720ff50e0af9ed8a74765542c82", [
+      [ "None", "namespace_system_1_1_globalization_1_1_details.html#a1864c720ff50e0af9ed8a74765542c82a6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "UseGenitiveMonth", "namespace_system_1_1_globalization_1_1_details.html#a1864c720ff50e0af9ed8a74765542c82a410ebd150d62c164c05f7c66e13dc5b3", null ],
+      [ "UseLeapYearMonth", "namespace_system_1_1_globalization_1_1_details.html#a1864c720ff50e0af9ed8a74765542c82ae590249d2a8e0152330f15d8382de801", null ],
+      [ "UseSpacesInMonthNames", "namespace_system_1_1_globalization_1_1_details.html#a1864c720ff50e0af9ed8a74765542c82a997ec47ac158f052aeb13827491f2152", null ],
+      [ "UseHebrewRule", "namespace_system_1_1_globalization_1_1_details.html#a1864c720ff50e0af9ed8a74765542c82a5a57ea09a6843390ad44489299711f4a", null ],
+      [ "UseSpacesInDayNames", "namespace_system_1_1_globalization_1_1_details.html#a1864c720ff50e0af9ed8a74765542c82a9b26a9c1ed3b812d0ea6f12b4be18c66", null ],
+      [ "UseDigitPrefixInTokens", "namespace_system_1_1_globalization_1_1_details.html#a1864c720ff50e0af9ed8a74765542c82ab98c8fe22e216e1a18e88a9eac7decae", null ]
+    ] ],
+    [ "DECLARE_ENUM_OPERATORS", "namespace_system_1_1_globalization_1_1_details.html#a5f3238e8c09546a24afae0c12d49d914", null ],
+    [ "IsGregorianCalendarId", "namespace_system_1_1_globalization_1_1_details.html#a9a5c82e1edd249990071ba2e481d6f51", null ],
+    [ "IsValidCalendarId", "namespace_system_1_1_globalization_1_1_details.html#a58828b1cc4efaba7a883df44ba834994", null ]
+];

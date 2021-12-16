@@ -1,0 +1,26 @@
+var class_aspose_1_1_slides_1_1_comment_author_collection =
+[
+    [ "const_iterator", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a3dc0cc1559a797b4be2396f74ee20af5", null ],
+    [ "iterator", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a6b9f73a0128a6a1c034f7feac63c9531", null ],
+    [ "iterator_holder_type", "class_aspose_1_1_slides_1_1_comment_author_collection.html#aaf3371f70213762f3e21d57ae82678e5", null ],
+    [ "~CommentAuthorCollection", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a48683336bb98552cd75c56246edb4066", null ],
+    [ "AddAuthor", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a72620dc620727ba651b07f2f536e2d26", null ],
+    [ "begin", "class_aspose_1_1_slides_1_1_comment_author_collection.html#aaf94264d2e1ada57f391c56aa92722c8", null ],
+    [ "begin", "class_aspose_1_1_slides_1_1_comment_author_collection.html#aa154edf277ddd7a022f7939ba85f4037", null ],
+    [ "cbegin", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a2ce4b260a5aa38d2ed9aed9a4192fd7f", null ],
+    [ "cend", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a6c3ff9c6a7e2291be5b34290a748d999", null ],
+    [ "Clear", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a4834076fa7ad140814aca1c6e3ee5346", null ],
+    [ "CopyTo", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a683c281dae6ea73a504b195636677faf", null ],
+    [ "end", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a65cc24aa5840c2649d9991d287944f38", null ],
+    [ "end", "class_aspose_1_1_slides_1_1_comment_author_collection.html#aa0115c9d14dd877f6fb71871866ba15c", null ],
+    [ "FindByName", "class_aspose_1_1_slides_1_1_comment_author_collection.html#ac444c4774e10b6b5dbd8ff4a1d21a781", null ],
+    [ "FindByNameAndInitials", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a558b33834827c82164c9bd1e1bc9a403", null ],
+    [ "get_Count", "class_aspose_1_1_slides_1_1_comment_author_collection.html#af7a247eb6500b09fa526bf86d9a55b08", null ],
+    [ "get_IsSynchronized", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a22f423eb0d9c02dc029a97a1deace1a6", null ],
+    [ "get_SyncRoot", "class_aspose_1_1_slides_1_1_comment_author_collection.html#aa7bef5ae8ba393ef8579e4ad4f7fabeb", null ],
+    [ "GetEnumerator", "class_aspose_1_1_slides_1_1_comment_author_collection.html#aa55828974269c55e0d3405daf88e8462", null ],
+    [ "idx_get", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a470146af9b2c2daaca469ae23a1ab736", null ],
+    [ "Remove", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a491983743943ee3bd7c7599b42c7a37f", null ],
+    [ "RemoveAt", "class_aspose_1_1_slides_1_1_comment_author_collection.html#a8bd3eebbea4c86e9c70fdc49a2b3201d", null ],
+    [ "ToArray", "class_aspose_1_1_slides_1_1_comment_author_collection.html#ab614517452da7a4cab03fe42bf0d3bd4", null ]
+];

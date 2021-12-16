@@ -1,0 +1,26 @@
+var class_system_1_1_i_o_1_1_stream_reader =
+[
+    [ "StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#a2f9c8d1cfca9703db555eab7e934b59b", null ],
+    [ "StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#acd737f9de9a985737018d6707006538c", null ],
+    [ "StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#a221c7af1af420e30f0e09a0559eb2ad3", null ],
+    [ "StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#ae00d7cdc0f72868955d5b8c4ddee4b7f", null ],
+    [ "StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#a616f3c7f54e7d37dcb259e8fa3903970", null ],
+    [ "StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#a32d856a3b570b44d1e7857a8f3ddbb07", null ],
+    [ "StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#ab59c424297abd69dced6731707d582d8", null ],
+    [ "StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#a4fe1babc5a62be105b4173c660a1a554", null ],
+    [ "StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#a9d522cb87172d14190f31cdfe766abcf", null ],
+    [ "StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#a3d72e38f2783630bce0b66d58baf5226", null ],
+    [ "~StreamReader", "class_system_1_1_i_o_1_1_stream_reader.html#a92eaa56c16a980c2b3e577adceb7970d", null ],
+    [ "Close", "class_system_1_1_i_o_1_1_stream_reader.html#abbeadd5a9fa44aaf86cf93ecdb01eed2", null ],
+    [ "Dispose", "class_system_1_1_i_o_1_1_stream_reader.html#a82868142c26763d8e7bafddd1101185a", null ],
+    [ "Dispose", "class_system_1_1_i_o_1_1_stream_reader.html#a29ff13a7aca8ebc77b1dbe466355ac4f", null ],
+    [ "Dispose", "class_system_1_1_i_o_1_1_stream_reader.html#ad3235afccc1d0ffd0fa1743d570b1a85", null ],
+    [ "get_BaseStream", "class_system_1_1_i_o_1_1_stream_reader.html#abdf947230f0d5b8fc05ecc92a38e0a91", null ],
+    [ "get_CurrentEncoding", "class_system_1_1_i_o_1_1_stream_reader.html#a4cfe1a377bc6aa39d7c8dba0bc51615b", null ],
+    [ "get_EndOfStream", "class_system_1_1_i_o_1_1_stream_reader.html#a137027ce37d5c7cea9661f983fb6717f", null ],
+    [ "Peek", "class_system_1_1_i_o_1_1_stream_reader.html#a6e765bcb56922fd021b6f107dd41acc2", null ],
+    [ "Read", "class_system_1_1_i_o_1_1_stream_reader.html#a9ef6835e56a505d869420f300766bdce", null ],
+    [ "Read", "class_system_1_1_i_o_1_1_stream_reader.html#a5fd7ec476059be2cf30c85e2d02684e2", null ],
+    [ "ReadLine", "class_system_1_1_i_o_1_1_stream_reader.html#a5afdb5fca0030baab0376b089a0a2f1a", null ],
+    [ "ReadToEnd", "class_system_1_1_i_o_1_1_stream_reader.html#aedcbd1a473c8259e95b0eca7ed52af32", null ]
+];

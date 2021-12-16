@@ -1,0 +1,28 @@
+var class_aspose_1_1_slides_1_1_i_audio_frame =
+[
+    [ "get_AudioCdEndTrack", "class_aspose_1_1_slides_1_1_i_audio_frame.html#ae2f147fd2963fed7fc6487d481e48981", null ],
+    [ "get_AudioCdEndTrackTime", "class_aspose_1_1_slides_1_1_i_audio_frame.html#ad15cebdd8aedbc247dbb62ff560d1640", null ],
+    [ "get_AudioCdStartTrack", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a36200ee7dc0e17ef4126c75e991d3fb0", null ],
+    [ "get_AudioCdStartTrackTime", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a5900791952271a82e459b0e7406e45ab", null ],
+    [ "get_Embedded", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a2d00d791846a337069cb621519037e7d", null ],
+    [ "get_EmbeddedAudio", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a30a7b6867e42a27a55354bc4917ae1f0", null ],
+    [ "get_HideAtShowing", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a2f2adf7d928b5f7a7951c0dd284b70d2", null ],
+    [ "get_LinkPathLong", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a99ff4a3eb3bb3b2a8dd42875176f879f", null ],
+    [ "get_PlayAcrossSlides", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a565341f38d7483cceb697b820a077d43", null ],
+    [ "get_PlayLoopMode", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a7d76c68a4a1a075486b08193ca995c73", null ],
+    [ "get_PlayMode", "class_aspose_1_1_slides_1_1_i_audio_frame.html#ae305077e6c584353aad7aafbc8b9f5bb", null ],
+    [ "get_RewindAudio", "class_aspose_1_1_slides_1_1_i_audio_frame.html#acad8b374349bf39acbba30fb0d59b8b3", null ],
+    [ "get_Volume", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a4686f4ff79cfcbc8900d959e2b31975e", null ],
+    [ "set_AudioCdEndTrack", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a65ff8d4fd2ab233992591d7ad81fb97c", null ],
+    [ "set_AudioCdEndTrackTime", "class_aspose_1_1_slides_1_1_i_audio_frame.html#ab3fb0c55dab4366f5ae64f64a4ed2948", null ],
+    [ "set_AudioCdStartTrack", "class_aspose_1_1_slides_1_1_i_audio_frame.html#aaab7a7a531456732eeccfc934ec31cef", null ],
+    [ "set_AudioCdStartTrackTime", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a76d5a5a5dff62082bc4f5d1e5ee2ebc9", null ],
+    [ "set_EmbeddedAudio", "class_aspose_1_1_slides_1_1_i_audio_frame.html#af03c9d364b3330c74de0da06f4fadf5c", null ],
+    [ "set_HideAtShowing", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a58143e9131154e06302fada86c8fef42", null ],
+    [ "set_LinkPathLong", "class_aspose_1_1_slides_1_1_i_audio_frame.html#afdc938a767aceac4de732c0b80202df2", null ],
+    [ "set_PlayAcrossSlides", "class_aspose_1_1_slides_1_1_i_audio_frame.html#ac06b8b3b0dc0154e9bce334d3560219c", null ],
+    [ "set_PlayLoopMode", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a340aab3011f6933ced1b52f5a22628a1", null ],
+    [ "set_PlayMode", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a7ba7dd2069784289ec464ec82a0333bf", null ],
+    [ "set_RewindAudio", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a69f9ede43a095720454676f51a36a29e", null ],
+    [ "set_Volume", "class_aspose_1_1_slides_1_1_i_audio_frame.html#a380c8cd2ce4db3115c1e43a517b59fa2", null ]
+];

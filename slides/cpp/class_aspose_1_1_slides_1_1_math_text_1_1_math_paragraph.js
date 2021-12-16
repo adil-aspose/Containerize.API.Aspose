@@ -1,0 +1,28 @@
+var class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph =
+[
+    [ "const_iterator", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a585b8a00e205a448980159a05e6f4d6a", null ],
+    [ "iterator", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a8663788490d90188043056ec00ba6915", null ],
+    [ "iterator_holder_type", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a7321be0c71e9fda09d8c9833ae386348", null ],
+    [ "MathParagraph", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a96eb0c3a41018e8ccc4f1d8f25013b9c", null ],
+    [ "MathParagraph", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a984d80676f517caa089fc69c41bec5d6", null ],
+    [ "~MathParagraph", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a61523a1f46121b934a9da296ea35dfce", null ],
+    [ "Add", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#abe62a447090a34345aeb3c317962526f", null ],
+    [ "begin", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a0067a2e05c7904ce895b68f2b5c8c5c7", null ],
+    [ "begin", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a3c7b04bf51fa05f58c204c7bb6b5424c", null ],
+    [ "cbegin", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a4b24845a15168834a740ab2c8129c0c1", null ],
+    [ "cend", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a2b6e63ceea41547b0dc721f2fea011fc", null ],
+    [ "Clear", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a9b15fe20f408d4ed638f3e94ab025ae7", null ],
+    [ "Contains", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#aae2cc5c7120502270ee1b15294447a67", null ],
+    [ "end", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a6cce57abdb7bc677be817222d579c596", null ],
+    [ "end", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a9fd462809d2ba458386e355311945c3d", null ],
+    [ "get_Count", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#acbc6df7752641cd53b21ed554b3a4c3f", null ],
+    [ "get_Justification", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#ad31d2371a515e2f4f0f96f665f4d82d2", null ],
+    [ "idx_get", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#ac503b4aed68db994b006a4f3786b554d", null ],
+    [ "idx_set", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a731f8746a5d351756c8d6d9c4a40172b", null ],
+    [ "IndexOf", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#aa3582592d146729669e3ab0ac0e5ca73", null ],
+    [ "Insert", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a39d43c69f3b0ac92f54daca2204ccd17", null ],
+    [ "Remove", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a9d3b9577fa05e9c963af2461cf191cf8", null ],
+    [ "RemoveAt", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a9d9b13e5829bf18f5b645e1bd6edb978", null ],
+    [ "set_Justification", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a5f417f64cfe4df62eaee684d0263bcac", null ],
+    [ "WriteAsMathMl", "class_aspose_1_1_slides_1_1_math_text_1_1_math_paragraph.html#a2e0b061b877e340e549292aa22a2eec4", null ]
+];

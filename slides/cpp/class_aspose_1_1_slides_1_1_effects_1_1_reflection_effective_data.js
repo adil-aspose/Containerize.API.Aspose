@@ -1,0 +1,28 @@
+var class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data =
+[
+    [ "~ReflectionEffectiveData", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#ad2149892fb81227a863abc400e41cd88", null ],
+    [ "Apply", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a4e0eb1448e147a0648ddd68d0295bb77", null ],
+    [ "CopyFromEffective", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a93967e76fefd53d2c522f2e44983ce11", null ],
+    [ "EqualsTo", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#ad54549b5e42cd67bca19a36393cf6145", null ],
+    [ "get_BlurRadius", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a052de70a97d5578e115d9ab2a0921bc5", null ],
+    [ "get_Default", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#ad469c7e73f834c2b8e974088b6279356", null ],
+    [ "get_Direction", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a23bb48a7cc3522248476390f46c7f2e3", null ],
+    [ "get_Distance", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a6b826569cf7f047125d9df3841db140e", null ],
+    [ "get_EndPosAlpha", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a1b91623775bb557c88940b56df470629", null ],
+    [ "get_EndReflectionOpacity", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#af32d86d2b302fdd1e177e23b3b8680aa", null ],
+    [ "get_FadeDirection", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a446e8fd59bff6091b6e3e2d40656c136", null ],
+    [ "get_RectangleAlign", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a78f5f07ab752b69dfee68fbba2a84311", null ],
+    [ "get_RotateShadowWithShape", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#af730bad5e52db7a6fb105edec62e2e0e", null ],
+    [ "get_ScaleHorizontal", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#abc345555b06ed0d989990a23de6edca5", null ],
+    [ "get_ScaleVertical", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#adf843248276402f55738af594114e5e1", null ],
+    [ "get_SkewHorizontal", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a6f0d9c2a5c84c7614b3f4d78246bf0e6", null ],
+    [ "get_SkewVertical", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a88d6a68111c87b6a8cd4fd260b77fa27", null ],
+    [ "get_StartPosAlpha", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a39e77493a741313ffb84e7fcd7bc07a1", null ],
+    [ "get_StartReflectionOpacity", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a20e67ecde57b0e535bdaaa0018dc772a", null ],
+    [ "GetInheritedEffectiveFromParent", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a02603f4c032c0070bad9777f8362cccb", null ],
+    [ "GetStringData", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#ad48a025bb80f710aa5410c029f74b09b", null ],
+    [ "OverrideByLocalDefinedValues", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#ae2e5799a467cd62a86f0c798c07d1425", null ],
+    [ "ReInitialize", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#abdb3db9f88938778b319dea891fac605", null ],
+    [ "ResolveFontDatas", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#aa6fc4cc192552a5ab19521bdeac2bad6", null ],
+    [ "ResolveStyledColors", "class_aspose_1_1_slides_1_1_effects_1_1_reflection_effective_data.html#a30164a8160f817513ad6dbb1e1c9bc65", null ]
+];
