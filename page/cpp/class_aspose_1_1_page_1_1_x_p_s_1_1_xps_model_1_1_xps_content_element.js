@@ -1,0 +1,27 @@
+var class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element =
+[
+    [ "XpsContentElement", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#a4b826e11e855a26331f588f4fe5485a6", null ],
+    [ "~XpsContentElement", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#a9fef7281ac132ae6ea2638c3bbee391a", null ],
+    [ "AcceptProperties", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#a8856bb30acdba5209042e7ac3dffc5e8", null ],
+    [ "ClonePropertyValues", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#ae52347f6e1ebca30e45362cec7939e28", null ],
+    [ "CopyPropertyValues", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#aecfe27f0bf03a82638ed520cc4713a02", null ],
+    [ "CopySimplePropertyValues", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#ae6a76a8690fdc6a8481a0c88933f4b9d", null ],
+    [ "Dispose", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#ad8284f39c70b7d10ad18d7fd3556c830", null ],
+    [ "ForceRegisterForPreprocessing", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#a4aad02ff83e8c79c13b5328fae9a6841", null ],
+    [ "get_Clip", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#ac493cacfb24d06689c09a5ba9e90b0d6", null ],
+    [ "get_Opacity", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#a44828d6921e1681f3573b33e512fc125", null ],
+    [ "get_OpacityMask", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#ab141cd9d2f635d7bd851f92d8e12b58e", null ],
+    [ "get_RenderTransform", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#abbc7a21f6348155c16d2744cc399086a", null ],
+    [ "Initialize", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#a61d75d0477e32544cd90999ad503c2d7", null ],
+    [ "set_Clip", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#af68b57bfee1e2e64d07dddf4bc28908b", null ],
+    [ "set_Opacity", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#a160e0c41822d79c08f176ffcd66dd6c9", null ],
+    [ "set_OpacityMask", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#adc7439cfa8af155d169483f8b3e76bf9", null ],
+    [ "set_RenderTransform", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#a1617ea7bd8fc9ec2f946bf57ae3228d4", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsArray", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#ab08bdac208654201080d5e118987f623", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsCanvas", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#a5929fa04faebcfa48168f0bba7fa1645", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsElement", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#abf3efdc6951e6717ea55d1fa769042e0", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsGlyphs", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#af38f3334b11c9b1066f300f2ee45354c", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsPath", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#ac2f777113b635b4d11c3db29f245fa78", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsProperty", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#af859776b0e1ae20b52c3877eeb12a48f", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsVisual", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_content_element.html#a16f94f0940094c0de07131add140cc5c", null ]
+];

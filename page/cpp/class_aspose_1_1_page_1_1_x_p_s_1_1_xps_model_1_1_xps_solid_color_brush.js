@@ -1,0 +1,27 @@
+var class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush =
+[
+    [ "XpsSolidColorBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#acbc68d9ef7e622cb71ab69839aa92cf6", null ],
+    [ "XpsSolidColorBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a6e45a28c62a4b2f1f0e7fec3be430921", null ],
+    [ "XpsSolidColorBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#ae803e7dbf31ee86a560331c17c649e8c", null ],
+    [ "XpsSolidColorBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a7f6a3c5ed56cf330c67bdb4a36d1318a", null ],
+    [ "~XpsSolidColorBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#af7723309f686a48b0b58d12391fc7bfe", null ],
+    [ "Accept", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a149f747bbc53b9035668217a13061d6a", null ],
+    [ "Clone", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#aa96a66d4709aeca40ce1dcb45c32790e", null ],
+    [ "Clone", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a57319ae9eb1225acb5e2dbfdbaf17e00", null ],
+    [ "ClonePropertyValues", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a7d953308dc483712b1a9153d5afac46b", null ],
+    [ "CopyPropertyValues", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a56d4d687ae453688a996e5796f158e3c", null ],
+    [ "Dispose", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a6abc85f91495a6edf23a6a0ed6aab403", null ],
+    [ "get_Color", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a9468df650bdf90c1fb088a90b0c497df", null ],
+    [ "Initialize", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a443cd14bc891f71670a4114d12431e64", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#aa67f57d570ff6c17fa4d0793bfa3da0b", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a983e76a550a8cdb8ec9d8611bf15d2c8", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a7090262d919ffd64aadf6a5ec47bd6b0", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a67b7cbdf22426f2c0eac68b641ffa928", null ],
+    [ "set_Color", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a5ce3f25dddf26d2edc36fce2bc914ff7", null ],
+    [ "Validate", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a5e812659017ae04e2e368c01aa44471f", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsArray", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#ab08bdac208654201080d5e118987f623", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a4e6db6744e53b6b0436bbaae6667ffcd", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsElement", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#abf3efdc6951e6717ea55d1fa769042e0", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsProperty", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#af859776b0e1ae20b52c3877eeb12a48f", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsPropertyValueManager", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_solid_color_brush.html#a186327580e64626484677a194bdaf7ed", null ]
+];

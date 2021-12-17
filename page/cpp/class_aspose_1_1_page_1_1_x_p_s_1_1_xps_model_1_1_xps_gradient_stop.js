@@ -1,0 +1,27 @@
+var class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop =
+[
+    [ "XpsGradientStop", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#ad2378fc75777ff566e9fbc7d8712ae5a", null ],
+    [ "XpsGradientStop", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a31f60945aca3592aba0343c71fa5db07", null ],
+    [ "XpsGradientStop", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a1a27330bdcbdc2cda92a97f03b75e1f9", null ],
+    [ "XpsGradientStop", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a25ec4ae2d156c0c7e2747cc871134a02", null ],
+    [ "~XpsGradientStop", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#aa6a1fce8ce54c8e56b7cc916a9a3847b", null ],
+    [ "Accept", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#aa89b98f5f5d7c5e3cd1dcd4d5685ea57", null ],
+    [ "Clone", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#aabc9f7d1547f3a178bc89dba9341b07f", null ],
+    [ "Clone", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a4ee83717e2ea194134d8ce289702ea06", null ],
+    [ "ClonePropertyValues", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a12ee67456d1a6c2c71ef45ef8122eebc", null ],
+    [ "CopySimplePropertyValues", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#af5cc44c58e95ca4551ea9e27774d77a6", null ],
+    [ "Dispose", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a5a1c877f0fe799a8cff2c435492024cf", null ],
+    [ "get_Color", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a6d2c0c90e784d5d931f57e643bebfb2b", null ],
+    [ "get_Offset", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a2816a12947d32f22630bf5f2a073c646", null ],
+    [ "Initialize", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a7b37dd236b4ec777c3b2302114fba413", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#aa4875669bd0c9fc68b8cd1d3aea6a855", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#add13e3e13096a2c08a337b574206d96b", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a4639a36bb0e07499b8da28a70d75673b", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a19dd7dbdabff1be2c099c7886f70298a", null ],
+    [ "Aspose::Page::XPS::Presentation::Xps::XpsSerializer", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#ae75a194f7863a888605f101151041ec5", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsArray", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#ab08bdac208654201080d5e118987f623", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsElement", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#abf3efdc6951e6717ea55d1fa769042e0", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsGradientBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a3b4ccf9d70b96429a17ce67dc32e9e01", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsProperty", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#af859776b0e1ae20b52c3877eeb12a48f", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsPropertyValueManager", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_gradient_stop.html#a186327580e64626484677a194bdaf7ed", null ]
+];

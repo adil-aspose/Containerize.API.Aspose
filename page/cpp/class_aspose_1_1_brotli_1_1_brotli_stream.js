@@ -1,0 +1,27 @@
+var class_aspose_1_1_brotli_1_1_brotli_stream =
+[
+    [ "Ptr", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a1ba5a8636f19a02bc77e2088740aaf2e", null ],
+    [ "BrotliStream", "class_aspose_1_1_brotli_1_1_brotli_stream.html#adb17b67fb09f790231f19cde38890e97", null ],
+    [ "BrotliStream", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a36837b1b04391d8a144c24d72d0e22eb", null ],
+    [ "BrotliStream", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a0f3a46763487124f1f14f55ea5288a2d", null ],
+    [ "BrotliStream", "class_aspose_1_1_brotli_1_1_brotli_stream.html#aa016395c50004205c92841e7da345f19", null ],
+    [ "BrotliStream", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a5a400db9251a9b8b6847cbe6a75f016c", null ],
+    [ "BrotliStream", "class_aspose_1_1_brotli_1_1_brotli_stream.html#aca5702dee13dff808b6020351e2b338a", null ],
+    [ "~BrotliStream", "class_aspose_1_1_brotli_1_1_brotli_stream.html#ae63a300038f37620b025420046a1bb0d", null ],
+    [ "Close", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a1643e4db51523ff726ea06b33c74d255", null ],
+    [ "Flush", "class_aspose_1_1_brotli_1_1_brotli_stream.html#ae975b32a87507e373549f6d6cf5c8630", null ],
+    [ "get_BaseStream", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a1baea364636df4ed1ba44a7b2ebf6a87", null ],
+    [ "get_CanRead", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a0370a4043d60daf8a1ebc689581c3a48", null ],
+    [ "get_CanSeek", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a508a7ecf7e0b0d97ce124221a69072c8", null ],
+    [ "get_CanWrite", "class_aspose_1_1_brotli_1_1_brotli_stream.html#ac3b9327094f56577ed5336c29cd20704", null ],
+    [ "get_Length", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a9aadf1a5b720fddb2423c687b830820a", null ],
+    [ "get_Position", "class_aspose_1_1_brotli_1_1_brotli_stream.html#aa21dd89d4bd0443f73a62f1535c079ab", null ],
+    [ "Read", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a66982aa4d3d24e641f3e5befa635e779", null ],
+    [ "Seek", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a9ca4e439a5c0cb00e291c6a0e9ca9ee0", null ],
+    [ "set_Position", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a47b0aeca54b50e97316adb55c87af1e2", null ],
+    [ "SetLength", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a6afd645b25066311c763eb732b158eaa", null ],
+    [ "SetMode", "class_aspose_1_1_brotli_1_1_brotli_stream.html#adedd00f3d4965af6f58409491e05b819", null ],
+    [ "SetQuality", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a317c76f071b1caa64a2c0a82e1d04cdb", null ],
+    [ "SetWindow", "class_aspose_1_1_brotli_1_1_brotli_stream.html#ab1d22287fe37f6406ede071eb8a51265", null ],
+    [ "Write", "class_aspose_1_1_brotli_1_1_brotli_stream.html#a6489cd95ac0643fd71a26379043eeb83", null ]
+];

@@ -1,0 +1,28 @@
+var class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter =
+[
+    [ "XpsPresenter", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#adc7e721fd9a6ea09c12d40cdb3648a85", null ],
+    [ "~XpsPresenter", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a67ba0330bebdd76f8b013b6a01e6c246", null ],
+    [ "AfterDocument", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#abe68adfb05148cd7ac6c84c831544a3e", null ],
+    [ "AfterPresentation", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a566a451bad98af1e5c9f551cdcb48e8b", null ],
+    [ "BeforeDocument", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a84754bc5a2b8f3853124319c138ddb08", null ],
+    [ "BeforePresentation", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#add791fd583b1966a82fcfffab277c245", null ],
+    [ "Clear", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a588924eb26d936a03f29f52411c13e4d", null ],
+    [ "EndProperty", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a8baa663679bd8961ce5354d7f9b919dd", null ],
+    [ "get_MaxThreadsCount", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#ad35792b7e0f68be8c02b693b9d77091e", null ],
+    [ "get_OutputPipe", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a5b1f7ef69bf5ab471b6e9424d7c972f0", null ],
+    [ "PreprocessDocument", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a7ed5ff014d279ff0bb691ea857ee8503", null ],
+    [ "PreprocessPage", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a93ef9379145c319d18ee940e41fab054", null ],
+    [ "RegisterNodeThread", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a1ef75c88f4b73cc423ad88a39bfbb33c", null ],
+    [ "Run", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#ae607c73ba6523d149f1b823bd3522920", null ],
+    [ "set_OutputPipe", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a01f1a4a720122aca499e17931213b0c7", null ],
+    [ "SetTemplateWeakPtr", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#ab4bcf443ed0b9af357db47dba5e3fe29", null ],
+    [ "StartProperty", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#aa92cc0e8fc6fc4c54b122c9ac289eccb", null ],
+    [ "VisitCanvasEnd", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#ae041b73c56aa25694c965680c6256d54", null ],
+    [ "VisitCanvasStart", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a075bb916272a487c649fe8e029ba8113", null ],
+    [ "VisitGlyphsEnd", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a1f888222cdabefdcb828393c423da843", null ],
+    [ "VisitGlyphsStart", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a67f2d531e4451972124abdba18809612", null ],
+    [ "VisitPageEnd", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a84025f568e4ffc9bbb7b4a2484b6ebe3", null ],
+    [ "VisitPageStart", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a61809572da3653e95d252b3b0d070ad3", null ],
+    [ "VisitPathEnd", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a3f9641502532aad99d9809c4bf4e885e", null ],
+    [ "VisitPathStart", "class_aspose_1_1_page_1_1_x_p_s_1_1_presentation_1_1_xps_presenter.html#a7c394a7abd485ff8e632404dd444b2ca", null ]
+];

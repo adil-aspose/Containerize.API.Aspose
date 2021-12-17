@@ -1,0 +1,27 @@
+var class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush =
+[
+    [ "XpsLinearGradientBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a84fcafecbee01dcfdf0e05c5ad250f15", null ],
+    [ "XpsLinearGradientBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a226b6e7501b0fde2ea84cde63ecc7ae1", null ],
+    [ "XpsLinearGradientBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#ac4969010338029469778408ede4bf9ce", null ],
+    [ "XpsLinearGradientBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a2626619fe39432c008df9b308aa21366", null ],
+    [ "~XpsLinearGradientBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a2707f7efecf983f37ff89c84ce632673", null ],
+    [ "Accept", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#af866d975c2868f6334783a9c6819b402", null ],
+    [ "Clone", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#ac5a5328a08f9b4bde122b4609580f94e", null ],
+    [ "Clone", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#aa726a64e29fd9ab885dc3559f16b3b22", null ],
+    [ "CopySimplePropertyValues", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a40cdcc65cde3cdd2205e6219225b6c8f", null ],
+    [ "get_EndPoint", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a87f0cfe519221fb9ff6be641e66bc1c7", null ],
+    [ "get_StartPoint", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#ad78e7e52c41aa0ea8cc13f84c640a311", null ],
+    [ "Initialize", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a7eadebfa94d3aa42343a3e4794cabad7", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#aaae1e64c604f6ea638ebb1bbe4093f98", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a06a8126b18cecbaf10881bceb2e69fb7", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a0b32f322f19c54f4d929e17e9395a077", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#ab0348fd57b0076bbc8f4ac4b7610e09e", null ],
+    [ "set_EndPoint", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a6339a9f142f9c39fa0f37df62165399b", null ],
+    [ "set_StartPoint", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a658ba0a2abbf3c83ec4401d32fa8a1ae", null ],
+    [ "Validate", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a644f7395c6a99fa31129b4957f460873", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsArray", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#ab08bdac208654201080d5e118987f623", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a4e6db6744e53b6b0436bbaae6667ffcd", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsElement", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#abf3efdc6951e6717ea55d1fa769042e0", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsProperty", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#af859776b0e1ae20b52c3877eeb12a48f", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsPropertyValueManager", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_linear_gradient_brush.html#a186327580e64626484677a194bdaf7ed", null ]
+];

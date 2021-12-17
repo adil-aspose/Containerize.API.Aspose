@@ -1,0 +1,4 @@
+var class_aspose_1_1_page_1_1_x_p_s_1_1_xps_metadata_1_1_parameter_inits_1_1_job_copies_all_documents =
+[
+    [ "JobCopiesAllDocuments", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_metadata_1_1_parameter_inits_1_1_job_copies_all_documents.html#a9fcfbd599b3854a76c25d709cd1fc39e", null ]
+];

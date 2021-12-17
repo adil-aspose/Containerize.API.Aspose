@@ -1,0 +1,28 @@
+var class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush =
+[
+    [ "XpsVisualBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a32a4a5641f1baac59d746080552718c3", null ],
+    [ "XpsVisualBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a3a528fd13712e7d07594804511c0de01", null ],
+    [ "XpsVisualBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#ad88845a6542a9c4ee642ffb798609295", null ],
+    [ "~XpsVisualBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a4af3ee4cc925a98988c367e5fcead9a9", null ],
+    [ "Accept", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a1895914322aa5ef9d04968ce9795e62b", null ],
+    [ "AcceptProperties", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a33fcb8896ccc36399c7bacf845ea2617", null ],
+    [ "Clone", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a5cc5e6a3f898f27094c74657b8736a40", null ],
+    [ "Clone", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a3b7692e18eddfa8da9936aa203ed3dc3", null ],
+    [ "ClonePropertyValues", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a417e8b7dd46db6edf2b270a0efe648ab", null ],
+    [ "CopyPropertyValues", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#aaa7fa78f322b612db1486ecbfb87da16", null ],
+    [ "Dispose", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#aa43b7baab41a178b94e52033399b6dce", null ],
+    [ "ForceRegisterForPreprocessingPV", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a888ad4077eaccd9528a6c3e0e407b417", null ],
+    [ "get_Visual", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#ae2853ac035308be19ab3da706e914c74", null ],
+    [ "Initialize", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a58eecc7e9f89f01aac37dbc191c2e222", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a2bc361cee0e1ef3eefe5a79ee884c0e9", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a1874c64108b8f93adc038321e5542c4d", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a9a82df9c628f9c3f4a5afe61e85cdc75", null ],
+    [ "RegisterForPreprocessingPV", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a419be9d1f3134174aa2f8f249a6a0a30", null ],
+    [ "SetVisual", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#aa016cc3cf7b2b704cfd229a92f2cb552", null ],
+    [ "Validate", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#aeda903ff3b8fc7d86af80d3d8db61433", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsArray", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#ab08bdac208654201080d5e118987f623", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsBrush", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a4e6db6744e53b6b0436bbaae6667ffcd", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsElement", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#abf3efdc6951e6717ea55d1fa769042e0", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsProperty", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#af859776b0e1ae20b52c3877eeb12a48f", null ],
+    [ "Aspose::Page::XPS::XpsModel::XpsPropertyValueManager", "class_aspose_1_1_page_1_1_x_p_s_1_1_xps_model_1_1_xps_visual_brush.html#a186327580e64626484677a194bdaf7ed", null ]
+];
