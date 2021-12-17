@@ -1,0 +1,27 @@
+var class_system_1_1_net_1_1_service_point =
+[
+    [ "CloseConnectionGroup", "class_system_1_1_net_1_1_service_point.html#a22de87987908392ae9789eb851c553af", null ],
+    [ "get_Address", "class_system_1_1_net_1_1_service_point.html#a3a8fbbae7e8f3242f968723741bdb58e", null ],
+    [ "get_BindIPEndPointDelegate", "class_system_1_1_net_1_1_service_point.html#a6b21a6c94a62fc8bf9536ca6284c91cb", null ],
+    [ "get_Certificate", "class_system_1_1_net_1_1_service_point.html#a5c00e74334f5b62842fc0730613cae36", null ],
+    [ "get_ClientCertificate", "class_system_1_1_net_1_1_service_point.html#ab80162c8eebdbe08c5df2368e0bd76e0", null ],
+    [ "get_ConnectionLeaseTimeout", "class_system_1_1_net_1_1_service_point.html#aca2a8167a157ec16961adaf91a60e40f", null ],
+    [ "get_ConnectionLimit", "class_system_1_1_net_1_1_service_point.html#a7d399240734206ede46ee221de50f615", null ],
+    [ "get_ConnectionName", "class_system_1_1_net_1_1_service_point.html#a962a99933785cef030504b190c25f808", null ],
+    [ "get_CurrentConnections", "class_system_1_1_net_1_1_service_point.html#a33bacd6a9314b2c1a272f58cf2b40f51", null ],
+    [ "get_Expect100Continue", "class_system_1_1_net_1_1_service_point.html#ab8b37afaf0f92faa8c792110e56ac8df", null ],
+    [ "get_IdleSince", "class_system_1_1_net_1_1_service_point.html#aa161f92db09645fd74595594c1370808", null ],
+    [ "get_MaxIdleTime", "class_system_1_1_net_1_1_service_point.html#a379e217541ddb9c3acfb6c9e4f5bb3bb", null ],
+    [ "get_ProtocolVersion", "class_system_1_1_net_1_1_service_point.html#aaddc264592c34b25d6ac5948f1d495c9", null ],
+    [ "get_ReceiveBufferSize", "class_system_1_1_net_1_1_service_point.html#a94e5690f21cebdef2151801d2d1ad981", null ],
+    [ "get_SupportsPipelining", "class_system_1_1_net_1_1_service_point.html#ac3b3eb590cfa1968cbd933b337e1cbed", null ],
+    [ "get_UseNagleAlgorithm", "class_system_1_1_net_1_1_service_point.html#a6c764d3831b81ee05c6f3ecc7abc0756", null ],
+    [ "set_BindIPEndPointDelegate", "class_system_1_1_net_1_1_service_point.html#a937008ce98422fdb9a30884dc3e57bca", null ],
+    [ "set_ConnectionLeaseTimeout", "class_system_1_1_net_1_1_service_point.html#a71ad75f815b7a43f9c43ae687f2fc5b8", null ],
+    [ "set_ConnectionLimit", "class_system_1_1_net_1_1_service_point.html#a1c57e14a91b07c88fdcd31167a2e1100", null ],
+    [ "set_Expect100Continue", "class_system_1_1_net_1_1_service_point.html#a53517288333f2b22b54ad67f3ce1e3f1", null ],
+    [ "set_MaxIdleTime", "class_system_1_1_net_1_1_service_point.html#ad583251f58ef8d38c425c08a83d5c7c1", null ],
+    [ "set_ReceiveBufferSize", "class_system_1_1_net_1_1_service_point.html#aa4b90fb0f01bf6f0184626dc3164d393", null ],
+    [ "set_UseNagleAlgorithm", "class_system_1_1_net_1_1_service_point.html#a5b4524cadee5f4044d9d1f398c607ba0", null ],
+    [ "SetTcpKeepAlive", "class_system_1_1_net_1_1_service_point.html#ae24bc5875f9aea2ec3cf2b710558ed0e", null ]
+];

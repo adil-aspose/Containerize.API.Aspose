@@ -1,0 +1,4 @@
+var class_system_1_1_boxed_value_3_01_system_1_1_collections_1_1_generic_1_1_key_value_pair_3_01_t_key_00_01_t_value_01_4_01_4 =
+[
+    [ "BoxedValue", "class_system_1_1_boxed_value_3_01_system_1_1_collections_1_1_generic_1_1_key_value_pair_3_01_t_key_00_01_t_value_01_4_01_4.html#a5a9500ec88d8b2854bb2895288c5cdfc", null ]
+];

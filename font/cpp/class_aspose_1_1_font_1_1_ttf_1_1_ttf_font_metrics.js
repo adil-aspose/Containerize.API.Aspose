@@ -1,0 +1,26 @@
+var class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics =
+[
+    [ "TtfFontMetrics", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#ad39011bfb9571a3407ae16bed39fe648", null ],
+    [ "get_Ascender", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a04fd6c080eda35d7d627028415281f55", null ],
+    [ "get_Descender", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#acfb1e40914b7ad40fd6c374a8717835f", null ],
+    [ "get_FontBBox", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a67dc6fdaa5550d75483daacdce86ae87", null ],
+    [ "get_FontMatrix", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a9cf2642f991619fdeaf63b1b8116d940", null ],
+    [ "get_LineGap", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a7793da7d801e05e6f27ec9520c51e7bc", null ],
+    [ "get_TypoAscender", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a5cdf88f25b5a02837d79f173c7d40339", null ],
+    [ "get_TypoDescender", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a27057468a2f6352be9cd1852697db4db", null ],
+    [ "get_TypoLineGap", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a6f01ddf36d3b3a3c9cf7c1a6c307c4fa", null ],
+    [ "get_UnitsPerEM", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#aa5f0d85c9ca2fb5af18ec88869bea6b5", null ],
+    [ "GetCharWidth", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a217fe653a31456791861f55afa2ff316", null ],
+    [ "GetGlyphIdHashCode", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#aa85fa98d0c0b466f4b6725aa548da375", null ],
+    [ "GetGlyphWidth", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a7cc5754b394339100a07c27924cab189", null ],
+    [ "GetKerningValue", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a0f468a15e76e9d9fa9fecfdbd7639598", null ],
+    [ "MeasureString", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a7da1ebf7cd8751da87ee53ffe5cb2b16", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#aeac8102568c64d8c05ecc8d443183f9e", null ],
+    [ "set_Ascender", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#ad9299eaf045339a60e0d90fc582d62ea", null ],
+    [ "set_Descender", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a031efeb8a565c08348f59f6cdbad93a6", null ],
+    [ "set_TypoAscender", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a903863aeee606bb25b00fbd62c0b314f", null ],
+    [ "set_TypoDescender", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#af061b1d1fc2ca4853b1e234d3bfcdc2a", null ],
+    [ "set_UnitsPerEM", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#aeb95c1302a9cfb1d700a7b9958a28631", null ],
+    [ "Aspose::Font::Ttf::TtfFont", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#af9812b74bb8b89543e8429fcc9eb570d", null ],
+    [ "Aspose::Font::TtfTables::TtfKernTable", "class_aspose_1_1_font_1_1_ttf_1_1_ttf_font_metrics.html#a4037fed0ce50f1fb904b5d8c09bae6f7", null ]
+];

@@ -1,0 +1,28 @@
+var class_aspose_1_1_font_1_1_font_b_box =
+[
+    [ "FontBBox", "class_aspose_1_1_font_1_1_font_b_box.html#aa66d1b35afb18e8760bcb659e80e5b63", null ],
+    [ "FontBBox", "class_aspose_1_1_font_1_1_font_b_box.html#a8acb8afea199f79a35dfeccbee19f316", null ],
+    [ "Equals", "class_aspose_1_1_font_1_1_font_b_box.html#aeadb1abcac57f2bf28d6afd6ec0007ac", null ],
+    [ "get_XMax", "class_aspose_1_1_font_1_1_font_b_box.html#a2f37885660dd4c18445a6f7dcbe97af4", null ],
+    [ "get_XMin", "class_aspose_1_1_font_1_1_font_b_box.html#ae4713aa9428cd44f09b98f489d61d6d1", null ],
+    [ "get_YMax", "class_aspose_1_1_font_1_1_font_b_box.html#aa135e273e3cd4565e4e12d7225e72823", null ],
+    [ "get_YMin", "class_aspose_1_1_font_1_1_font_b_box.html#a953ac5c1dd9a906b883c6c3f7a44e7fe", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_font_1_1_font_b_box.html#af59bd221959e643315f89ad586f1704b", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_font_1_1_font_b_box.html#ac6a37793960ce3f2b480dc2b7d86ad77", null ],
+    [ "SetXMax", "class_aspose_1_1_font_1_1_font_b_box.html#a3412140a98002c5a52c2831837539a77", null ],
+    [ "SetXMin", "class_aspose_1_1_font_1_1_font_b_box.html#a253a2689c165f9c9833a6b8f5843d8c3", null ],
+    [ "SetYMax", "class_aspose_1_1_font_1_1_font_b_box.html#ac0f38b1b5eaa2fc9a73c66f82d9417bf", null ],
+    [ "SetYMin", "class_aspose_1_1_font_1_1_font_b_box.html#a082a8881c5aaa949d26652d6e84cf4d2", null ],
+    [ "Aspose::Font::Cff::Internals::Constants::CffDefaults", "class_aspose_1_1_font_1_1_font_b_box.html#a31585753f58b4db7b8dd8d88c0f44f58", null ],
+    [ "Aspose::Font::Cff::PostScriptExtension::CFFDictCommandProcessor", "class_aspose_1_1_font_1_1_font_b_box.html#a7cb3bfe2fa1e60ed90ba38bca44db605", null ],
+    [ "Aspose::Font::Cff::Utils::CffToTtfConverter", "class_aspose_1_1_font_1_1_font_b_box.html#a1312cabfdbf83f9955f20a025088c981", null ],
+    [ "Aspose::Font::Glyphs::Glyph", "class_aspose_1_1_font_1_1_font_b_box.html#a8c54ae6bc90783249cc395ba7f7f8efb", null ],
+    [ "Aspose::Font::Tests::BaseTesting::BaseFunctionalTests", "class_aspose_1_1_font_1_1_font_b_box.html#a739dcee4bf422c8f7700765191a888e2", null ],
+    [ "Aspose::Font::Ttf::TtfFontMetrics", "class_aspose_1_1_font_1_1_font_b_box.html#a5c10abd5202b1510b4ca60d0c93fa813", null ],
+    [ "Aspose::Font::TtfTables::TtfGlyfTable", "class_aspose_1_1_font_1_1_font_b_box.html#a4d04fefb559d096d447f95c2b4d8cc8f", null ],
+    [ "Aspose::Font::Type1::Type1FontMetrics", "class_aspose_1_1_font_1_1_font_b_box.html#a39e8d07c46d082c1540966890afcd26b", null ],
+    [ "Aspose::Font::Type1::Type1FontParser", "class_aspose_1_1_font_1_1_font_b_box.html#adb75bcc07815f799fe2097478ae25505", null ],
+    [ "Aspose::Font::Woff::Woff2PacketWriter", "class_aspose_1_1_font_1_1_font_b_box.html#a0cd9912d959a0d748e10af77bc9c01bd", null ],
+    [ "Aspose::Font::Woff::Woff2WriterBase", "class_aspose_1_1_font_1_1_font_b_box.html#ad6692034645c1024d9d074b93c32b6d8", null ],
+    [ "System::ObjectExt", "class_aspose_1_1_font_1_1_font_b_box.html#a1ec6885fcad8da6c7c551bcdd4f7d2d0", null ]
+];

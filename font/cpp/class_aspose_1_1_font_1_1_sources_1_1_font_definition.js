@@ -1,0 +1,27 @@
+var class_aspose_1_1_font_1_1_sources_1_1_font_definition =
+[
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a53fe6dcf8cb1190c1de662c00fb17f26", null ],
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#ad278b45a083df140140aec66084c4750", null ],
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#ab8d944abe79c18d1948261bd47eb3062", null ],
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a12c37baecca0e1b8540215361d021447", null ],
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a335e5ace12e259297d9e990f834e868d", null ],
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a15539f3cb729c2f289ec8098f534c7b9", null ],
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a8832e94c5357f8ea961f9bc27675520f", null ],
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a08cad62dbadd5cf9eac54eb584ec97dd", null ],
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a8dc18877f6d2ef45456f97a279a29f19", null ],
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#af17105cddeecb43b15ffada6b007855b", null ],
+    [ "FontDefinition", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a2824cf6cc9c0139cdbae75e6f4433786", null ],
+    [ "get_FileDefinitions", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a55746ecb0dc3fa520b5b07604f01884b", null ],
+    [ "get_FontName", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a0215ad7c9ba3a9483a7a3271a2f068a1", null ],
+    [ "get_FontNames", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#ac6bb9315a2649bcbe7058bf18d14881f", null ],
+    [ "get_FontType", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#ac464e8abf8616d72c932f0fa02d9e8cc", null ],
+    [ "get_PostscriptName", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a79f1350c499b166c32ae9330a5922560", null ],
+    [ "get_PostscriptNames", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#ae2c20136010d12922b31a6a6c7744e34", null ],
+    [ "MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#aa1161f9481a243e1ebd8e9626bf18928", null ],
+    [ "fileDefinitions", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#ac9d915d8a189a6853127859216fb0e04", null ],
+    [ "fontName", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a1f276b5b32efa8b876d078975a48d854", null ],
+    [ "fontNames", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a32e35f9a95dd9ba66ab9edb5a87b2214", null ],
+    [ "fontType", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#a0127d34e9e4fc30be04270272b471b50", null ],
+    [ "psName", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#ab69372963046c1ea096d18f21b51bb5a", null ],
+    [ "psNames", "class_aspose_1_1_font_1_1_sources_1_1_font_definition.html#ae71ecfa836c21bf0cadbd01414c9952c", null ]
+];
