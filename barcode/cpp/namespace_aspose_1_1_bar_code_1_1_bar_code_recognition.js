@@ -1,0 +1,26 @@
+var namespace_aspose_1_1_bar_code_1_1_bar_code_recognition =
+[
+    [ "AustraliaPostCustomerInformationDecoder", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_australia_post_customer_information_decoder.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_australia_post_customer_information_decoder" ],
+    [ "AustraliaPostSettings", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_australia_post_settings.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_australia_post_settings" ],
+    [ "BarCodeExtendedParameters", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_bar_code_extended_parameters.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_bar_code_extended_parameters" ],
+    [ "BarCodeReader", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_bar_code_reader.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_bar_code_reader" ],
+    [ "BarCodeRegionParameters", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_bar_code_region_parameters.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_bar_code_region_parameters" ],
+    [ "BarCodeResult", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_bar_code_result.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_bar_code_result" ],
+    [ "BarcodeSettings", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_barcode_settings.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_barcode_settings" ],
+    [ "BarcodeSvmDetectorSettings", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_barcode_svm_detector_settings.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_barcode_svm_detector_settings" ],
+    [ "BaseDecodeType", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_base_decode_type.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_base_decode_type" ],
+    [ "BaseExtendedParameters", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_base_extended_parameters.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_base_extended_parameters" ],
+    [ "Code128DataPortion", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_code128_data_portion.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_code128_data_portion" ],
+    [ "Code128ExtendedParameters", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_code128_extended_parameters.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_code128_extended_parameters" ],
+    [ "DataBarExtendedParameters", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_data_bar_extended_parameters.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_data_bar_extended_parameters" ],
+    [ "DecodeType", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_decode_type.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_decode_type" ],
+    [ "Details_BarCodeRecognitionException", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_details___bar_code_recognition_exception.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_details___bar_code_recognition_exception" ],
+    [ "Details_RecognitionAbortedException", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_details___recognition_aborted_exception.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_details___recognition_aborted_exception" ],
+    [ "MultyDecodeType", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_multy_decode_type.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_multy_decode_type" ],
+    [ "OneDExtendedParameters", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_one_d_extended_parameters.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_one_d_extended_parameters" ],
+    [ "Pdf417ExtendedParameters", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_pdf417_extended_parameters.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_pdf417_extended_parameters" ],
+    [ "QRExtendedParameters", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_q_r_extended_parameters.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_q_r_extended_parameters" ],
+    [ "Quadrangle", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle" ],
+    [ "QualitySettings", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quality_settings.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quality_settings" ],
+    [ "SingleDecodeType", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_single_decode_type.html", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_single_decode_type" ]
+];

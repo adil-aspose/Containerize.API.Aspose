@@ -1,0 +1,25 @@
+var class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle =
+[
+    [ "Quadrangle", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a90ea1fb4b9b6803186078e367ea895c8", null ],
+    [ "Quadrangle", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a391a8d509988602f189ff453b383864d", null ],
+    [ "Contains", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a9d7bdbe688f23afa45be00e6d97b8fd2", null ],
+    [ "Contains", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a95727d865489d1586440fd85012870c5", null ],
+    [ "Contains", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#ae8e9712169be1a415287cecb51955ade", null ],
+    [ "Contains", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a9ff18fc93cd6861e8e0bebbaa06b0812", null ],
+    [ "Equals", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#ade96038f2c6e795542fbf57f630b6a56", null ],
+    [ "get_BoundingRectangle", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a260c18169e3f7d4bfbb9e21a06aaf0ee", null ],
+    [ "get_IsEmpty", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a538dcd4803145f0561dce28937ebdf7a", null ],
+    [ "get_LeftBottom", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a084c8cad663b94f96ca6445b033ddd53", null ],
+    [ "get_LeftTop", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#ae312187d96233457c77e5cb27eae7d3c", null ],
+    [ "get_RightBottom", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a4f14630da33cb3b59d5184c2275fd4c1", null ],
+    [ "get_RightTop", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#af299ad67536a972bf0800f04f053b59b", null ],
+    [ "GetHashCode", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a29cfa325790a5f160081e79dbffbde4c", null ],
+    [ "set_LeftBottom", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#aea6883c24f30a9e85cc786533131a296", null ],
+    [ "set_LeftTop", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a181fb27f1df5ae2ace5891548eeab684", null ],
+    [ "set_RightBottom", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#abb517546dc9d61e02f3d19f8aa7d2f0c", null ],
+    [ "set_RightTop", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#af60cb890f768774e8e2e64c7aebb31a5", null ],
+    [ "ToString", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a34a3be86027c7a3763f5279a38f6b172", null ],
+    [ "operator!=", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a7ba6d93dda00fcc0dff2e59022bccddc", null ],
+    [ "operator==", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#a30050e145dc10129888bdaca789d4bd4", null ],
+    [ "Empty", "class_aspose_1_1_bar_code_1_1_bar_code_recognition_1_1_quadrangle.html#acd2f7ec991608af2ebd65b1f5b690a1b", null ]
+];

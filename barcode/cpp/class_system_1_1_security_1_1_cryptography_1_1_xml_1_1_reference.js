@@ -1,0 +1,25 @@
+var class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference =
+[
+    [ "Reference", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a4980f5c950adf5e80794eb24c9cc30b0", null ],
+    [ "Reference", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a3900141a23bffd34e8d613535ff601d8", null ],
+    [ "Reference", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#acea45b4a6c47f0bb09d1f6b3ea7890ae", null ],
+    [ "AddTransform", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a866eb610c54175d69291f7f9fb032c52", null ],
+    [ "get_DigestMethod", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#adf931235720e198b2a078749d3f77ca1", null ],
+    [ "get_DigestValue", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a9355b1dff8c3d20cb53e1f0e8831cce1", null ],
+    [ "get_Id", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a806b569a9711116393d398f75dcc4ea7", null ],
+    [ "get_TransformChain", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a1064b78814b51b88156fe9f9218722fa", null ],
+    [ "get_Type", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#ae15d379478b63910d049486663f3ad2d", null ],
+    [ "get_Uri", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a0f6c745bac30b2b7a2530193a2748a14", null ],
+    [ "GetXml", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#ab88912fc5aab4fcd19ad6b9174668f40", null ],
+    [ "LoadXml", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#ae0b340e6ba5d99f871050f86ac401c1b", null ],
+    [ "set_DigestMethod", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#ae2b3ec5395cddb65b3cb7600782a32b0", null ],
+    [ "set_DigestValue", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a347331f538039c744b8da3438949b7b0", null ],
+    [ "set_Id", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a16ff3b3f2ea79800ee648d0d7b66875c", null ],
+    [ "set_TransformChain", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a25dbc1a8973f5f7435564b11c5f78358", null ],
+    [ "set_Type", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a229e923f17c6c7e48ca4644ae75d9d91", null ],
+    [ "set_Uri", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a8d0a9e13a8e01c6261c7bd0b796eb8c0", null ],
+    [ "Details::SignedXmlImpl", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a3302fcb9b4bc1c1747f33fab5d9394e6", null ],
+    [ "SignedInfo", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#a579fe921241989523ff884adeb8c019e", null ],
+    [ "SignedXml", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#ab49e0d2cf602c2a16fadb0102f6abf5a", null ],
+    [ "Transform", "class_system_1_1_security_1_1_cryptography_1_1_xml_1_1_reference.html#af851b4d9aacd1a871da33592334b8d72", null ]
+];
