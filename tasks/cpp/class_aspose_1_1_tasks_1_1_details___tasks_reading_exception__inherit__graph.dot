@@ -1,0 +1,9 @@
+digraph "Aspose::Tasks::Details_TasksReadingException"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Aspose::Tasks::Details\l_TasksReadingException",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Represents the standard internal reading exception type."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Aspose::Tasks::Details\l_TasksLoggedException",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_aspose_1_1_tasks_1_1_details___tasks_logged_exception.html",tooltip="Represents the standard internal exception type."];
+}

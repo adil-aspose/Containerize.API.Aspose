@@ -1,0 +1,25 @@
+var class_aspose_1_1_tasks_1_1_table =
+[
+    [ "Table", "class_aspose_1_1_tasks_1_1_table.html#ad84b924367c9107e9c4364ed3fbcfd60", null ],
+    [ "Equals", "class_aspose_1_1_tasks_1_1_table.html#a38a1db94215407f8ec804e6a3b9e95e8", null ],
+    [ "get_AdjustHeaderRowHeight", "class_aspose_1_1_tasks_1_1_table.html#a8a8847052e5666f811b795ea37e0d654", null ],
+    [ "get_DateFormat", "class_aspose_1_1_tasks_1_1_table.html#a7e7aa61a769affb392a0a80a9553e669", null ],
+    [ "get_Index", "class_aspose_1_1_tasks_1_1_table.html#a700299fee0d52a8d3d96854661cb82ee", null ],
+    [ "get_LockFirstColumn", "class_aspose_1_1_tasks_1_1_table.html#a1f9633d17bd1027e78fc488b98a9f9a2", null ],
+    [ "get_Name", "class_aspose_1_1_tasks_1_1_table.html#aa5f8aa47a34c20ff0bf504263bd6bd45", null ],
+    [ "get_ParentProject", "class_aspose_1_1_tasks_1_1_table.html#a16329aa51d602263ef0b11028bc29212", null ],
+    [ "get_RowHeight", "class_aspose_1_1_tasks_1_1_table.html#a89f13e44af538afe4b5a6ca537834692", null ],
+    [ "get_ShowAddNewColumn", "class_aspose_1_1_tasks_1_1_table.html#aab11ac5a389dea3b865a44ec37c58bed", null ],
+    [ "get_ShowInMenu", "class_aspose_1_1_tasks_1_1_table.html#a7aba92f59e352b7d38e9fa0c23ed4e46", null ],
+    [ "get_TableFields", "class_aspose_1_1_tasks_1_1_table.html#ad1fcee9ac1af383221ec02eb50a8c136", null ],
+    [ "get_TableType", "class_aspose_1_1_tasks_1_1_table.html#a01f235f317ad08205462a6cfa9e76aea", null ],
+    [ "get_Uid", "class_aspose_1_1_tasks_1_1_table.html#a4ea51416697ea37111bf32c74120636f", null ],
+    [ "GetHashCode", "class_aspose_1_1_tasks_1_1_table.html#ad9b52fc5bdce22442f25e770392af28e", null ],
+    [ "set_AdjustHeaderRowHeight", "class_aspose_1_1_tasks_1_1_table.html#a26aff8bc8292009b416d3827f79b2815", null ],
+    [ "set_DateFormat", "class_aspose_1_1_tasks_1_1_table.html#a1aacf64cc742a3c7c63233bc25ef1873", null ],
+    [ "set_LockFirstColumn", "class_aspose_1_1_tasks_1_1_table.html#a67b343374a9d49c2c06b0ff193eb5e26", null ],
+    [ "set_Name", "class_aspose_1_1_tasks_1_1_table.html#a65ee81192bddbbdc4c6bf7b6e1af9bfe", null ],
+    [ "set_RowHeight", "class_aspose_1_1_tasks_1_1_table.html#a0f033330cfe51a2ba4b2be1059094338", null ],
+    [ "set_ShowAddNewColumn", "class_aspose_1_1_tasks_1_1_table.html#a5a1ae6542258db929a48ffaedfe78f1e", null ],
+    [ "set_ShowInMenu", "class_aspose_1_1_tasks_1_1_table.html#a3df7fa6ae57c01603d6bd098dbfb7f0b", null ]
+];

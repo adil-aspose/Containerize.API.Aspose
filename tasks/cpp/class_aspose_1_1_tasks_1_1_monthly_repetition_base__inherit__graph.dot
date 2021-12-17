@@ -1,0 +1,11 @@
+digraph "Aspose::Tasks::MonthlyRepetitionBase"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Aspose::Tasks::MonthlyRepetitionBase",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Represents a base pattern for monthly day position."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Aspose::Tasks::ByMonthDay\lRepetition",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_aspose_1_1_tasks_1_1_by_month_day_repetition.html",tooltip="Represents a pattern which is based on the absolute position of a day in a month."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Aspose::Tasks::ByMonthWeek\lDayRepetition",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_aspose_1_1_tasks_1_1_by_month_week_day_repetition.html",tooltip="Represents a pattern which is based on the position of weekday in a month."];
+}

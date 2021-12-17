@@ -1,0 +1,26 @@
+var class_aspose_1_1_tasks_1_1_view =
+[
+    [ "View", "class_aspose_1_1_tasks_1_1_view.html#ad2e94d03a2ce02975eb5a7ff51487b9a", null ],
+    [ "View", "class_aspose_1_1_tasks_1_1_view.html#abba057804e6a024f632021360f75f830", null ],
+    [ "CompareTo", "class_aspose_1_1_tasks_1_1_view.html#a2817f951a8b5961f74737ac342817d7d", null ],
+    [ "Equals", "class_aspose_1_1_tasks_1_1_view.html#acd48942834695b85c842282191db1442", null ],
+    [ "get_Filter", "class_aspose_1_1_tasks_1_1_view.html#a40be152500e645fdb2124203d2429330", null ],
+    [ "get_Group", "class_aspose_1_1_tasks_1_1_view.html#af07cc546487adcdcaa0943bcb8509225", null ],
+    [ "get_HighlightFilter", "class_aspose_1_1_tasks_1_1_view.html#a5d4574f49bed5bc3a4450642d6bcb251", null ],
+    [ "get_Name", "class_aspose_1_1_tasks_1_1_view.html#a2c953c62a4691bd42f89bb356afe2b0c", null ],
+    [ "get_PageInfo", "class_aspose_1_1_tasks_1_1_view.html#af5d3daed039f105f4d61463467c6ea2c", null ],
+    [ "get_ParentProject", "class_aspose_1_1_tasks_1_1_view.html#a9d906757b65b95a20feecd84fb7209f4", null ],
+    [ "get_Screen", "class_aspose_1_1_tasks_1_1_view.html#ac11dff1ffef75eaf14791d053c3709b6", null ],
+    [ "get_ShowInMenu", "class_aspose_1_1_tasks_1_1_view.html#ada41f2cdad2b821ca81fe8fb81644b99", null ],
+    [ "get_Table", "class_aspose_1_1_tasks_1_1_view.html#a1849d147fd8a7f034b600a667d37f3ea", null ],
+    [ "get_Type", "class_aspose_1_1_tasks_1_1_view.html#a09157e9f6c3ba892d5e45bf4a1cc626c", null ],
+    [ "get_Uid", "class_aspose_1_1_tasks_1_1_view.html#a62c5b56873121c97f24726f49b500632", null ],
+    [ "get_VisualObjectsPlacements", "class_aspose_1_1_tasks_1_1_view.html#af721b043ba43341df811b25232235a8e", null ],
+    [ "GetHashCode", "class_aspose_1_1_tasks_1_1_view.html#aab7121f70b0b4c9313c62c356fbb934c", null ],
+    [ "set_Filter", "class_aspose_1_1_tasks_1_1_view.html#a1ce9cb50eb9b276c72936b7d768ad37a", null ],
+    [ "set_Group", "class_aspose_1_1_tasks_1_1_view.html#ab8346e2bb8321b58b6ea559a0e496cf9", null ],
+    [ "set_HighlightFilter", "class_aspose_1_1_tasks_1_1_view.html#aea210a1a94fedd1c2ea9ffb9e8d7639e", null ],
+    [ "set_Name", "class_aspose_1_1_tasks_1_1_view.html#a50b2258fa2db295288ee863902288eab", null ],
+    [ "set_ShowInMenu", "class_aspose_1_1_tasks_1_1_view.html#ac76b50e3ce83dd90578f1801ae63f8dd", null ],
+    [ "set_Table", "class_aspose_1_1_tasks_1_1_view.html#a6d720ea43af4126bb7b54aafc2ce82d2", null ]
+];

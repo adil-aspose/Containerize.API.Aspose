@@ -1,0 +1,26 @@
+var class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options =
+[
+    [ "ImageSaveOptions", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a0c50a11f8088acd72a3e146d52427a41", null ],
+    [ "get_DefaultFontName", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#ac4e1499bfcc1294eb475b0dc7ac491a5", null ],
+    [ "get_HorizontalResolution", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#ad8b2df159a529622344bff095f325b2c", null ],
+    [ "get_JpegQuality", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a918672d45fb99d486357cd9a6f7c4ad8", null ],
+    [ "get_Pages", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a27af3cc8172c7c7d1d49d42df4f8cf75", null ],
+    [ "get_PageSavingCallback", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#aaa8379ee441257e4157e4460c7109164", null ],
+    [ "get_PixelFormat", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a8cd590e872098821bf264cecad3b3c16", null ],
+    [ "get_ReduceFooterGap", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a701efe6852f25757e6c0217128067075", null ],
+    [ "get_SaveToSeparateFiles", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#ab6ae1d9ea692b44f185124c467b1cd66", null ],
+    [ "get_TiffCompression", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a86335f04cf1b8fd1ec6c1fbba1f5a968", null ],
+    [ "get_UseProjectDefaultFont", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#ad353acb332624f6693034eeee9664637", null ],
+    [ "get_VerticalResolution", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#aa2130263c7c25ec41bcd907558eb3ff4", null ],
+    [ "set_DefaultFontName", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a2b5ca284775d8d2c3b3283e99d1de65f", null ],
+    [ "set_HorizontalResolution", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a58fd69d4f0878f446bccfba476a680a9", null ],
+    [ "set_JpegQuality", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a60bfaa62615218adb2d91526a7f9a503", null ],
+    [ "set_Pages", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a50581465b75bf5ad2b91604f4c734d39", null ],
+    [ "set_PageSavingCallback", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a1a22db14359a7cd9ba8bc9f9c04697dd", null ],
+    [ "set_PixelFormat", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#ae7b033079fbdcaa067bd3f7ac075de17", null ],
+    [ "set_ReduceFooterGap", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#aecdca8f26214ce2684060a0201d7f27a", null ],
+    [ "set_SaveToSeparateFiles", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#aeb12ba95704bc3af584f16ff5d6cebb3", null ],
+    [ "set_TiffCompression", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a8d9af39e54e4d646650cb071fda6eefb", null ],
+    [ "set_UseProjectDefaultFont", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#a74a6ddc660d2a2d0c9f3b10ac78ca45b", null ],
+    [ "set_VerticalResolution", "class_aspose_1_1_tasks_1_1_saving_1_1_image_save_options.html#ae4e41be42a6107267084ad8f457799f3", null ]
+];

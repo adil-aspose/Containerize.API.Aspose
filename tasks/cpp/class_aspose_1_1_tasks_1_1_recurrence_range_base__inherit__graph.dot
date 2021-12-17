@@ -1,0 +1,11 @@
+digraph "Aspose::Tasks::RecurrenceRangeBase"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Aspose::Tasks::Recurrence\lRangeBase",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Represents the recurrence range of recurring task."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Aspose::Tasks::EndAfterRecurrence\lRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_aspose_1_1_tasks_1_1_end_after_recurrence_range.html",tooltip="Represents the recurrence range of recurring task which is limited by occurrence number."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Aspose::Tasks::EndByRecurrence\lRange",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_aspose_1_1_tasks_1_1_end_by_recurrence_range.html",tooltip="Represents the recurrence range of recurring task which is limited by finish day."];
+}

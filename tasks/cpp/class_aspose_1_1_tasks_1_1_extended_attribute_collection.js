@@ -1,0 +1,25 @@
+var class_aspose_1_1_tasks_1_1_extended_attribute_collection =
+[
+    [ "const_iterator", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a89e1841e4d436d3314977893d4e6a14a", null ],
+    [ "iterator", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a7ddfa6c40c60e1cd0767a1d6e44cf70b", null ],
+    [ "iterator_holder_type", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#af764d751b5654d6a4cdfc6eed6d3cebc", null ],
+    [ "Add", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a68fa98242851eaebf312ef5eae9aa190", null ],
+    [ "begin", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#ae430f7c018a8de64b9dd77b5c86e6a82", null ],
+    [ "begin", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a575fa4d10bb4f9d46f81d01e48744b38", null ],
+    [ "cbegin", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#ac93ec46e1ea54a2699e627ff23033bc0", null ],
+    [ "cend", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a4fed26b59949ea45eff161095213d0ff", null ],
+    [ "Clear", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#aa3fcd7dc1d2a0bf1a9f44f2fea30da49", null ],
+    [ "Contains", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#ae3fe59d7e7e99d77a4c478a055c55ebe", null ],
+    [ "CopyTo", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#aa4430e40f3ad59db0d89729cd6d6d073", null ],
+    [ "end", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#ab1c27f6bd6961be09e202df47e77bdc4", null ],
+    [ "end", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a51f1cfafc265704b2b3c52e5f537c0cb", null ],
+    [ "get_Count", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#aa044fa4f5613e3494ebcde34248e9fca", null ],
+    [ "get_IsReadOnly", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a76347d0ef803dc9faaa65b5ca26eaa88", null ],
+    [ "GetEnumerator", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a56442528b643915ba5128c8714f95258", null ],
+    [ "idx_get", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#aa032381426c111c7295a9f41c7139791", null ],
+    [ "idx_set", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a7a988f9fea8615f84a95a1604d39c205", null ],
+    [ "IndexOf", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a77884a6681a7b3d13697494d6a9d3c25", null ],
+    [ "Insert", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a73543bb223c5c93d27890e5ec4fbd30c", null ],
+    [ "Remove", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#aa986ab8eb64b4571a6ebab041029e071", null ],
+    [ "RemoveAt", "class_aspose_1_1_tasks_1_1_extended_attribute_collection.html#a9fa8e0bdb0ee01d6f7ae900563f2de5a", null ]
+];

@@ -1,0 +1,16 @@
+digraph "Aspose::Tasks::RecurrencePatternBase"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Aspose::Tasks::Recurrence\lPatternBase",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Represents the base class of recurrence pattern."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Aspose::Tasks::DailyRecurrence\lPattern",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_aspose_1_1_tasks_1_1_daily_recurrence_pattern.html",tooltip="Represents the set of parameters are used to create a daily recurring task in a project."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Aspose::Tasks::MonthlyRecurrence\lPattern",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_aspose_1_1_tasks_1_1_monthly_recurrence_pattern.html",tooltip="Represents the set of parameters are used to create a monthly recurring task in a project."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Aspose::Tasks::WeeklyRecurrence\lPattern",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_aspose_1_1_tasks_1_1_weekly_recurrence_pattern.html",tooltip="Represents the set of parameters are used to create a weekly recurring task in a project."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Aspose::Tasks::YearlyRecurrence\lPattern",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_aspose_1_1_tasks_1_1_yearly_recurrence_pattern.html",tooltip="Represents the set of parameters are used to create a yearly recurring task in a project."];
+}

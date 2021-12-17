@@ -1,0 +1,26 @@
+var class_aspose_1_1_tasks_1_1_project_display_options =
+[
+    [ "ProjectDisplayOptions", "class_aspose_1_1_tasks_1_1_project_display_options.html#a1a181287b49ab307bdac9015518d8600", null ],
+    [ "get_AddSpaceBeforeLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#acfa4602ff9dee402f4938dc9c04a4731", null ],
+    [ "get_DayLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a9331612480d23b3ff5c680765f3f1180", null ],
+    [ "get_HourLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#ab7ffd22c9941becb26a4bce2bccb157b", null ],
+    [ "get_MinuteLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a7bb1e9a968b6e444ec3d99817f523502", null ],
+    [ "get_MonthLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a85d159bd0e3c82cd5cac250a1aba0d34", null ],
+    [ "get_ShowProjectSummaryTask", "class_aspose_1_1_tasks_1_1_project_display_options.html#a89e6f934fcfce68a0de68db1c3560753", null ],
+    [ "get_ShowTaskScheduleSuggestions", "class_aspose_1_1_tasks_1_1_project_display_options.html#a2993c61287e8ed35cc8321ecc546d723", null ],
+    [ "get_ShowTaskScheduleWarnings", "class_aspose_1_1_tasks_1_1_project_display_options.html#a67755e3978555a4ef7419829a34f5817", null ],
+    [ "get_UnderlineHyperlinks", "class_aspose_1_1_tasks_1_1_project_display_options.html#a995a48ba2c73dd53f660d3d63c49dd40", null ],
+    [ "get_WeekLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a265fa7619f2bfd2c447010b0c3bcc5d9", null ],
+    [ "get_YearLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a55a137bdc298877273eba16f4fabcac6", null ],
+    [ "set_AddSpaceBeforeLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a74566ede6bcb25f972d44670363c72b4", null ],
+    [ "set_DayLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a738731b1ccfd4c6be1e73fd8687c39f6", null ],
+    [ "set_HourLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a21e0bf4dfde7bb1d101fae7d734a0e30", null ],
+    [ "set_MinuteLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a7a84d9a0a0b626e7133d11846e9a3b24", null ],
+    [ "set_MonthLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#aa69956ba70719f6d274af02df60b375b", null ],
+    [ "set_ShowProjectSummaryTask", "class_aspose_1_1_tasks_1_1_project_display_options.html#a584099eb19abcb31a93252616a2100d0", null ],
+    [ "set_ShowTaskScheduleSuggestions", "class_aspose_1_1_tasks_1_1_project_display_options.html#a717ed083afb5d8675c521b0e089b1b2a", null ],
+    [ "set_ShowTaskScheduleWarnings", "class_aspose_1_1_tasks_1_1_project_display_options.html#a8d1d33a2e18867ce19ae150ecbffdcd6", null ],
+    [ "set_UnderlineHyperlinks", "class_aspose_1_1_tasks_1_1_project_display_options.html#a0d0d5df636b1c6ac060b64e7197f6619", null ],
+    [ "set_WeekLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a2e7280c75fe5645221ee5ccf6397acaa", null ],
+    [ "set_YearLabel", "class_aspose_1_1_tasks_1_1_project_display_options.html#a28fc31d71776eb84a7c48b8444bba612", null ]
+];

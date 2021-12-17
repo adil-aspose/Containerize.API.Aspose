@@ -1,0 +1,9 @@
+digraph "Aspose::Tasks::Visualization::AssignmentViewColumn"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Aspose::Tasks::Visualization\l::AssignmentViewColumn",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Project's view class."];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Aspose::Tasks::Visualization\l::ViewColumn",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_aspose_1_1_tasks_1_1_visualization_1_1_view_column.html",tooltip="Represents a column in a project view."];
+}
