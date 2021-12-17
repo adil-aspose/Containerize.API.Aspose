@@ -1,0 +1,27 @@
+var class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options =
+[
+    [ "MathRendererOptions", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#aeaa1cf0b146cc64ec718ad4ea63e1b0f", null ],
+    [ "get_BackgroundColor", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a89d9022bf7db6c5b8a24b92b19393fef", null ],
+    [ "get_ErrorReport", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a9d6a3bf62b7cdee08ac625d6808925e5", null ],
+    [ "get_Log", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a5ade5c09632c767525091a15c348acf8", null ],
+    [ "get_LogStream", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#aca6796ce588a193839ed080f74b29ac8", null ],
+    [ "get_Margin", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a6faee2271fd09296c2803f7c45e2b374", null ],
+    [ "get_OutputDirectory", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a680b4a73d590fdd7e67bbb3eb256a354", null ],
+    [ "get_Preamble", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a574a4ac07bd42fe14f65bd51c95bad64", null ],
+    [ "get_Scale", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#aee2ddd54d04a86e288530e75468445cd", null ],
+    [ "get_ShowTerminal", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#aa01a029d5498cf514606655c448e5828", null ],
+    [ "get_TermIn", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a866b3b7cf43b3117c60b144df0c35263", null ],
+    [ "get_TextColor", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#af2d5de88260adc327b562f532ccee459", null ],
+    [ "set_BackgroundColor", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a6b0bf4b31dcaf5cde48d74f3f6b28bc1", null ],
+    [ "set_ErrorReport", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a244418edfd4cdb2ff68e4afdda12e816", null ],
+    [ "set_Log", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#ab15c6af2fbe860b73746db65e7d0aac6", null ],
+    [ "set_LogStream", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#ae5806a5b215c6bc632af28d842fddf20", null ],
+    [ "set_Margin", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a195e2dcc4dc97df05354b29940f1baff", null ],
+    [ "set_OutputDirectory", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#aa5b1e9971d15841315952c82918dce77", null ],
+    [ "set_Preamble", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a219c412871283f4ab04c2d121312c4fc", null ],
+    [ "set_Scale", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a58ac55ef041aa9bbc67fd059623cb740", null ],
+    [ "set_ShowTerminal", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#adeedbef271ee2a3a02f98cd1b6344f88", null ],
+    [ "set_TermIn", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#adbd84c33ed16ecc7d37aa56e8e1035fa", null ],
+    [ "set_TextColor", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a25f2111032557e6f8672087c2de7edf4", null ],
+    [ "Aspose::TeX::Features::MathRenderer", "class_aspose_1_1_te_x_1_1_features_1_1_math_renderer_options.html#a9fcca46bf4574d15129facfa7c308191", null ]
+];

@@ -1,0 +1,28 @@
+var class_aspose_1_1_te_x_1_1_presentation_1_1_save_options =
+[
+    [ "SaveOptions", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#ab6d2a519f6d67ffaf64cfe76874c5124", null ],
+    [ "get_ApsSerializationPath", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#a4c843af52ae568c6a13f7029c1b6f4d3", null ],
+    [ "get_DestinationFormat", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#a14d72a964a9a255258e14377a89617bb", null ],
+    [ "get_Size", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#a75c29a95e9198b7530d983152932d8fe", null ],
+    [ "set_ApsSerializationPath", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#a6c6515a8578a5f8af717de6cd4bf7e84", null ],
+    [ "set_Size", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#afbed437609e5e958d804039a38f7412b", null ],
+    [ "Aspose::TeX::Features::MathRenderer", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#a9fcca46bf4574d15129facfa7c308191", null ],
+    [ "Aspose::TeX::Presentation::Aps::ApsDevice", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#ad87200f834fa54a6f088960e71506cd2", null ],
+    [ "Aspose::TeX::Presentation::Image::ImageDevice", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#ac4fe734f33504c7d1ca5bb3020a87b12", null ],
+    [ "Aspose::TeX::Presentation::Image::ImageSaveOptions", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#a6424599ce9ae67cca10505b9e218252a", null ],
+    [ "Aspose::TeX::Presentation::Pdf::PdfSaveOptions", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#a4bd22560c7026e02c77a33095642bb8c", null ],
+    [ "Aspose::TeX::Presentation::Xps::XpsSaveOptions", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#a77c374598d509448a1cba759502f40e0", null ],
+    [ "Aspose::TeX::Tests::ObjectLaTeX::ObjectLaTeXInstallationTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#ac3490b6966475cb850c15570c800dc97", null ],
+    [ "Aspose::TeX::Tests::ObjectLaTeX::ObjectLaTeXRegressionTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#ae6c613b0483b08748128105485761279", null ],
+    [ "Aspose::TeX::Tests::ObjectLaTeX::ObjectLaTeXVisualTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#a0c7fd1ad5aa13b42b505f2823a914999", null ],
+    [ "Aspose::TeX::Tests::ObjectLaTeX::Packages::DeviceIndependentGraphicPackagesTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#af75cb3a45ad637ce7f17261d734d9cc0", null ],
+    [ "Aspose::TeX::Tests::ObjectLaTeX::Packages::GeometryPackageTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#ac47d1c381a592b3deddc9f3bd88fd1b6", null ],
+    [ "Aspose::TeX::Tests::ObjectLaTeX::Packages::GraphicsPackageTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#ad059d1b21002ca2d4bd786434e0b5959", null ],
+    [ "Aspose::TeX::Tests::ObjectLaTeX::Packages::ObjectLaTeXPackagesTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#aebd3e9e2b30291b28fb1a21302349419", null ],
+    [ "Aspose::TeX::Tests::ObjectTeX::ObjectTeXGraphicsTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#af3d9398d76de0b2ec201f9668b630587", null ],
+    [ "Aspose::TeX::Tests::ObjectTeX::ObjectTeXRegressionTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#aba207eb8b9e9cb442b0a589c1c58a9f6", null ],
+    [ "Aspose::TeX::Tests::ObjectTeX::ObjectTeXVisualTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#adc3f132882d5087d15e76bee369d937e", null ],
+    [ "Aspose::TeX::Tests::VirTeX::IOTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#ac78c8916a7831fea66626a22658e4aef", null ],
+    [ "Aspose::TeX::Tests::VirTeX::VirTeXTracingsTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#a6f7d77a19cbb898886ed899496eacde7", null ],
+    [ "Aspose::TeX::Tests::VirTeX::VirTeXVisualTests", "class_aspose_1_1_te_x_1_1_presentation_1_1_save_options.html#ac5f5c46ffe26cb07ec97a2631449679a", null ]
+];
