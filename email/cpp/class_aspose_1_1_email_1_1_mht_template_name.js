@@ -1,0 +1,26 @@
+var class_aspose_1_1_email_1_1_mht_template_name =
+[
+    [ "Contact", "class_aspose_1_1_email_1_1_mht_template_name_1_1_contact.html", "class_aspose_1_1_email_1_1_mht_template_name_1_1_contact" ],
+    [ "Task", "class_aspose_1_1_email_1_1_mht_template_name_1_1_task.html", "class_aspose_1_1_email_1_1_mht_template_name_1_1_task" ],
+    [ "MhtTemplateName", "class_aspose_1_1_email_1_1_mht_template_name.html#a4bbed1259cca063383ea1f4b3aa7f430", null ],
+    [ "Attachments", "class_aspose_1_1_email_1_1_mht_template_name.html#a5280b52ad91c65e02109ec71d5a60b93", null ],
+    [ "Bcc", "class_aspose_1_1_email_1_1_mht_template_name.html#a72b17b22c11d7e116d7c4af518cac5c8", null ],
+    [ "Categories", "class_aspose_1_1_email_1_1_mht_template_name.html#aab2f6fd3030033d508bfd029e970178e", null ],
+    [ "Cc", "class_aspose_1_1_email_1_1_mht_template_name.html#a9f234657614edc620fc4363f3f1541f0", null ],
+    [ "DateTime", "class_aspose_1_1_email_1_1_mht_template_name.html#ae7f756e65b28d650e253159d071ae664", null ],
+    [ "End", "class_aspose_1_1_email_1_1_mht_template_name.html#a2ea554ef3fe63c2f9dd6811dacfe4917", null ],
+    [ "From", "class_aspose_1_1_email_1_1_mht_template_name.html#a19725dc0dc1d43295fbed0d5579919c3", null ],
+    [ "Importance", "class_aspose_1_1_email_1_1_mht_template_name.html#af1286b40b87821b34f54a575fc8f4e63", null ],
+    [ "Location", "class_aspose_1_1_email_1_1_mht_template_name.html#a045fad81ec24407e0f9b2a129d0b0f45", null ],
+    [ "Organizer", "class_aspose_1_1_email_1_1_mht_template_name.html#af609821011d51cdbae668cb85c280f6f", null ],
+    [ "PageHeader", "class_aspose_1_1_email_1_1_mht_template_name.html#a8ca0eaeb83ad70984de8849be85353ab", null ],
+    [ "Recurrence", "class_aspose_1_1_email_1_1_mht_template_name.html#aea93141b196f3ec91a58ddfc676de831", null ],
+    [ "RecurrencePattern", "class_aspose_1_1_email_1_1_mht_template_name.html#ad0f40ef2bd5ed1742cc6f04c082bb57d", null ],
+    [ "RequiredAttendees", "class_aspose_1_1_email_1_1_mht_template_name.html#a5b34ae03936bbee2a287bc5242ca788e", null ],
+    [ "Sent", "class_aspose_1_1_email_1_1_mht_template_name.html#a6030d7dd437d5532a5741661d46d760e", null ],
+    [ "ShowTimeAs", "class_aspose_1_1_email_1_1_mht_template_name.html#a7cada87303b2225ae2f0b2349d77b7c0", null ],
+    [ "Start", "class_aspose_1_1_email_1_1_mht_template_name.html#a6b91c30fc4ce6ac2f6fca7ff6755e657", null ],
+    [ "Subject", "class_aspose_1_1_email_1_1_mht_template_name.html#a50738eb78e8f56ec984604bf6d0ea87a", null ],
+    [ "TabField", "class_aspose_1_1_email_1_1_mht_template_name.html#ad3a08929d5a4ec6a686cbd84b23ad9dc", null ],
+    [ "To", "class_aspose_1_1_email_1_1_mht_template_name.html#a3c2603bf98fe7baf073edb4d9b40f369", null ]
+];

@@ -1,0 +1,25 @@
+var namespace_aspose_1_1_email_1_1_clients_1_1_graph =
+[
+    [ "V1", "namespace_aspose_1_1_email_1_1_clients_1_1_graph_1_1_v1.html", null ],
+    [ "BaseRestObject", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_base_rest_object.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_base_rest_object" ],
+    [ "Bucket", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_bucket.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_bucket" ],
+    [ "ClassificationOverride", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_classification_override.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_classification_override" ],
+    [ "FolderInfo", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_folder_info.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_folder_info" ],
+    [ "FolderInfoCollection", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_folder_info_collection.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_folder_info_collection" ],
+    [ "GraphClient", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_graph_client.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_graph_client" ],
+    [ "Identity", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_identity.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_identity" ],
+    [ "IdentitySet", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_identity_set.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_identity_set" ],
+    [ "IGraphClient", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_i_graph_client.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_i_graph_client" ],
+    [ "KnownFolders", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_known_folders.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_known_folders" ],
+    [ "MessageInfo", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_message_info.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_message_info" ],
+    [ "MessageInfoCollection", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_message_info_collection.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_message_info_collection" ],
+    [ "Notebook", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_notebook.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_notebook" ],
+    [ "NotebookCollection", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_notebook_collection.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_notebook_collection" ],
+    [ "NotebookLinks", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_notebook_links.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_notebook_links" ],
+    [ "OnenoteOperation", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation" ],
+    [ "OutlookCategory", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_outlook_category.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_outlook_category" ],
+    [ "Thumbnail", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_thumbnail.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_thumbnail" ],
+    [ "ThumbnailSet", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_thumbnail_set.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_thumbnail_set" ],
+    [ "TLODataResponce_OutlookCategory", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_t_l_o_data_responce___outlook_category.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_t_l_o_data_responce___outlook_category" ],
+    [ "UpdateSettings", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_update_settings.html", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_update_settings" ]
+];

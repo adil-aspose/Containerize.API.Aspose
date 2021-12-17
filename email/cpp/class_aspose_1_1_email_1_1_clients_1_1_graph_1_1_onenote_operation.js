@@ -1,0 +1,26 @@
+var class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation =
+[
+    [ "OnenoteOperation", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a406d2b236cd69da35a96a9e33096c6f2", null ],
+    [ "get_CreatedDateTime", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#aa72bb322a1d4c3e90efca4be650e9527", null ],
+    [ "get_Error", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#ad760bf8868f5f1405c7fec278ff310f0", null ],
+    [ "get_Id", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a52f55ef68ccedfb6879a4966058bc380", null ],
+    [ "get_IsCreatedDateTimeSpecified", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a4c5ad0c6876dc52e1a425dee9a20541e", null ],
+    [ "get_IsLastActionDateTimeSpecified", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#ace9d89eea335c3968016c86b0143ce6a", null ],
+    [ "get_LastActionDateTime", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a4fac55534efefc669354887cfaf26585", null ],
+    [ "get_PercentComplete", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#af3521530ce204b77638df17d5054a175", null ],
+    [ "get_ResourceId", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#abe6d20190832260baed955639f8fb049", null ],
+    [ "get_ResourceLocation", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#adc1990c7e9a486972bbec99d023e8bc0", null ],
+    [ "get_Status", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a4a60e7ba91381f2078deb882d376acf3", null ],
+    [ "set_CreatedDateTime", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a63c17850b76e6feccf74363a3aca5eb4", null ],
+    [ "set_Error", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a54adb7b1c6678462b2436f8b136a722d", null ],
+    [ "set_Id", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#aa28c3fe5f8a490ee12b0bcce391bd745", null ],
+    [ "set_IsCreatedDateTimeSpecified", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a78430a945ae70d95e7c1ad66ac5eb827", null ],
+    [ "set_IsLastActionDateTimeSpecified", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a5938e12fc7b4ef46e717948d84a4380e", null ],
+    [ "set_LastActionDateTime", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#aefed3c4e449df04019472828b895db1a", null ],
+    [ "set_PercentComplete", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#ac85a5a5f0168bee032301893f7f5101a", null ],
+    [ "set_ResourceId", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a2047bce33f019125572fef79d154b4ce", null ],
+    [ "set_ResourceLocation", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#ae3a8b4977c560ca661f4eef38e6b0fa7", null ],
+    [ "set_Status", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#aef4c49d0e1ce5db449d497c70f5a24f0", null ],
+    [ "Aspose::Email::Clients::Graph::V1::Commands::GetStatusCommand", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a8c8cc9ae129899d7cd61a2bfb55d5579", null ],
+    [ "Aspose::Email::Clients::Graph::V1::Model::TLOnenoteOperation", "class_aspose_1_1_email_1_1_clients_1_1_graph_1_1_onenote_operation.html#a8d4ec9e7a90a2f0f0ed9269e190eb3bb", null ]
+];

@@ -1,0 +1,27 @@
+var class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set =
+[
+    [ "MapiContactProfessionalPropertySet", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#ae2bbd80f7da49a6ed72aa61400e6799b", null ],
+    [ "MapiContactProfessionalPropertySet", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a6ebc2adf8eb16231ee9f190860199968", null ],
+    [ "MapiContactProfessionalPropertySet", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a880f1a0c1178221e641171704e08be07", null ],
+    [ "MapiContactProfessionalPropertySet", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a58eb1515f845902dae33c5d13b72f910", null ],
+    [ "MapiContactProfessionalPropertySet", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#aef6d65d8fcdf3a12314e3940c34613a8", null ],
+    [ "MapiContactProfessionalPropertySet", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a0768a442c09eb1ec7a74800c9dc0aba8", null ],
+    [ "get_Assistant", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#aef7203054a1fc5c34a5b02d0213eec85", null ],
+    [ "get_CompanyName", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#ae2efbac495d3a08fed2aa7daa75f39c9", null ],
+    [ "get_DepartmentName", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#ab309896816b583056f0a480c1df2bb34", null ],
+    [ "get_ManagerName", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a1bedb42f93f3f31f4ae17f5bdd71ae61", null ],
+    [ "get_OfficeLocation", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a12b69d223053f857c1ba649d7248f001", null ],
+    [ "get_Profession", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a88d2fc37d1b1524e34b2d62212b26d84", null ],
+    [ "get_Title", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#ae31aeb2afb1c02b3c98caa03b4f0606e", null ],
+    [ "set_Assistant", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a2060aa780af91e2e53867377f6e1a60b", null ],
+    [ "set_CompanyName", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a1aba9ae95e7d89006968d337ba704535", null ],
+    [ "set_DepartmentName", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a0d2e7410e448a051ef6769faa5ec40c6", null ],
+    [ "set_ManagerName", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a0578327827aa5ef981fca338dde16440", null ],
+    [ "set_OfficeLocation", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a2d71c1ec6ac355e68005eeb4c4866371", null ],
+    [ "set_Profession", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a9191bca02804b7f773d67ba61200b9fc", null ],
+    [ "set_Title", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a9b28ad646d146ab46d7615f3c230d2ac", null ],
+    [ "SetProperties", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#aba1432a48d32c2652a7f88f8072e2195", null ],
+    [ "ToVCard", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a737834e2f54f39292e25e28257fb588b", null ],
+    [ "Aspose::Email::Mapi::MapiContact", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#a3ca47f6bbd8d135213cd181ba3f43963", null ],
+    [ "Aspose::Email::Tools::ContactConverter", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_professional_property_set.html#ae2257b07c000d0033e72fa43ab9154c2", null ]
+];

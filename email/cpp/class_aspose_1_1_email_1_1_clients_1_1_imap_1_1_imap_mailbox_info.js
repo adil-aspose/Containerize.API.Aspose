@@ -1,0 +1,25 @@
+var class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info =
+[
+    [ "ImapMailboxInfo", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#ac17c783a5eb761a180525c5733db7d8f", null ],
+    [ "get_AllMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a9ea1d0c1defc6795220cf67ddc642c0d", null ],
+    [ "get_ArchivedMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a5a6d53ef773c5bd995fab683028d4726", null ],
+    [ "get_DraftMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#aafb9a41bccf782b7dc548d637c77ceda", null ],
+    [ "get_FlaggedMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#ae7b6a7b24bd0fddd0401c04eb0745ce3", null ],
+    [ "get_Important", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a28a17af5f9a214b2bb7e92e32b1f8f30", null ],
+    [ "get_Inbox", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#af25074e62779a654eb5262f9b40c6ba8", null ],
+    [ "get_JunkMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a2ea41000f5464ba6284a5ab99d720fec", null ],
+    [ "get_SentMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#aa75767818a4ab29cebbf006985e6e9a3", null ],
+    [ "get_Trash", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a550236c560b9e6b50051321e9f850653", null ],
+    [ "set_AllMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a38aa8d7ec60caff5846481f97fb6fcf7", null ],
+    [ "set_ArchivedMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a3e3d1ce0bda5c6b60060769c00f4c0ed", null ],
+    [ "set_DraftMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a039f1d87b6daf027f4e24410c2d7bf59", null ],
+    [ "set_FlaggedMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a658e347a97881190f8266eb79fe0a298", null ],
+    [ "set_Important", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a434a464aabf01ea1a843a2ea80d76b51", null ],
+    [ "set_Inbox", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#aab36accdf30cb1fbaed5120d940c09b5", null ],
+    [ "set_JunkMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a79bd8ba73c0e6d1cf7e647c6f13f3c9a", null ],
+    [ "set_SentMessages", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a76963da4aafd57834e9cddb07032d43b", null ],
+    [ "set_Trash", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#ab5c581a091fc872d17d196505b9a65bc", null ],
+    [ "ToArray", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a2dd9782a97a5f36b11e74e17d56f9359", null ],
+    [ "Aspose::Email::Clients::Imap::Commands::ConnectGrCommand", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#a58db8be1b8bd0ad1da3cc8bebba50525", null ],
+    [ "Aspose::Email::Clients::Imap::Commands::ListCommand", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_imap_mailbox_info.html#ade43f9b90fb89a715dd0661fbba57282", null ]
+];

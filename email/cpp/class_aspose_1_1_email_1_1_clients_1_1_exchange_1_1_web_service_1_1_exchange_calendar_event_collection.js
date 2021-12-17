@@ -1,0 +1,5 @@
+var class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_exchange_calendar_event_collection =
+[
+    [ "~ExchangeCalendarEventCollection", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_exchange_calendar_event_collection.html#ac6abc24bf7bd0f06004e5c0b275657e6", null ],
+    [ "SetTemplateWeakPtr", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_exchange_calendar_event_collection.html#a4a3bd8efc65866fbcd8177a8f250e86d", null ]
+];

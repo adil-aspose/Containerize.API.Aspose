@@ -1,0 +1,25 @@
+var class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property =
+[
+    [ "MapiObjectProperty", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a34d4b1c7be5ba8e52cd5cbf817bd370d", null ],
+    [ "MapiObjectProperty", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a6078a3577325b7a561ad0972b7bdadda", null ],
+    [ "Clone", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a15e0566cfa30f84bfdaf2c4639d67900", null ],
+    [ "CreateMapiNode", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a38139b4630df3ca11de2cc34e9eb331b", null ],
+    [ "get_Container", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a3ea782ece8831e17596c7274458c9e51", null ],
+    [ "get_DocumentName", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a40efb509119f6b2762410f5569318b95", null ],
+    [ "get_IsOutlookMessage", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#ad51ed5994ca89e26c8457d5e36f7327a", null ],
+    [ "get_OleDocumentFormat", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a704e789ff188a87d30356d83d3b92a80", null ],
+    [ "get_Properties", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a2527c0757e251971ef69c1e2d23115db", null ],
+    [ "GetPropertyStreamContent", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a3c95ceee47e6e1b9ee918d68d4757497", null ],
+    [ "GetSubStorages", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a7153993472473fc290a1812252e10b5c", null ],
+    [ "SetDocumentName", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a5f7c72e0302bd8287cc06387d3e32054", null ],
+    [ "SetOleDocumentFormat", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a96386d5ffed50eb91f8a48ea9e158905", null ],
+    [ "ToMapiMessage", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a92137905e9266f41ab23a3040d508499", null ],
+    [ "Aspose::Email::Mapi::MapiAttachment", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#aacfe5326ab2950522bd1f6cbe35b2015", null ],
+    [ "Aspose::Email::Mapi::MapiMessage", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#ad6e0be02b8119981d8382189fadb18b1", null ],
+    [ "Aspose::Email::Mapi::Nodes::CustomObjectNode", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a65554ce7fb8a51739b1def7eb2c7c8ba", null ],
+    [ "Aspose::Email::Storage::Pst::Ltp::LtpDoer", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a42a640e1d0df9d2896da9cd6fcbc57ce", null ],
+    [ "Aspose::Email::Storage::Pst::PstDoer", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a2738b7aaf4b03986cecaaa8f3eeefe62", null ],
+    [ "Aspose::Email::Storage::Pst::PstUtil", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a4a21ff01369ce48ce7ffd8306bf9d4c6", null ],
+    [ "Aspose::Email::Tnef::TnefAttachment", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#ae3939bb9b0abe3e1ffb7516fb728f3e5", null ],
+    [ "Aspose::Email::Tnef::TnefMessageProperty", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_object_property.html#a21744c556000ad1ac1b7cc35cdb683ec", null ]
+];

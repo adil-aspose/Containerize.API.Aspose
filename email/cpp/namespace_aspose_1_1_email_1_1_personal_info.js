@@ -1,0 +1,27 @@
+var namespace_aspose_1_1_email_1_1_personal_info =
+[
+    [ "VCard", "namespace_aspose_1_1_email_1_1_personal_info_1_1_v_card.html", "namespace_aspose_1_1_email_1_1_personal_info_1_1_v_card" ],
+    [ "AssociatedPerson", "class_aspose_1_1_email_1_1_personal_info_1_1_associated_person.html", "class_aspose_1_1_email_1_1_personal_info_1_1_associated_person" ],
+    [ "AssociatedPersonCategory", "class_aspose_1_1_email_1_1_personal_info_1_1_associated_person_category.html", "class_aspose_1_1_email_1_1_personal_info_1_1_associated_person_category" ],
+    [ "AssociatedPersonsList", "class_aspose_1_1_email_1_1_personal_info_1_1_associated_persons_list.html", "class_aspose_1_1_email_1_1_personal_info_1_1_associated_persons_list" ],
+    [ "Contact", "class_aspose_1_1_email_1_1_personal_info_1_1_contact.html", "class_aspose_1_1_email_1_1_personal_info_1_1_contact" ],
+    [ "ContactPhoto", "class_aspose_1_1_email_1_1_personal_info_1_1_contact_photo.html", "class_aspose_1_1_email_1_1_personal_info_1_1_contact_photo" ],
+    [ "CustomerEvent", "class_aspose_1_1_email_1_1_personal_info_1_1_customer_event.html", "class_aspose_1_1_email_1_1_personal_info_1_1_customer_event" ],
+    [ "EmailAddress", "class_aspose_1_1_email_1_1_personal_info_1_1_email_address.html", "class_aspose_1_1_email_1_1_personal_info_1_1_email_address" ],
+    [ "EmailAddressCategory", "class_aspose_1_1_email_1_1_personal_info_1_1_email_address_category.html", "class_aspose_1_1_email_1_1_personal_info_1_1_email_address_category" ],
+    [ "EmailAddressList", "class_aspose_1_1_email_1_1_personal_info_1_1_email_address_list.html", "class_aspose_1_1_email_1_1_personal_info_1_1_email_address_list" ],
+    [ "EventCategory", "class_aspose_1_1_email_1_1_personal_info_1_1_event_category.html", "class_aspose_1_1_email_1_1_personal_info_1_1_event_category" ],
+    [ "EventList", "class_aspose_1_1_email_1_1_personal_info_1_1_event_list.html", "class_aspose_1_1_email_1_1_personal_info_1_1_event_list" ],
+    [ "InstantMessengerAddress", "class_aspose_1_1_email_1_1_personal_info_1_1_instant_messenger_address.html", "class_aspose_1_1_email_1_1_personal_info_1_1_instant_messenger_address" ],
+    [ "InstantMessengerCategory", "class_aspose_1_1_email_1_1_personal_info_1_1_instant_messenger_category.html", "class_aspose_1_1_email_1_1_personal_info_1_1_instant_messenger_category" ],
+    [ "InstantMessengerList", "class_aspose_1_1_email_1_1_personal_info_1_1_instant_messenger_list.html", "class_aspose_1_1_email_1_1_personal_info_1_1_instant_messenger_list" ],
+    [ "PhoneNumber", "class_aspose_1_1_email_1_1_personal_info_1_1_phone_number.html", "class_aspose_1_1_email_1_1_personal_info_1_1_phone_number" ],
+    [ "PhoneNumberCategory", "class_aspose_1_1_email_1_1_personal_info_1_1_phone_number_category.html", "class_aspose_1_1_email_1_1_personal_info_1_1_phone_number_category" ],
+    [ "PhoneNumberList", "class_aspose_1_1_email_1_1_personal_info_1_1_phone_number_list.html", "class_aspose_1_1_email_1_1_personal_info_1_1_phone_number_list" ],
+    [ "PostalAddress", "class_aspose_1_1_email_1_1_personal_info_1_1_postal_address.html", "class_aspose_1_1_email_1_1_personal_info_1_1_postal_address" ],
+    [ "PostalAddressCategory", "class_aspose_1_1_email_1_1_personal_info_1_1_postal_address_category.html", "class_aspose_1_1_email_1_1_personal_info_1_1_postal_address_category" ],
+    [ "PostalAddressList", "class_aspose_1_1_email_1_1_personal_info_1_1_postal_address_list.html", "class_aspose_1_1_email_1_1_personal_info_1_1_postal_address_list" ],
+    [ "Url", "class_aspose_1_1_email_1_1_personal_info_1_1_url.html", "class_aspose_1_1_email_1_1_personal_info_1_1_url" ],
+    [ "UrlCategory", "class_aspose_1_1_email_1_1_personal_info_1_1_url_category.html", "class_aspose_1_1_email_1_1_personal_info_1_1_url_category" ],
+    [ "UrlList", "class_aspose_1_1_email_1_1_personal_info_1_1_url_list.html", "class_aspose_1_1_email_1_1_personal_info_1_1_url_list" ]
+];

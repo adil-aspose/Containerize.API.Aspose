@@ -1,0 +1,27 @@
+var class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings =
+[
+    [ "RestoreSettings", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a88e82e9916c2d1889850d1932441be17", null ],
+    [ "BeforeItemCallbackExecutor", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#aebb4baa8b0faa91249b95381b8ae1937", null ],
+    [ "get_BeforeItemCallback", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a43d9b84dbd50df2b8939a06dc767a577", null ],
+    [ "get_Connection", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#aa9c7a1c5f64a3b7ca883952867edc5e5", null ],
+    [ "get_Folders", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a2ecc7290b75d7e7ef6809d94b18edf74", null ],
+    [ "get_NumberOfAttemptsToRrepeat", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a5f11a7cf2d160320c7b8c41c8c7a1074", null ],
+    [ "get_Options", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a5d8768547001f583504ec73231b6a319", null ],
+    [ "get_Recursive", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a1ce8938a35489c334e0dfc6d06a381ba", null ],
+    [ "get_RemoveNonexistentFolders", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a7eb0c4466156c1e9bfda454ff27e96ab", null ],
+    [ "get_RemoveNonexistentItems", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#aa5b923909203107b574fac53ceebf41f", null ],
+    [ "get_RestoreConnection", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a26f6196f852298c4ffd71c1e692076bf", null ],
+    [ "get_TimeoutBetweenAttempts", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#af64ad604d0403f0810f7487b99df8a3c", null ],
+    [ "set_BeforeItemCallback", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a502b3832fe7fe50cce82c4933afdae89", null ],
+    [ "set_Connection", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a40ddaa13f431a892a4edbca0807ff1a2", null ],
+    [ "set_Folders", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a62521a2292ad900cbb998f3ed6f0fe50", null ],
+    [ "set_NumberOfAttemptsToRrepeat", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a23f8d08beadbfbe7384e0ebab3f88f7e", null ],
+    [ "set_Options", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a5b1c2e218b2edfbe4beb71a211a6b8ec", null ],
+    [ "set_Recursive", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a91cd17f0501786e2b37509e8c9b54056", null ],
+    [ "set_RemoveNonexistentFolders", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a159712cdbffedc28859cd49534dd0269", null ],
+    [ "set_RemoveNonexistentItems", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a324dd7b7bfce210c026a0b212b4e4888", null ],
+    [ "set_RestoreConnection", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a120985eab211ef5d5c468cb54a5d6695", null ],
+    [ "set_TimeoutBetweenAttempts", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#aa8679dccb2d3faf61e26e19b32be6f12", null ],
+    [ "to_RestoreSettings", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a6876647450add96e24c489364cbefaf5", null ],
+    [ "Aspose::Email::Clients::Imap::Commands::RestoreGrCommand", "class_aspose_1_1_email_1_1_clients_1_1_imap_1_1_restore_settings.html#a96eb021268c250bbfb5ec314cd906b4d", null ]
+];

@@ -1,0 +1,25 @@
+var class_aspose_1_1_email_1_1_clients_1_1_token_provider =
+[
+    [ "Google", "class_aspose_1_1_email_1_1_clients_1_1_token_provider_1_1_google.html", "class_aspose_1_1_email_1_1_clients_1_1_token_provider_1_1_google" ],
+    [ "Outlook", "class_aspose_1_1_email_1_1_clients_1_1_token_provider_1_1_outlook.html", "class_aspose_1_1_email_1_1_clients_1_1_token_provider_1_1_outlook" ],
+    [ "TokenProvider", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#ab53e4861b5418fd1194fbd819212a7e5", null ],
+    [ "TokenProvider", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a964722e677950bcf8771a64965c460e8", null ],
+    [ "TokenProvider", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a77c9a2ad58b663fafe8fd9ee3a870064", null ],
+    [ "TokenProvider", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a7826f635e2a462ce389d6ad603bf79df", null ],
+    [ "Dispose", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#ac7f7a02c9b2f09b3047580f7becdc531", null ],
+    [ "get_ClientId", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#aca8b14364920cb91f9ec052f1ce85080", null ],
+    [ "get_ClientSecret", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#ab4aea2997aea44f9c09576bccb58032b", null ],
+    [ "get_ExtraParameters", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#ab389fdba1223d26eee120cc836071426", null ],
+    [ "get_Login", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a5c995f481fe836e6d551d91cc8016447", null ],
+    [ "get_Password", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a83fa2fc23805dba263d6a665399c0454", null ],
+    [ "get_RefreshToken", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#aa8d36686cf19f5a25c780bf4816352c5", null ],
+    [ "get_RequestUrl", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a9916529784fd8008be5a904cccf577cd", null ],
+    [ "get_UseBasicAuthorization", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a946051ab9ae50dcce5369353abc4086c", null ],
+    [ "getAccessToken", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a5a0a2a99be84a0d4ba1505a5bacb2f6d", null ],
+    [ "GetAccessToken", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#ab7fdcb4ad375afc82bc5ec98518227d3", null ],
+    [ "GetAccessToken", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a74b297cecd982c1bde4ee113cc4edbad", null ],
+    [ "GetInstance", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a46bf57b93d43a27ec1c92a787ccafb42", null ],
+    [ "set_Login", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#ac2f9dc755e500498d1ce939b06df0fd3", null ],
+    [ "set_Password", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a190bb2423fb109ce750502ae6103b998", null ],
+    [ "set_UseBasicAuthorization", "class_aspose_1_1_email_1_1_clients_1_1_token_provider.html#a929aea3b0f2ae61b2ae6535bf2e60d26", null ]
+];

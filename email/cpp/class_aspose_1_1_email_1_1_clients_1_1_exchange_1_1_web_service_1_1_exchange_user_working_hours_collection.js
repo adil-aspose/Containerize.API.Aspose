@@ -1,0 +1,5 @@
+var class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_exchange_user_working_hours_collection =
+[
+    [ "~ExchangeUserWorkingHoursCollection", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_exchange_user_working_hours_collection.html#a2ed0c25cf4b89ea72a97113eff255b14", null ],
+    [ "SetTemplateWeakPtr", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_exchange_user_working_hours_collection.html#a64fe6c3f0049c939c872b99668b7c332", null ]
+];

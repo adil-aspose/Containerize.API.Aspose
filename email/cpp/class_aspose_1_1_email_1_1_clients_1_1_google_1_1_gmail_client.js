@@ -1,0 +1,28 @@
+var class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client =
+[
+    [ "GmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#afc85115ae1d7117fa56e263c56b66708", null ],
+    [ "GmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a6ef886b9cad095754348affb7fbb05a7", null ],
+    [ "GmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a3fef6974ddd9d243e878a1e36ac4e012", null ],
+    [ "GmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#aa14dec413ecd772320aa1563838c0139", null ],
+    [ "GmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#ad9c3d700c3c3ff285331f1592193c279", null ],
+    [ "GmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a7371d3011791cebf6fa88e5b0271bcab", null ],
+    [ "GmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a245cc396f87504af18cbcd57dfd74858", null ],
+    [ "GmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a965b43d74a1e07a3cf71d15a03dfc93b", null ],
+    [ "Dispose", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#af454bc80a12b268b231006900e7166f4", null ],
+    [ "get_AccessToken", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a2e5cab52b1cfb49ea8615a974e09f6bc", null ],
+    [ "get_DefaultEmail", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a7faf551cf2b64ff22d8887bf2b66bfc0", null ],
+    [ "get_DefaultTimeout", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#abfc353c99797b34d4b7f458f47972edb", null ],
+    [ "get_Proxy", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a70e48b2e967edf34001ee112bce49524", null ],
+    [ "get_Timeout", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a03b86df0a9e5aae86747fa703314cdf0", null ],
+    [ "GetInstance", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a829d67811c02681ae651630f3e5cb535", null ],
+    [ "GetInstance", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a01728ac84cdc7b00f6cf678419e70df6", null ],
+    [ "GetInstance", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#aa8f37d96aefd3e7d9acb2e1c4552b444", null ],
+    [ "GetInstance", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a24677397c642a6cddc95265f3fee1b51", null ],
+    [ "RefreshToken", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a3f6f81d11422fbfd9811fc033f1532ad", null ],
+    [ "set_AccessToken", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a46c644708fc8b97df5526f08521235aa", null ],
+    [ "set_DefaultEmail", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a6ae6c8949623fedd8429203339f69d10", null ],
+    [ "set_DefaultTimeout", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#ad35cc5fa1c2fb1b0212b1cc6ab427e7d", null ],
+    [ "set_Proxy", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a918d874cf562f61a93c74f7a7f10d55d", null ],
+    [ "set_Timeout", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#a966e334e6b551f9324514ff311b993c3", null ],
+    [ "Aspose::Email::Clients::Google::GmailClient_v3", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html#acb86f96898ccea0a6eaa213469e5a375", null ]
+];

@@ -1,0 +1,25 @@
+var class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event =
+[
+    [ "RecipientTrackingEvent", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#ac57c5c5d3cd6e401914de96cbf325990", null ],
+    [ "get_BccRecipient", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a9e75d5d5d2c8b3cbfceb347c9a3d4088", null ],
+    [ "get_Date", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a0ff13e6114739141aa367d2b924456f5", null ],
+    [ "get_DeliveryStatus", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a58d7765abc3755b97f9d03ba60203b69", null ],
+    [ "get_EventData", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a37643a960999097b1efbdafc9b89f0d3", null ],
+    [ "get_EventDescription", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a60514a9e39aa3b9ca892d2048af1100a", null ],
+    [ "get_HiddenRecipient", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a2c845d911b0995fd4da12be151a10264", null ],
+    [ "get_InternalIdentifier", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#abb333cb9349969cce2237e72fedd3f86", null ],
+    [ "get_Recipient", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a0e3d9c9830e28b9b4bf543e124ffcba7", null ],
+    [ "get_Server", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a74d6ac3407d9fd884bfc3cd74504aa7f", null ],
+    [ "get_UniquePathId", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a7f2f2654fa41b57cca2d4bebdc5e2b62", null ],
+    [ "set_BccRecipient", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a0d85b5c2f22f6b3406764dc3b874d5de", null ],
+    [ "set_Date", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a870963503afb3ae9cbdb17dea747be7f", null ],
+    [ "set_DeliveryStatus", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#ab97499d5614ee306fae80c75422d6e02", null ],
+    [ "set_EventData", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#aacc7437d68f923d17e065cd7f3baa8a5", null ],
+    [ "set_EventDescription", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a3961b4657c1090883270b7bcc87ba71c", null ],
+    [ "set_HiddenRecipient", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a31732fbc6b4ec7b33b35f173a0f852f0", null ],
+    [ "set_InternalIdentifier", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#ac84b65cab245a20d8c06253d4422b026", null ],
+    [ "set_Recipient", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a14b0176f37f1f9d59207a26d79416fc9", null ],
+    [ "set_Server", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a8988107fda0e284e63b1b34b411bb3b8", null ],
+    [ "set_UniquePathId", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a34db29891551a821ac868ccde619e984", null ],
+    [ "Aspose::Email::Clients::Exchange::WebService::EWSClient2010", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_recipient_tracking_event.html#a8884eeef5108a852d5334b7266aa6cf9", null ]
+];

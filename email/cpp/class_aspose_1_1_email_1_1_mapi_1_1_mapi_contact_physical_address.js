@@ -1,0 +1,26 @@
+var class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address =
+[
+    [ "MapiContactPhysicalAddress", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a656df4d6dc4b488038f267eda8c31b10", null ],
+    [ "get_Address", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#aaed7242d1304e3597ba89248206f011c", null ],
+    [ "get_City", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a9c457fdae218f63095e6b926989f51d2", null ],
+    [ "get_Country", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#ac381e91e9f09f57e456ec722066e1899", null ],
+    [ "get_CountryCode", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a9ffcb604d666b4ba369adebe6f7ab7f7", null ],
+    [ "get_IsMailingAddress", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a6a2a25c765017e51090811246a600ab9", null ],
+    [ "get_PostalCode", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a6c5786c8a56b830109fedf978ce33833", null ],
+    [ "get_PostOfficeBox", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a061b0d7d8296cdfceee4e64bedb6cab3", null ],
+    [ "get_StateOrProvince", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#afd71be47db278f54c43206407a8ff60c", null ],
+    [ "get_Street", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#af6ddab7faf294345d494b494a0404481", null ],
+    [ "ParseFromVCard", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#ab36c1ba95de18992fe1ad1cafe832bee", null ],
+    [ "set_Address", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#acfd2597df5a20fc7ca52a1995010700e", null ],
+    [ "set_City", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a218431de1dff1e2c4fceba01acd6f02f", null ],
+    [ "set_Country", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#adf015fc74172ee6b6e6043f10a0cf3b4", null ],
+    [ "set_CountryCode", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a11bd17ed7aef14eff44137069f6e42d9", null ],
+    [ "set_IsMailingAddress", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a5f1728db1975ccaca9d579d2d9c1abe4", null ],
+    [ "set_PostalCode", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a747adc6c3cd82127e41fa7f5295b0829", null ],
+    [ "set_PostOfficeBox", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a3bed435ae432396c06782f17a86fb093", null ],
+    [ "set_StateOrProvince", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#ae75e68c9878f3da4b5219c4834f2c01a", null ],
+    [ "set_Street", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a96b5e55d6e691aa312dfd595009ef639", null ],
+    [ "ToVCardValue", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#a7dc15eaeaf30ef61e90d33d6657448c8", null ],
+    [ "Aspose::Email::Mapi::MapiContactPhysicalAddressPropertySet", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#ad680473020cb34a095cc9a45e4e65a70", null ],
+    [ "Aspose::Email::Tools::ContactConverter", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_physical_address.html#ae2257b07c000d0033e72fa43ab9154c2", null ]
+];

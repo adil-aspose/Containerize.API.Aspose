@@ -1,0 +1,25 @@
+var namespace_aspose_1_1_email_1_1_clients_1_1_google =
+[
+    [ "Commands", "namespace_aspose_1_1_email_1_1_clients_1_1_google_1_1_commands.html", "namespace_aspose_1_1_email_1_1_clients_1_1_google_1_1_commands" ],
+    [ "AccessControlRule", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_access_control_rule.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_access_control_rule" ],
+    [ "AclScope", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_acl_scope.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_acl_scope" ],
+    [ "BaseDataObject", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_base_data_object.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_base_data_object" ],
+    [ "Calendar", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_calendar.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_calendar" ],
+    [ "Colors", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_colors.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_colors" ],
+    [ "ColorsInfo", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_colors_info.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_colors_info" ],
+    [ "ConferenceProperties", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_conference_properties.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_conference_properties" ],
+    [ "ContactGroupCollection", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_contact_group_collection.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_contact_group_collection" ],
+    [ "ErrorDetails", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_error_details.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_error_details" ],
+    [ "ExtendedCalendar", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_extended_calendar.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_extended_calendar" ],
+    [ "FreebusyCalendarInfo", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_freebusy_calendar_info.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_freebusy_calendar_info" ],
+    [ "FreebusyGroupInfo", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_freebusy_group_info.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_freebusy_group_info" ],
+    [ "FreebusyQuery", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_freebusy_query.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_freebusy_query" ],
+    [ "FreebusyResponse", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_freebusy_response.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_freebusy_response" ],
+    [ "Gadget", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gadget.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gadget" ],
+    [ "GmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_gmail_client" ],
+    [ "GoogleContactGroup", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_google_contact_group.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_google_contact_group" ],
+    [ "IBaseGmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_i_base_gmail_client.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_i_base_gmail_client" ],
+    [ "IGmailClient", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_i_gmail_client.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_i_gmail_client" ],
+    [ "Range", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_range.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_range" ],
+    [ "Reminders", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_reminders.html", "class_aspose_1_1_email_1_1_clients_1_1_google_1_1_reminders" ]
+];

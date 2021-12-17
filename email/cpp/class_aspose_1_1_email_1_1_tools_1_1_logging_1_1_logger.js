@@ -1,0 +1,27 @@
+var class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger =
+[
+    [ "Logger", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a3c0a9a273df0a42eb3877800f3aa897b", null ],
+    [ "Logger", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#ae36b11937f691dfdc676e6c1ac72d44b", null ],
+    [ "Dispose", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a2f79e6fbc11e8c044c840f8e2e21b17e", null ],
+    [ "get_Appenders", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a3ca29ee2a066d603acd58298d8c40813", null ],
+    [ "get_Debug", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#af98baaf19ac57d0c83df02fa4dddd45c", null ],
+    [ "get_Name", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a9a2a78696d237535206584488945989c", null ],
+    [ "get_Severity", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a3e5019d84431f88f24d29cfe14b546df", null ],
+    [ "IsEnabled", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#ab6d0692297cb24f6f63f5badc4b9b319", null ],
+    [ "set_Appenders", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a7e5530074ba507fc8bdb85e5228373ce", null ],
+    [ "set_Severity", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a79054cb7bb917b6858c7820dcdbeac9f", null ],
+    [ "Write", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#abc102c0ce764e24336b5a9528d8d3e4e", null ],
+    [ "Write", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a81848caeec4e1ac249725596d5591c2d", null ],
+    [ "Write", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a60c4a3c93a2eb82c63b2e80480c73166", null ],
+    [ "Write", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#aed28881c63bf9fcd80599a672ad9ed10", null ],
+    [ "WriteFormat", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#af19009992d28ae624288b1648382f131", null ],
+    [ "WriteIf", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a3f72df1e0c4cfffd2f49faff27d7a377", null ],
+    [ "WriteIf", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a9988170eb3aa059ea4ac41afc3525cd5", null ],
+    [ "WriteIf", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a87ff0c0e573c82546d6ba53a486bdeac", null ],
+    [ "WriteIf", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a88364829549e99d484451989c7d903a7", null ],
+    [ "WriteIf", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#aef8552394b85537d1b118accfac2dac0", null ],
+    [ "WriteLine", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a7d57226acee93e18a567518c14158f8b", null ],
+    [ "WriteLine", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#a7acbbe234df9243924081540aed2a7ed", null ],
+    [ "WriteLine", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#ac3d50813e9cd5c7d0164c26fd07e2e2f", null ],
+    [ "Aspose::Email::Tools::Logging::LoggerManager", "class_aspose_1_1_email_1_1_tools_1_1_logging_1_1_logger.html#accac33449508c09fa47b3531b213ffa0", null ]
+];

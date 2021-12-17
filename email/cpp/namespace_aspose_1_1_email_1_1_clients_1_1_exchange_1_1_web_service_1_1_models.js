@@ -1,0 +1,7 @@
+var namespace_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_models =
+[
+    [ "EwsAppendMessage", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_models_1_1_ews_append_message.html", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_models_1_1_ews_append_message" ],
+    [ "EwsFetchItems", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_models_1_1_ews_fetch_items.html", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_models_1_1_ews_fetch_items" ],
+    [ "EwsFindPeople", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_models_1_1_ews_find_people.html", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_models_1_1_ews_find_people" ],
+    [ "EwsUpdateItem", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_models_1_1_ews_update_item.html", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_models_1_1_ews_update_item" ]
+];

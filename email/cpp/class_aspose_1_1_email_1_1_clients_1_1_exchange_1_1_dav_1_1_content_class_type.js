@@ -1,0 +1,26 @@
+var class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type =
+[
+    [ "ContentClassType", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a42543e40c7dba385e3f39d95ace37caa", null ],
+    [ "get_Activity", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#ab6ec32fef8af248412ed6de3f3ab6720", null ],
+    [ "get_Appointment", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a8502f31228df8584f749b703329b7a37", null ],
+    [ "get_CalendarFolder", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a9bcc3158383301767e55b50383d35cb2", null ],
+    [ "get_CalendarMessage", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#abedc12506cdcd3938d8b5704ab41dd2b", null ],
+    [ "get_ContactFolder", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a79ece3b10640bf9705b19a564bd78cba", null ],
+    [ "get_Document", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#accee388e9e3ef397e88f94d61779b38c", null ],
+    [ "get_DSN", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a1783d69eb1a3f44f1835093f2ab45b94", null ],
+    [ "get_Folder", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#af86ab3e9db86c5b93960851d3d7f1433", null ],
+    [ "get_Group", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a881ba03e51299c6250a62b34361401a5", null ],
+    [ "get_JournalFolder", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#ab95a09775eead93ca5f0c66078518e28", null ],
+    [ "get_MailFolder", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a6300b94feda96636cd281c12122b141b", null ],
+    [ "get_MDN", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a5e997b930ddc5d3f48510fd60a7b9c98", null ],
+    [ "get_Message", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a87ea996e65c5e256a807faab058fcdb9", null ],
+    [ "get_Note", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a923f464e13cc7d0eb112b4beef61325c", null ],
+    [ "get_NoteFolder", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a994efaeebdf23135124a511a31fc951e", null ],
+    [ "get_Person", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a4ad48350a18a6253f9c85759bd6fd8a4", null ],
+    [ "get_RecallMesage", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a34f37e3c6a19ece036c45201540fd613", null ],
+    [ "get_RecallReport", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a64f314aeeba28e102ff23b75f6e2514b", null ],
+    [ "get_ReportMessage", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#afaaef7606219ca9cf47930135cdb5084", null ],
+    [ "get_Task", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#ac7437259826261e415927da0e1417a36", null ],
+    [ "get_TaskFolder", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#ada582bd604c6959d95b8004ee86456f0", null ],
+    [ "ToString", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_dav_1_1_content_class_type.html#a2572b6d40b7cf37d8b4c4c0d820b6811", null ]
+];

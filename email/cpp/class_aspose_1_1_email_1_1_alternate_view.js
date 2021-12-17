@@ -1,0 +1,26 @@
+var class_aspose_1_1_email_1_1_alternate_view =
+[
+    [ "AlternateView", "class_aspose_1_1_email_1_1_alternate_view.html#ab2b21446afd4c4509c0ffbb1ee432e0c", null ],
+    [ "AlternateView", "class_aspose_1_1_email_1_1_alternate_view.html#aa77d804899bf39bd74a5418867a046d9", null ],
+    [ "AlternateView", "class_aspose_1_1_email_1_1_alternate_view.html#a29c501d9a1f84b64424031bed0f714c4", null ],
+    [ "AlternateView", "class_aspose_1_1_email_1_1_alternate_view.html#a28ca42e82fc531f778e08422ecf230b9", null ],
+    [ "AlternateView", "class_aspose_1_1_email_1_1_alternate_view.html#a72c0400b8261d38adefded396eabe830", null ],
+    [ "AlternateView", "class_aspose_1_1_email_1_1_alternate_view.html#a46244962c3469f7803c63a6c4846ec46", null ],
+    [ "AlternateView", "class_aspose_1_1_email_1_1_alternate_view.html#a2004a0b2e5a54e327d38e351177871c3", null ],
+    [ "AlternateView", "class_aspose_1_1_email_1_1_alternate_view.html#a31ee629883e565445c3318836472b05e", null ],
+    [ "Clone", "class_aspose_1_1_email_1_1_alternate_view.html#a436416504117716ac8e16e96ceffd885", null ],
+    [ "ConvertToMapiAttachment", "class_aspose_1_1_email_1_1_alternate_view.html#aae22fdf4c0a903500f6b71819b823df0", null ],
+    [ "CreateAlternateViewFromString", "class_aspose_1_1_email_1_1_alternate_view.html#a4b013c9a3426a100fe4ec3d36e4314fd", null ],
+    [ "CreateAlternateViewFromString", "class_aspose_1_1_email_1_1_alternate_view.html#a430c67ce824734dd5da951918616bde5", null ],
+    [ "CreateAlternateViewFromString", "class_aspose_1_1_email_1_1_alternate_view.html#ae0d80e4e2912a4401ed62b8d25065eaa", null ],
+    [ "CreateAlternateViewFromString", "class_aspose_1_1_email_1_1_alternate_view.html#ac63e27e3616dc14c89dcd10a209da941", null ],
+    [ "Dispose", "class_aspose_1_1_email_1_1_alternate_view.html#abe5d316b5242a8e045efde4506ce2348", null ],
+    [ "get_BaseUri", "class_aspose_1_1_email_1_1_alternate_view.html#ae3cf8f6bdf856df89ee86e8165657833", null ],
+    [ "get_LinkedResources", "class_aspose_1_1_email_1_1_alternate_view.html#acd12b534f2bceb11be36bd4c623ea12c", null ],
+    [ "set_BaseUri", "class_aspose_1_1_email_1_1_alternate_view.html#a563d032bda902400730869971fca52a2", null ],
+    [ "Aspose::Email::Calendar::Appointment", "class_aspose_1_1_email_1_1_alternate_view.html#a9efd909adb0dcb5984dbd5e905a07e14", null ],
+    [ "Aspose::Email::Calendar::Task", "class_aspose_1_1_email_1_1_alternate_view.html#add478e7b8e12be1c65186e377c1a4bc5", null ],
+    [ "Aspose::Email::Clients::Exchange::WebService::Implementation::Messages::Send::EwsClientMessageSend", "class_aspose_1_1_email_1_1_alternate_view.html#a4c37576e685baca409122cd7cf345694", null ],
+    [ "Aspose::Email::MailMessage", "class_aspose_1_1_email_1_1_alternate_view.html#a717a2e67f42449356f257d9adee588d6", null ],
+    [ "baseObject", "class_aspose_1_1_email_1_1_alternate_view.html#a040bb52d94f9b3d3e3224f98ce9e4a08", null ]
+];

@@ -1,0 +1,26 @@
+var class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set =
+[
+    [ "MapiContactOtherPropertySet", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a78e6f52525e577c9e97e809178b38efd", null ],
+    [ "MapiContactOtherPropertySet", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a3797640b3cd43ddcda4d03496326e777", null ],
+    [ "MapiContactOtherPropertySet", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a8f2b1e3703168968dabebfa7950d2922", null ],
+    [ "get_Journal", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a552010b8c5936a5f93839d31465b31e7", null ],
+    [ "get_Private", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a6889dca2f4293bf4bcfa90a6c2c02679", null ],
+    [ "get_ReminderTime", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#af7b076d6c532675d80a9f213e4366c3f", null ],
+    [ "get_ReminderTopic", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#aae407b675c753f03bbae4f5f46af5079", null ],
+    [ "get_UserField1", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#aba03def42a15c9a844be2cd895cd1212", null ],
+    [ "get_UserField2", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#ac12443e1a5cb2e48c2efc274f5f6d048", null ],
+    [ "get_UserField3", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#af6d4c5cf05d167196663f4177bcb7b81", null ],
+    [ "get_UserField4", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a749b5552a72c1a0f91cdb20437461a7e", null ],
+    [ "set_Journal", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#af84f125bb1e6920fea3e1affdf708da3", null ],
+    [ "set_Private", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#ad27eeb1015e6a0b3d6b346fd7c0212d4", null ],
+    [ "set_ReminderTime", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#ac776b478780de67eb515af582679d0cd", null ],
+    [ "set_ReminderTopic", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a6ad1195d5fe77325936a97e7b7df59f7", null ],
+    [ "set_UserField1", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#ab03c1133cccbdc3edad26de97d334859", null ],
+    [ "set_UserField2", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a9b1850c9d9bf5a79a49793cb5910234a", null ],
+    [ "set_UserField3", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a135b049d172d5b1d0f1df51452978eab", null ],
+    [ "set_UserField4", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a4a2a3396e639265a8af57763d3fdc5b9", null ],
+    [ "SetProperties", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#aca27d81d904ae1433049e3fcabcc3be7", null ],
+    [ "ToVCard", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a72868999a506351d31ec35a0886f78e6", null ],
+    [ "Aspose::Email::Mapi::MapiContact", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#a3ca47f6bbd8d135213cd181ba3f43963", null ],
+    [ "Aspose::Email::Tools::ContactConverter", "class_aspose_1_1_email_1_1_mapi_1_1_mapi_contact_other_property_set.html#ae2257b07c000d0033e72fa43ab9154c2", null ]
+];

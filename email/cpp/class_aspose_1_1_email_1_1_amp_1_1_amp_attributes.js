@@ -1,0 +1,26 @@
+var class_aspose_1_1_email_1_1_amp_1_1_amp_attributes =
+[
+    [ "AmpAttributes", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#acc58476dab6ed33fbbceac3002e3b305", null ],
+    [ "get_Height", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a18f14d82fb8aff15e6a08b207b7155cd", null ],
+    [ "get_Heigths", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a2b7222ec5615923584b0dd9160d8b0fc", null ],
+    [ "get_IsFallback", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a5cd584f12fdbf45a8014665a0af6bfe3", null ],
+    [ "get_IsNoloading", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a3e5824737cbd0a142dd11ed6817d6eeb", null ],
+    [ "get_IsPlaceHolder", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#ab941cb32af752ab334dd8f9ead202073", null ],
+    [ "get_Layout", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a651162f7fbab6cbc61a7f4c5ea453471", null ],
+    [ "get_Media", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a33f9b777bf33c3772379b2723464c377", null ],
+    [ "get_On", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#ac7a10453fe540e80aa5f47cc16a613a6", null ],
+    [ "get_Sizes", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#ae61bb6194863d9cccd081470e6216ba8", null ],
+    [ "get_Width", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a410dfe3bb5557e57dec63045e242d4a1", null ],
+    [ "set_Height", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#af3bb3020f3200b440c2cf41ef6d9cd05", null ],
+    [ "set_Heigths", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a2e6f7c161de3b106ffb68a15d114e4a8", null ],
+    [ "set_IsFallback", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#aa4850dfdbafd7fbb61830afd8de0c1b6", null ],
+    [ "set_IsNoloading", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a38abf64a2b4ecdb26231b872370d9f50", null ],
+    [ "set_IsPlaceHolder", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a535bc39cc97e1dd535d5ff26cbc1b734", null ],
+    [ "set_Layout", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a5b53ff0ad753cb4f6ab805d6a9f8b64c", null ],
+    [ "set_Media", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#aaeb9f6b56cd824984afc9b8a7ab7499b", null ],
+    [ "set_On", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#ad916721b8a0f4d10e175e6002d005f66", null ],
+    [ "set_Sizes", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#aaeb0d324cafdb0c063107561ae8ba56b", null ],
+    [ "set_Width", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#aea6c6801af2d1b83ec0b90367347c625", null ],
+    [ "ToAmpHtml", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#afdbae0a6bdf3db95f686e0bffb073843", null ],
+    [ "ToHtml", "class_aspose_1_1_email_1_1_amp_1_1_amp_attributes.html#a0dc204ca4d12a471adbce5c617bf0e9d", null ]
+];

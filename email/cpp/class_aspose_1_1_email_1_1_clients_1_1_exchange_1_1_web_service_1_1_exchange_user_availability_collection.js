@@ -1,0 +1,5 @@
+var class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_exchange_user_availability_collection =
+[
+    [ "~ExchangeUserAvailabilityCollection", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_exchange_user_availability_collection.html#ae4d8708268e33301942b6a3edaf753e8", null ],
+    [ "SetTemplateWeakPtr", "class_aspose_1_1_email_1_1_clients_1_1_exchange_1_1_web_service_1_1_exchange_user_availability_collection.html#ab2e62a9e2ef6efe850b59ad5dacabe8e", null ]
+];
