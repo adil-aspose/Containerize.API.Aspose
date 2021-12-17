@@ -1,0 +1,27 @@
+var class_aspose_1_1_cells_1_1_i_data_sorter =
+[
+    [ "AddKey", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a00496f014eae0b12a2e29f3ad7eb73ae", null ],
+    [ "AddKey", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a94aadb90241329c02c0152c40bbf70d2", null ],
+    [ "Clear", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a449e33becfdc3b3c0c52d97e375c5e39", null ],
+    [ "GetCaseSensitive", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a9b864ad4ee4e7afec5d651b3e9931abb", null ],
+    [ "GetKey1", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a155f13175412e1b2ca11ff2e75a74c49", null ],
+    [ "GetKey2", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a676f7ce0e834f9f89e9e6d5f299519cf", null ],
+    [ "GetKey3", "class_aspose_1_1_cells_1_1_i_data_sorter.html#ac4e4901611792c7618e35d627975caee", null ],
+    [ "GetOrder1", "class_aspose_1_1_cells_1_1_i_data_sorter.html#af25d2b02586bd7cfd32ca90084350888", null ],
+    [ "GetOrder2", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a4be8c56dc3d4ff92a605a609a5f53bb4", null ],
+    [ "GetOrder3", "class_aspose_1_1_cells_1_1_i_data_sorter.html#ab72c6cfe7039e8f308dbc3515af61ca8", null ],
+    [ "GetSortLeftToRight", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a7baf124bae796df132259d4bf645e701", null ],
+    [ "HasHeaders", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a60a9d040240bd633e5bdde0e095adee7", null ],
+    [ "SetCaseSensitive", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a251e5ff0e787fa077d7c7d89261c4215", null ],
+    [ "SetHasHeaders", "class_aspose_1_1_cells_1_1_i_data_sorter.html#aad336d439c5f42a96b5af8aab087045d", null ],
+    [ "SetKey1", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a1985bec5532596e5825648b2ba40a544", null ],
+    [ "SetKey2", "class_aspose_1_1_cells_1_1_i_data_sorter.html#ac320a4237d95317aa86ce10d106dedff", null ],
+    [ "SetKey3", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a83d11f73ae5daa644fbe53d32e8c0d9a", null ],
+    [ "SetOrder1", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a4b83791738ee5ab76b1aaeb9a13792ec", null ],
+    [ "SetOrder2", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a82f795731feeb59a84514a66e9a84fa6", null ],
+    [ "SetOrder3", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a83dfc9ecc0f112a347c8c92463988d07", null ],
+    [ "SetSortLeftToRight", "class_aspose_1_1_cells_1_1_i_data_sorter.html#a1f03deb5298cb66502092938ae325fb3", null ],
+    [ "Sort", "class_aspose_1_1_cells_1_1_i_data_sorter.html#aa832825540d2ebed25dc2de4fcdc278b", null ],
+    [ "Sort", "class_aspose_1_1_cells_1_1_i_data_sorter.html#aaf4f6d1a9fd002dca163ad774eb5bc83", null ],
+    [ "Sort", "class_aspose_1_1_cells_1_1_i_data_sorter.html#ac499fe2ec4a767870429887db071f4e0", null ]
+];

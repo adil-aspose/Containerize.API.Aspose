@@ -1,0 +1,28 @@
+var class_aspose_1_1_cells_1_1_i_format_condition =
+[
+    [ "GetFormula1", "class_aspose_1_1_cells_1_1_i_format_condition.html#abc96df210a1888964f7d1b473f89605f", null ],
+    [ "GetFormula1", "class_aspose_1_1_cells_1_1_i_format_condition.html#a5a72ca1f73ebf91f364e4df3838ac58f", null ],
+    [ "GetFormula2", "class_aspose_1_1_cells_1_1_i_format_condition.html#a2cdb5e8aed1179e2881c16a12c7a0d8a", null ],
+    [ "GetFormula2", "class_aspose_1_1_cells_1_1_i_format_condition.html#ae46b875159f724be061a1851227b88ad", null ],
+    [ "GetIAboveAverage", "class_aspose_1_1_cells_1_1_i_format_condition.html#aff550fd834cd78967ec440492ff012d5", null ],
+    [ "GetIColorScale", "class_aspose_1_1_cells_1_1_i_format_condition.html#a3348a7c447dc564ceabc22c9c89bd6f5", null ],
+    [ "GetIDataBar", "class_aspose_1_1_cells_1_1_i_format_condition.html#a4415a87833c41386ed1595e742485e07", null ],
+    [ "GetIIconSet", "class_aspose_1_1_cells_1_1_i_format_condition.html#a011b2c7dbaaf671819d09f5d1df865e3", null ],
+    [ "GetIStyle", "class_aspose_1_1_cells_1_1_i_format_condition.html#ae6d8b04a509981680bec8bff56b95adc", null ],
+    [ "GetITop10", "class_aspose_1_1_cells_1_1_i_format_condition.html#a64388aaf1b43811f5ee1ee3090c9bd4a", null ],
+    [ "GetOperator", "class_aspose_1_1_cells_1_1_i_format_condition.html#a33cffefbbe558e8f835b6349dae53311", null ],
+    [ "GetPriority", "class_aspose_1_1_cells_1_1_i_format_condition.html#a733bb0306633ac186f6682395dae7535", null ],
+    [ "GetStopIfTrue", "class_aspose_1_1_cells_1_1_i_format_condition.html#a970f93c780e8fa2a98645e13f583a57c", null ],
+    [ "GetText", "class_aspose_1_1_cells_1_1_i_format_condition.html#a98af7776aa938132e55f649ffde7ea94", null ],
+    [ "GetTimePeriod", "class_aspose_1_1_cells_1_1_i_format_condition.html#a1ab8db4c0efb459473972537201c0ffe", null ],
+    [ "GetType", "class_aspose_1_1_cells_1_1_i_format_condition.html#abd39e5d880db1f803894288b4fb0e6dd", null ],
+    [ "SetFormula1", "class_aspose_1_1_cells_1_1_i_format_condition.html#aa81a6456ee65b5bf3d0aa5dd33900ee0", null ],
+    [ "SetFormula2", "class_aspose_1_1_cells_1_1_i_format_condition.html#a9943c7d7440f96059a0c848169f324cb", null ],
+    [ "SetIStyle", "class_aspose_1_1_cells_1_1_i_format_condition.html#ab6f747b77b50e1e0a8ad642727e7d09d", null ],
+    [ "SetOperator", "class_aspose_1_1_cells_1_1_i_format_condition.html#a169b7e03313765ef4678c5a93ad1be2d", null ],
+    [ "SetPriority", "class_aspose_1_1_cells_1_1_i_format_condition.html#ac6faa8c85986a6ffe66b25d9f2478a99", null ],
+    [ "SetStopIfTrue", "class_aspose_1_1_cells_1_1_i_format_condition.html#ac1169f2380c68d5eebf5d823c40fc3d0", null ],
+    [ "SetText", "class_aspose_1_1_cells_1_1_i_format_condition.html#a4df0a4e5ed6043c3cbc3647218ddbd8f", null ],
+    [ "SetTimePeriod", "class_aspose_1_1_cells_1_1_i_format_condition.html#aad6b29bcc7126fdda0c31abb4a6f24ed", null ],
+    [ "SetType", "class_aspose_1_1_cells_1_1_i_format_condition.html#abeb4147fd6673ac93d43f0817695d200", null ]
+];
