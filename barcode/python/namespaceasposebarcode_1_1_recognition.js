@@ -1,0 +1,25 @@
+var namespaceasposebarcode_1_1_recognition =
+[
+    [ "BarCodeReader", "classasposebarcode_1_1_recognition_1_1_bar_code_reader.html", "classasposebarcode_1_1_recognition_1_1_bar_code_reader" ],
+    [ "Quadrangle", "classasposebarcode_1_1_recognition_1_1_quadrangle.html", "classasposebarcode_1_1_recognition_1_1_quadrangle" ],
+    [ "QRExtendedParameters", "classasposebarcode_1_1_recognition_1_1_q_r_extended_parameters.html", "classasposebarcode_1_1_recognition_1_1_q_r_extended_parameters" ],
+    [ "Pdf417ExtendedParameters", "classasposebarcode_1_1_recognition_1_1_pdf417_extended_parameters.html", "classasposebarcode_1_1_recognition_1_1_pdf417_extended_parameters" ],
+    [ "OneDExtendedParameters", "classasposebarcode_1_1_recognition_1_1_one_d_extended_parameters.html", "classasposebarcode_1_1_recognition_1_1_one_d_extended_parameters" ],
+    [ "Code128ExtendedParameters", "classasposebarcode_1_1_recognition_1_1_code128_extended_parameters.html", "classasposebarcode_1_1_recognition_1_1_code128_extended_parameters" ],
+    [ "BarcodeSvmDetectorSettings", "classasposebarcode_1_1_recognition_1_1_barcode_svm_detector_settings.html", "classasposebarcode_1_1_recognition_1_1_barcode_svm_detector_settings" ],
+    [ "BarCodeResult", "classasposebarcode_1_1_recognition_1_1_bar_code_result.html", "classasposebarcode_1_1_recognition_1_1_bar_code_result" ],
+    [ "BarCodeRegionParameters", "classasposebarcode_1_1_recognition_1_1_bar_code_region_parameters.html", "classasposebarcode_1_1_recognition_1_1_bar_code_region_parameters" ],
+    [ "BarCodeExtendedParameters", "classasposebarcode_1_1_recognition_1_1_bar_code_extended_parameters.html", "classasposebarcode_1_1_recognition_1_1_bar_code_extended_parameters" ],
+    [ "QualitySettings", "classasposebarcode_1_1_recognition_1_1_quality_settings.html", "classasposebarcode_1_1_recognition_1_1_quality_settings" ],
+    [ "Code128DataPortion", "classasposebarcode_1_1_recognition_1_1_code128_data_portion.html", "classasposebarcode_1_1_recognition_1_1_code128_data_portion" ],
+    [ "DataBarExtendedParameters", "classasposebarcode_1_1_recognition_1_1_data_bar_extended_parameters.html", "classasposebarcode_1_1_recognition_1_1_data_bar_extended_parameters" ],
+    [ "AustraliaPostSettings", "classasposebarcode_1_1_recognition_1_1_australia_post_settings.html", "classasposebarcode_1_1_recognition_1_1_australia_post_settings" ],
+    [ "BarcodeSettings", "classasposebarcode_1_1_recognition_1_1_barcode_settings.html", "classasposebarcode_1_1_recognition_1_1_barcode_settings" ],
+    [ "RecognitionAbortedException", "classasposebarcode_1_1_recognition_1_1_recognition_aborted_exception.html", "classasposebarcode_1_1_recognition_1_1_recognition_aborted_exception" ],
+    [ "DecodeType", "classasposebarcode_1_1_recognition_1_1_decode_type.html", null ],
+    [ "Code128SubType", "classasposebarcode_1_1_recognition_1_1_code128_sub_type.html", null ],
+    [ "CustomerInformationInterpretingType", "classasposebarcode_1_1_recognition_1_1_customer_information_interpreting_type.html", null ],
+    [ "BarCodeConfidence", "classasposebarcode_1_1_recognition_1_1_bar_code_confidence.html", null ],
+    [ "ChecksumValidation", "classasposebarcode_1_1_recognition_1_1_checksum_validation.html", null ],
+    [ "is_array", "namespaceasposebarcode_1_1_recognition.html#a254be3a1f46aa320d979f81d15b009d0", null ]
+];

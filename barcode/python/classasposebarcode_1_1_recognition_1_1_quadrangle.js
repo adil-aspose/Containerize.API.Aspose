@@ -1,0 +1,26 @@
+var classasposebarcode_1_1_recognition_1_1_quadrangle =
+[
+    [ "__init__", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#af6881907f52c7b3903abaf067eab17e5", null ],
+    [ "contains", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a91e752ac06d6cb1678566662aa765aa0", null ],
+    [ "containsPoint", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#ada3cae8dd9751fde11e157df8efac32a", null ],
+    [ "containsQuadrangle", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a57aafb08710ef567800edf7149126f76", null ],
+    [ "containsRectangle", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a7749fac7c2961e983566cafcab2616a6", null ],
+    [ "equals", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#af47ee546900c39699cef48dfb2b665af", null ],
+    [ "getBoundingRectangle", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#acd3f5d5d3c5b9d4ffba7acba7dfd2f07", null ],
+    [ "getLeftBottom", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#aff974d742f869bbc722a5e78bb2a7a7f", null ],
+    [ "getLeftTop", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a483072cf6bcd1a28b13bfeee2c987399", null ],
+    [ "getRightBottom", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a995f4f2d45c02a15da063f2227b7df97", null ],
+    [ "getRightTop", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a25b834f67e4271032fd7dc8852822ca9", null ],
+    [ "hashCode", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a7c55d463026a8dd5ed0ad6513c7098cf", null ],
+    [ "init", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#abd001811d44d1e24632a3cb79008dcbd", null ],
+    [ "isEmpty", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a93346f45f00cbd6938719c616f033dbd", null ],
+    [ "setLeftBottom", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a6d605af80c25a9265e68cfc12ca89957", null ],
+    [ "setLeftTop", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#ad4af561616d17b2dae1618063294b45e", null ],
+    [ "setRightBottom", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#ac9042996e14bac94152312174b103524", null ],
+    [ "setRightTop", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a65fb33107215aa77a6fcda7d5ba2ca85", null ],
+    [ "toString", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#add1ae82026c9a80372aac0dec721cddf", null ],
+    [ "leftBottom", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a6d7672c4c154b078cad275c7f7dc54b2", null ],
+    [ "leftTop", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#a6af7b10969408447d35ee2d7aac9e430", null ],
+    [ "rightBottom", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#abc4a39843075e5bcd8d4d9c1f5eeacf3", null ],
+    [ "rightTop", "classasposebarcode_1_1_recognition_1_1_quadrangle.html#ac66eb3bbf160b51522b38e8807d740b1", null ]
+];
